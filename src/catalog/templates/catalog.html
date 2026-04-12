@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Board Game Catalog</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+</head>
+<body>
+  {% for page_cards in pages %}
+  <div class="page" style="page-break-after: always;">
+    {% for card in page_cards %}
+    {% include 'card_fragment.html' %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+</body>
+</html>

@@ -1,0 +1,23 @@
+# Board Game Catalog Card Generator — dependencies
+# Install with: pip install -r requirements-catalog.txt
+# For Playwright browser: playwright install chromium
+
+# Rendering
+playwright==1.58.0
+weasyprint==68.1
+
+# Templating
+Jinja2>=3.1.0
+
+# Image processing
+Pillow>=10.0.0
+requests>=2.31.0
+
+# Measurement / QA
+scikit-image>=0.22.0
+numpy>=1.24.0
+colormath>=3.0.0
+PyMuPDF>=1.23.0
+
+# Optional: pdf2image fallback (requires poppler system package)
+# pdf2image>=1.17.0

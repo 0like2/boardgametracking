@@ -1,0 +1,125 @@
+{# card_fragment.html — pure substitution, no logic #}
+<div class="card">
+  <div class="trim-marks"><span></span></div>
+  <div class="card-inner">
+
+    {# Box art and overlay #}
+    <div class="card-art" style="background-image: url('{{ card.image_path if card else image_path }}');"></div>
+    <div class="card-overlay"></div>
+
+    {# Translations & value fallbacks #}
+    {% set ext_raw = card.expansion_label or expansion_label or '' %}
+    {% set ext = '확장판' if ext_raw else '' %}
+    {% set designer_text = card.designers_display or card.designer or designer or '' %}
+    {% set cat = card.categories_display or card.categories_kr or categories_kr or '' %}
+    {% set kr_name = card.name_kr or name_kr or '' %}
+    {% set en_name = card.name_en or name_en or '' %}
+    
+    {% set w_pct = card.weight_gauge_pct or card.weight_pct or weight_pct or 0 %}
+    {% set r_pct = card.rating_gauge_pct or card.rating_pct or rating_pct or 0 %}
+    {% set w_val = card.weight_text or card.weight or weight or '' %}
+    {% set r_val = card.rating_text or card.rating or rating or '' %}
+    {% set shelf_v = card.shelf_text or card.shelf or shelf or '' %}
+    
+    {% set pl_raw = card.players_text or card.players or players or '' %}
+    {% set pl = pl_raw|string|replace('-', '~')|replace('인', '') ~ '인' if pl_raw else '' %}
+    
+    {% set best_pl_raw = card.best_players_text or card.best or best or '' %}
+    {% set best_pl = best_pl_raw|string|replace('Best ', '추천: ')|replace('-', '~')|replace('인', '') ~ '인' if best_pl_raw else '' %}
+    
+    {% set tm_raw = card.time_text or card.time or time or '' %}
+    {% set tm = tm_raw|string|replace('-', '~')|replace("'", "")|replace("분", "") ~ '분' if tm_raw else '' %}
+    
+    {% set bgg_raw = card.bgg_id_text or card.bgg_id or bgg_id or '' %}
+    {% set bgg = bgg_raw if 'ID:' in bgg_raw|string else ('ID: ' ~ bgg_raw) %}
+    
+    {% set mechs = card.mechanics_display_list or (cat.split(' · ') if cat else []) %}
+    {% set loc_clean = shelf_v|replace('📍 ', '') %}
+
+    {# Card content area #}
+    <div class="card-content">
+      
+      {# Titles (Overlapping the image) #}
+      <div class="title-area">
+        <div class="title-desc">{{ cat }}</div>
+        <div class="title-kr">{{ kr_name }}</div>
+        <div class="title-en">{{ en_name }}</div>
+      </div>
+
+      {# Bottom solid grey block #}
+      <div class="bottom-block">
+        {# Stats (difficulty/rating) and location #}
+        <div class="stats-area">
+          <div class="gauges-col">
+            <div class="gauge-row">
+              <span class="stat-label">난이도</span>
+              <div class="gauge-bar-wrapper">
+                <div class="gauge-scale"><span>0</span><span>1</span><span>2</span><span>3</span><span>4</span><span>5</span></div>
+                <div class="bar-container">
+                  <div class="bar-fill bar-orange" style="width: {{ w_pct }}%;"></div>
+                </div>
+              </div>
+              <span class="stat-num orange">{{ w_val }}</span>
+            </div>
+
+            <div class="gauge-row">
+              <span class="stat-label">평점</span>
+              <div class="gauge-bar-wrapper">
+                <div class="gauge-scale"><span>0</span><span>2</span><span>4</span><span>6</span><span>8</span><span>10</span></div>
+                <div class="bar-container">
+                  <div class="bar-fill bar-yellow" style="width: {{ r_pct }}%;"></div>
+                </div>
+              </div>
+              <span class="stat-num yellow">{{ r_val }}</span>
+            </div>
+          </div>
+          
+          <div class="location-col">
+            <span class="loc-label">위치</span>
+            <span class="loc-val {{ 'loc-' + loc_clean[0]|lower if loc_clean else '' }}">{{ loc_clean }}</span>
+          </div>
+        </div>
+
+        {# Info grid #}
+        <div class="info-grid">
+          <div class="info-cell">
+             <div class="info-icon"><img src="{{ icons_path }}/players.svg" alt="players"></div>
+             <div class="info-title">인원</div>
+             <div class="info-val">{{ pl }}</div>
+             <div class="info-sub">{% if best_pl_raw %}({{ best_pl }}){% endif %}</div>
+          </div>
+          <div class="info-cell info-cell-border">
+             <div class="info-icon"><img src="{{ icons_path }}/mechanic.svg" alt="mechanic"></div>
+             <div class="info-title">메커니즘</div>
+             <div class="mechanism-tags">
+                 {% for m in mechs %}
+                 <span>{{ m }}</span>
+                 {% endfor %}
+             </div>
+          </div>
+          <div class="info-cell info-cell-border">
+             <div class="info-icon"><img src="{{ icons_path }}/time.svg" alt="time"></div>
+             <div class="info-title">시간</div>
+             <div class="info-val">{{ tm }}</div>
+             <div class="info-sub">{% if card.weight_text %}비대칭{% endif %}</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {# Top Expansion banner and Designer #}
+    {% if ext %}
+    <div class="expansion-banner">
+      <span class="expansion-text">{{ ext }}</span>
+    </div>
+    {% endif %}
+    <div class="designer-top">{{ designer_text }}</div>
+
+    {# Footer #}
+    <div class="card-footer-new">
+      <div class="footer-id">{{ bgg }}</div>
+      <div class="footer-logo">SNUCNS BGM</div>
+    </div>
+
+  </div>{# /.card-inner #}
+</div>{# /.card #}

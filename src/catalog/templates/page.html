@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Board Game Catalog — Phase 0 Spike</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+</head>
+<body>
+  <div class="page">
+    {% for card in cards %}
+    {% include 'card_fragment.html' %}
+    {% endfor %}
+  </div>
+</body>
+</html>

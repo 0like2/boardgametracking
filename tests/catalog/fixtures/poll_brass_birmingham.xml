@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Brass: Birmingham poll — Best 3 and 4 both pass strict test → "3-4" -->
+<poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="1823">
+    <results numplayers="1">
+        <result value="Best" numvotes="3"/>
+        <result value="Recommended" numvotes="52"/>
+        <result value="Not Recommended" numvotes="898"/>
+    </results>
+    <results numplayers="2">
+        <result value="Best" numvotes="233"/>
+        <result value="Recommended" numvotes="698"/>
+        <result value="Not Recommended" numvotes="203"/>
+    </results>
+    <results numplayers="3">
+        <result value="Best" numvotes="892"/>
+        <result value="Recommended" numvotes="612"/>
+        <result value="Not Recommended" numvotes="43"/>
+    </results>
+    <results numplayers="4">
+        <result value="Best" numvotes="756"/>
+        <result value="Recommended" numvotes="612"/>
+        <result value="Not Recommended" numvotes="98"/>
+    </results>
+    <results numplayers="5+">
+        <result value="Best" numvotes="1"/>
+        <result value="Recommended" numvotes="3"/>
+        <result value="Not Recommended" numvotes="942"/>
+    </results>
+</poll>

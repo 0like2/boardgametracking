@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Minimal valid XML with no statistics block and sparse fields -->
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse">
+    <item type="boardgame" id="99999">
+        <thumbnail>//cf.geekdo-images.com/minimal_thumb.jpg</thumbnail>
+        <image>//cf.geekdo-images.com/minimal_image.jpg</image>
+        <name type="primary" sortindex="1" value="Minimal Test Game"/>
+        <yearpublished value="2020"/>
+        <minplayers value="2"/>
+        <maxplayers value="2"/>
+        <poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="0">
+        </poll>
+        <minplaytime value="30"/>
+        <maxplaytime value="30"/>
+        <playingtime value="30"/>
+        <minage value="8"/>
+    </item>
+</items>

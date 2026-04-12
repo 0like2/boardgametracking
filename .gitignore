@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.db
+.env
+config.yaml
+venv/
+.idea/
+
+# macOS
+.DS_Store
+
+# Data & cache
+cache/
+inputs/
+output/
+*.png
+*.pdf
+
+# OMC (oh-my-claudecode)
+.omc/
+
+# pytest
+.pytest_cache/

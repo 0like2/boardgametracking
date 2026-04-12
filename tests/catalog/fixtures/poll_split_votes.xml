@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- No player count passes the strict Best > Rec + NotRec test → None -->
+<poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="200">
+    <results numplayers="2">
+        <result value="Best" numvotes="60"/>
+        <result value="Recommended" numvotes="80"/>
+        <result value="Not Recommended" numvotes="10"/>
+    </results>
+    <results numplayers="3">
+        <result value="Best" numvotes="50"/>
+        <result value="Recommended" numvotes="50"/>
+        <result value="Not Recommended" numvotes="10"/>
+    </results>
+    <results numplayers="4">
+        <result value="Best" numvotes="40"/>
+        <result value="Recommended" numvotes="60"/>
+        <result value="Not Recommended" numvotes="20"/>
+    </results>
+</poll>

@@ -1,0 +1,27 @@
+# 보드라이프 중고거래 알림 서비스 설정
+
+# 알림 설정 (사용하지 않는 채널은 enabled: false로 비활성화)
+discord:
+  enabled: true
+  webhook_url: "YOUR_DISCORD_WEBHOOK_URL_HERE"
+
+email:
+  enabled: true
+  smtp_host: "smtp.gmail.com"
+  smtp_port: 587
+  sender_email: "YOUR_EMAIL@gmail.com"
+  sender_password: "YOUR_APP_PASSWORD_HERE"
+  receiver_email: "YOUR_EMAIL@gmail.com"
+
+scraping:
+  url: "https://boardlife.co.kr/bbs_list.php?tb=board_used"
+  interval_minutes: 30
+  user_agent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+
+keywords:
+  - "버건디의 성"
+  - "글룸헤이븐"
+  - "브라스"
+
+database:
+  path: "boardgame_tracker.db"

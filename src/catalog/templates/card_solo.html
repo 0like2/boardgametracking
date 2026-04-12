@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ card.name_kr }}</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+  <style>
+    /* Single card render — body is exactly the card size, no margin, no trim marks */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 63mm;
+      height: 88mm;
+      background: #111111;
+      overflow: hidden;
+    }
+    .page { display: block; width: 63mm; height: 88mm; padding: 0; margin: 0; }
+    .trim-marks { display: none !important; }
+    .card {
+      border-radius: 0 !important;
+      margin: 0 !important;
+    }
+    .card-inner {
+      border-radius: 0 !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    {% include 'card_fragment.html' %}
+  </div>
+</body>
+</html>

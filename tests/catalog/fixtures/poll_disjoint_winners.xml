@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Non-contiguous winners: 2 and 5 both pass. 5 has more Best votes → "5" -->
+<poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="500">
+    <results numplayers="2">
+        <result value="Best" numvotes="150"/>
+        <result value="Recommended" numvotes="60"/>
+        <result value="Not Recommended" numvotes="30"/>
+    </results>
+    <results numplayers="3">
+        <result value="Best" numvotes="40"/>
+        <result value="Recommended" numvotes="100"/>
+        <result value="Not Recommended" numvotes="20"/>
+    </results>
+    <results numplayers="4">
+        <result value="Best" numvotes="50"/>
+        <result value="Recommended" numvotes="120"/>
+        <result value="Not Recommended" numvotes="30"/>
+    </results>
+    <results numplayers="5">
+        <result value="Best" numvotes="200"/>
+        <result value="Recommended" numvotes="80"/>
+        <result value="Not Recommended" numvotes="10"/>
+    </results>
+</poll>

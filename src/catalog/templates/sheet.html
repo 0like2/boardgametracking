@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Catalog Sheet</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+  <style>
+    /* 3x3 sheet: body is exactly 189x264mm, cards touch with zero gap */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 189mm;
+      height: 264mm;
+      background: #111111;
+      overflow: hidden;
+    }
+    .sheet {
+      width: 189mm;
+      height: 264mm;
+      display: grid;
+      grid-template-columns: repeat(3, 63mm);
+      grid-template-rows: repeat(3, 88mm);
+      gap: 0 !important;
+      margin: 0;
+      padding: 0;
+    }
+    .trim-marks { display: none !important; }
+    .card {
+      border-radius: 0 !important;
+      margin: 0 !important;
+    }
+    .card-inner {
+      border-radius: 0 !important;
+    }
+  </style>
+</head>
+<body>
+  <div class="sheet">
+    {% for card in cards %}
+      {% include 'card_fragment.html' %}
+    {% endfor %}
+  </div>
+</body>
+</html>

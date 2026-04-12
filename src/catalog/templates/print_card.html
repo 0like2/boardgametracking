@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ card.name_kr }}</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+  <style>
+    /* Single card rendered at print size ({{ card_w_mm }} × {{ card_h_mm }} mm) */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: {{ card_w_mm }}mm;
+      height: {{ card_h_mm }}mm;
+      background: #111111;
+      overflow: hidden;
+    }
+    .print-slot {
+      width: {{ card_w_mm }}mm;
+      height: {{ card_h_mm }}mm;
+      overflow: hidden;
+      position: relative;
+      background: #111111;
+    }
+    .print-slot > .card {
+      transform-origin: top left;
+      transform: scale({{ scale_str }});
+      border-radius: 0 !important;
+      margin: 0 !important;
+    }
+    .print-slot > .card .card-inner {
+      border-radius: 0 !important;
+    }
+    .trim-marks { display: none !important; }
+  </style>
+</head>
+<body>
+  <div class="print-slot">
+    {% include 'card_fragment.html' %}
+  </div>
+</body>
+</html>

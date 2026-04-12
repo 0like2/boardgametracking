@@ -1,0 +1,222 @@
+/* ============================================================
+   Board Game Catalog Card Styles
+   ============================================================ */
+
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../assets/fonts/Pretendard-Black.woff2') format('woff2');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../assets/fonts/Pretendard-SemiBold.woff2') format('woff2');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'Pretendard';
+  src: url('../assets/fonts/Pretendard-Regular.woff2') format('woff2');
+  font-weight: 400;
+}
+
+@page { size: A4; margin: 0; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: 210mm;
+  height: 297mm;
+  background: #f5f5f5;
+  font-family: 'Pretendard', sans-serif;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.page {
+  width: 210mm;
+  height: 297mm;
+  display: grid;
+  grid-template-columns: repeat(3, 63mm);
+  grid-template-rows: repeat(3, 88mm);
+  gap: 5mm;
+  padding: 10mm 5mm;
+  background: #f0f0f0;
+  align-content: start;
+  justify-content: center;
+}
+
+.card {
+  width: 63mm;
+  height: 88mm;
+  position: relative;
+  background: #111111;
+  border-radius: 2.5px;
+  overflow: visible;
+  flex-shrink: 0;
+}
+
+.trim-marks { position: absolute; inset: -2mm; pointer-events: none; z-index: 100; }
+.trim-marks::before { content: ''; position: absolute; top: 2mm; left: 0; width: 1.5mm; height: 0.25px; background: #999; }
+.trim-marks::after { content: ''; position: absolute; top: 0; left: 2mm; width: 0.25px; height: 1.5mm; background: #999; }
+.trim-marks span::before { content: ''; position: absolute; bottom: 2mm; right: 0; width: 1.5mm; height: 0.25px; background: #999; }
+.trim-marks span::after { content: ''; position: absolute; bottom: 0; right: 2mm; width: 0.25px; height: 1.5mm; background: #999; }
+
+.card-inner {
+  position: absolute;
+  inset: 0;
+  border-radius: 2.5px;
+  overflow: hidden;
+  background: #252525;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-art {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 56%; /* Extends behind the titles */
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.card-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 56%;
+  background: linear-gradient(to bottom, transparent 30%, rgba(37,37,37,0.8) 75%, rgba(37,37,37,1) 100%);
+  z-index: 2;
+}
+
+/* Expansion & Designer */
+.expansion-banner {
+  position: absolute;
+  top: 3.5mm; left: 3.5mm;
+  background: rgba(69, 44, 115, 1);
+  border-radius: 0.8mm;
+  padding: 0.6mm 1.4mm;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+}
+.expansion-text { 
+  font-weight: 600; 
+  font-size: 3.2pt; 
+  color: #ffffff; 
+}
+
+.designer-top {
+  position: absolute;
+  top: 3.5mm; left: 0; right: 0;
+  text-align: center; font-weight: 400; font-size: 3.2pt; color: #ffffff;
+  letter-spacing: 0.15em; text-transform: uppercase; z-index: 10;
+}
+
+/* Base content layer over image */
+.card-content {
+  position: absolute;
+  inset: 0 0 4.5mm 0; /* Excludes footer */
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Title Area strictly attached to the image portion/above the gray block */
+.title-area {
+  margin-top: auto; /* Pushes everything below this naturally, and itself sits above bottom-block */
+  padding: 0 4.5mm 1.5mm 4.5mm;
+  display: flex;
+  flex-direction: column;
+}
+
+.title-desc { font-weight: 400; font-size: 3.5pt; color: #cccccc; margin-bottom: 0.5mm; }
+.title-kr { font-weight: 900; font-size: 8.5pt; color: #ffffff; line-height: 1.1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.title-en { font-weight: 400; font-size: 4.8pt; color: #f7ca6d; margin-top: 0.5mm; text-transform: uppercase; letter-spacing: 0.08em; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* The Bottom Solid Grey Block */
+.bottom-block {
+  background: #252525;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5mm 4.5mm 1.5mm 4.5mm;
+}
+
+/* Stats (Gauges and Location) */
+.stats-area {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center; /* Vertically center location with gauges */
+  margin-bottom: 1.5mm; /* Compact gap! */
+}
+
+.gauges-col {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5mm;
+}
+
+.gauge-row {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.stat-label { width: 7.5mm; font-size: 3.5pt; color: #aaaaaa; }
+.gauge-bar-wrapper { display: flex; flex-direction: column; width: 14mm; }
+.gauge-scale { display: flex; flex-direction: row; justify-content: space-between; width: 100%; font-size: 2.2pt; color: #999999; margin-bottom: 0.2mm; line-height: 1; }
+
+.bar-container { width: 100%; height: 1mm; background: #444444; border-radius: 0.5mm; position: relative; }
+.bar-fill { position: absolute; top: 0; left: 0; bottom: 0; border-radius: 0.5mm; }
+.bar-orange { background: #ff7a00; }
+.bar-yellow { background: #f5b400; }
+.bar-fill::after {
+  content: ''; position: absolute; right: -1mm; top: 50%; transform: translateY(-50%);
+  width: 2mm; height: 2mm; border-radius: 50%; z-index: 5;
+}
+.bar-orange::after { background: #ff7a00; }
+.bar-yellow::after { background: #f5b400; }
+
+.stat-num { margin-left: 1.5mm; font-size: 4.5pt; font-weight: 900; width: 5.5mm; text-align: right; }
+.orange { color: #ff7a00; }
+.yellow { color: #f5b400; }
+
+.location-col {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1.5mm;
+}
+.loc-label { font-size: 4pt; color: #aaaaaa; }
+.loc-val { background: #396489; color: #ffffff; padding: 0.8mm 1.8mm; border-radius: 0.8mm; font-weight: 900; font-size: 5pt; }
+
+/* Info Grid */
+.info-grid {
+  display: flex;
+  flex-direction: row;
+  border-top: 0.5px solid #3a3a3a;
+  padding-top: 2.5mm;
+}
+.info-cell { flex: 1; display: flex; flex-direction: column; align-items: center; padding: 0 0.5mm; }
+.info-cell-border { border-left: 0.5px solid #3a3a3a; }
+
+.info-icon { width: 5.5mm; height: 5.5mm; margin-bottom: 1.2mm; opacity: 1; }
+.info-icon img, .info-icon svg { width: 100%; height: 100%; }
+
+.info-title { font-size: 3.5pt; color: #999999; margin-bottom: 0.8mm; }
+.info-val { font-size: 4.8pt; font-weight: 900; color: #ffffff; margin-bottom: 0.5mm; white-space: nowrap; }
+.info-sub { font-size: 3pt; color: #999999; }
+
+.mechanism-tags { display: flex; flex-direction: column; gap: 0.5mm; align-items: center; width: 100%; }
+.mechanism-tags span { font-size: 3.5pt; background: #333333; color: #eeeeee; padding: 0.6mm 1.5mm; border-radius: 1mm; line-height: 1.1; max-width: 100%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+/* Footer */
+.card-footer-new {
+  position: absolute;
+  bottom: 0; left: 0; right: 0; height: 4.5mm;
+  background: #181818;
+  display: flex; flex-direction: row; justify-content: space-between; align-items: center;
+  padding: 0 4.5mm; border-top: 1px solid #2a2a2a;
+}
+.footer-id { font-size: 2.8pt; color: #666666; font-weight: 400; }
+.footer-logo { font-size: 2.8pt; color: #555555; font-weight: 600; letter-spacing: 0.05em; }

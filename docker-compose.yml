@@ -1,0 +1,13 @@
+services:
+  tracker:
+    build: .
+    container_name: boardgame-tracker
+    restart: unless-stopped
+    volumes:
+      - ./config.yaml:/app/config.yaml:ro
+      - tracker-data:/app/data
+    environment:
+      - TZ=Asia/Seoul
+
+volumes:
+  tracker-data:

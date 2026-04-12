@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Print Sheet</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+  <style>
+    /*
+     * Print-ready sheet:
+     *   paper  = {{ paper_w_mm }} × {{ paper_h_mm }} mm ({{ paper_name }})
+     *   card   = {{ card_w_mm }} × {{ card_h_mm }} mm (native 63×88, scaled ×{{ scale_str }})
+     *   layout = {{ cols }} × {{ rows }}
+     *   gap    = 0 mm (cards touch; seam doubles as cut line)
+     */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: {{ paper_w_mm }}mm;
+      height: {{ paper_h_mm }}mm;
+      background: #111111;
+      overflow: hidden;
+    }
+    .print-sheet {
+      width: {{ paper_w_mm }}mm;
+      height: {{ paper_h_mm }}mm;
+      padding: {{ pad_top_mm }}mm 0 0 {{ pad_left_mm }}mm;
+      box-sizing: border-box;
+      display: grid;
+      grid-template-columns: repeat({{ cols }}, {{ card_w_mm }}mm);
+      grid-template-rows: repeat({{ rows }}, {{ card_h_mm }}mm);
+      gap: 0 !important;
+    }
+    .print-slot {
+      width: {{ card_w_mm }}mm;
+      height: {{ card_h_mm }}mm;
+      overflow: hidden;
+      position: relative;
+      background: #111111;
+    }
+    .print-slot > .card {
+      transform-origin: top left;
+      transform: scale({{ scale_str }});
+      border-radius: 0 !important;
+      margin: 0 !important;
+    }
+    .print-slot > .card .card-inner {
+      border-radius: 0 !important;
+    }
+    .trim-marks { display: none !important; }
+  </style>
+</head>
+<body>
+  <div class="print-sheet">
+    {% for card in cards %}
+      <div class="print-slot">
+        {% include 'card_fragment.html' %}
+      </div>
+    {% endfor %}
+    {# Fill empty slots with empty dark boxes so the grid doesn't collapse #}
+    {% for _ in range(empty_slots) %}
+      <div class="print-slot"></div>
+    {% endfor %}
+  </div>
+</body>
+</html>

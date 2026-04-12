@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Only player count 3 passes strict test → "3" -->
+<poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="300">
+    <results numplayers="2">
+        <result value="Best" numvotes="40"/>
+        <result value="Recommended" numvotes="100"/>
+        <result value="Not Recommended" numvotes="20"/>
+    </results>
+    <results numplayers="3">
+        <result value="Best" numvotes="200"/>
+        <result value="Recommended" numvotes="80"/>
+        <result value="Not Recommended" numvotes="10"/>
+    </results>
+    <results numplayers="4">
+        <result value="Best" numvotes="30"/>
+        <result value="Recommended" numvotes="80"/>
+        <result value="Not Recommended" numvotes="50"/>
+    </results>
+</poll>

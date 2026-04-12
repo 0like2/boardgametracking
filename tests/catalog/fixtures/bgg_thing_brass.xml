@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse" pubdate="Mon, 07 Apr 2026 00:00:00 +0000">
+    <item type="boardgame" id="224517">
+        <thumbnail>//cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__thumb/img/abcdef.jpg</thumbnail>
+        <image>//cf.geekdo-images.com/x3zxjr-Vw5iU4yDPg70Jgw__original/img/abcdef.jpg</image>
+        <name type="primary" sortindex="1" value="Brass: Birmingham"/>
+        <name type="alternate" sortindex="1" value="브라스: 버밍엄"/>
+        <description>Brass: Birmingham is an economic strategy game...</description>
+        <yearpublished value="2018"/>
+        <minplayers value="2"/>
+        <maxplayers value="4"/>
+        <poll name="suggested_numplayers" title="User Suggested: # Players" totalvotes="1823">
+            <results numplayers="1">
+                <result value="Best" numvotes="3"/>
+                <result value="Recommended" numvotes="52"/>
+                <result value="Not Recommended" numvotes="898"/>
+            </results>
+            <results numplayers="2">
+                <result value="Best" numvotes="233"/>
+                <result value="Recommended" numvotes="698"/>
+                <result value="Not Recommended" numvotes="203"/>
+            </results>
+            <results numplayers="3">
+                <result value="Best" numvotes="892"/>
+                <result value="Recommended" numvotes="612"/>
+                <result value="Not Recommended" numvotes="43"/>
+            </results>
+            <results numplayers="4">
+                <result value="Best" numvotes="756"/>
+                <result value="Recommended" numvotes="612"/>
+                <result value="Not Recommended" numvotes="98"/>
+            </results>
+            <results numplayers="5+">
+                <result value="Best" numvotes="1"/>
+                <result value="Recommended" numvotes="3"/>
+                <result value="Not Recommended" numvotes="942"/>
+            </results>
+        </poll>
+        <poll name="language_dependence" title="Language Dependence" totalvotes="120">
+            <results>
+                <result level="1" value="No necessary in-game text" numvotes="98"/>
+                <result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="15"/>
+                <result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="5"/>
+                <result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1"/>
+                <result level="5" value="Unplayable in another language" numvotes="1"/>
+            </results>
+        </poll>
+        <minplaytime value="60"/>
+        <maxplaytime value="120"/>
+        <playingtime value="120"/>
+        <minage value="14"/>
+        <link type="boardgamecategory" id="1021" value="Economic"/>
+        <link type="boardgamecategory" id="1088" value="Industry / Manufacturing"/>
+        <link type="boardgamemechanic" id="2041" value="Network and Route Building"/>
+        <link type="boardgamemechanic" id="2004" value="Set Collection"/>
+        <link type="boardgamemechanic" id="2082" value="Worker Placement"/>
+        <link type="boardgamedesigner" id="98" value="Gavan Brown"/>
+        <link type="boardgamedesigner" id="14057" value="Matt Tolman"/>
+        <link type="boardgamedesigner" id="4303" value="Martin Wallace"/>
+        <statistics page="1">
+            <ratings>
+                <usersrated value="53241"/>
+                <average value="8.678"/>
+                <bayesaverage value="8.584"/>
+                <averageweight value="3.89"/>
+                <numweights value="8012"/>
+            </ratings>
+        </statistics>
+    </item>
+</items>

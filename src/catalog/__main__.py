@@ -24,6 +24,7 @@ from src.catalog.image_export import (
     export_print_cards,
     export_print_sheets,
     export_sheet_images,
+    mirror_back_images,
 )
 from src.catalog.loader import load_games
 from src.catalog.models import GameData, GameInput
@@ -60,6 +61,7 @@ def _build_pipeline(
     print_card_h_mm: float = 138.0,
     images_dir: Path | None = None,
     skip_pdf: bool = False,
+    mirror_back: bool = False,
 ) -> int:
     """Run the full build pipeline. Returns exit code (0=success)."""
 
@@ -123,6 +125,9 @@ def _build_pipeline(
                 translator=translator,
             )
             print(f"Card images: {len(paths)} → {card_dir}")
+            if mirror_back:
+                backs = mirror_back_images(paths, card_dir / "back")
+                print(f"Card backs (mirrored): {len(backs)} → {card_dir / 'back'}")
 
         if emit_sheet_images:
             sheet_dir = img_root / "sheets"
@@ -134,6 +139,9 @@ def _build_pipeline(
                 translator=translator,
             )
             print(f"Sheet images: {len(paths)} → {sheet_dir}")
+            if mirror_back:
+                backs = mirror_back_images(paths, sheet_dir / "back")
+                print(f"Sheet backs (mirrored): {len(backs)} → {sheet_dir / 'back'}")
 
         if emit_print_cards:
             pcard_dir = img_root / "print_cards"
@@ -150,6 +158,9 @@ def _build_pipeline(
                 f"Print cards: {len(paths)} × "
                 f"{print_card_w_mm:g}×{print_card_h_mm:g}mm → {pcard_dir}"
             )
+            if mirror_back:
+                backs = mirror_back_images(paths, pcard_dir / "back")
+                print(f"Print card backs (mirrored): {len(backs)} → {pcard_dir / 'back'}")
 
         if emit_print_sheets:
             print_dir = img_root / "print_sheets"
@@ -167,6 +178,9 @@ def _build_pipeline(
                 f"Print sheets: {len(paths)} × "
                 f"{print_paper} ({print_card_w_mm:g}×{print_card_h_mm:g}mm) → {print_dir}"
             )
+            if mirror_back:
+                backs = mirror_back_images(paths, print_dir / "back")
+                print(f"Print sheet backs (mirrored): {len(backs)} → {print_dir / 'back'}")
 
     # --- Missing translations report -------------------------------------
     missing = translator.missing_terms()
@@ -245,6 +259,7 @@ def cmd_build(args: argparse.Namespace) -> int:
         print_card_h_mm=args.print_card_h,
         images_dir=Path(args.images_dir) if args.images_dir else None,
         skip_pdf=args.no_pdf,
+        mirror_back=args.mirror_back,
     )
 
 
@@ -421,6 +436,14 @@ def _build_parser() -> argparse.ArgumentParser:
         action="store_true",
         default=False,
         help="Skip PDF rendering (useful with --images)",
+    )
+    p_build.add_argument(
+        "--mirror-back",
+        action="store_true",
+        default=False,
+        dest="mirror_back",
+        help="Also emit left-right mirrored 'back' copies of each image set "
+        "for double-sided printing (saved under a back/ subfolder)",
     )
 
     # preview

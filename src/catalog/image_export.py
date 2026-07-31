@@ -342,6 +342,34 @@ def export_sheet_images(
     return [dest for _, dest in bundles]
 
 
+def mirror_back_images(
+    paths: list[Path],
+    output_dir: Path,
+) -> list[Path]:
+    """Write horizontally-flipped (mirror) copies for double-sided printing.
+
+    When you duplex-print cards whose back is meant to look identical to the
+    front, the back sheet must be left-right mirrored so that — after the
+    paper is physically flipped along its vertical edge — every card lines up
+    with its front. This produces those mirrored backs.
+
+    Each source PNG ``001_foo.png`` becomes ``001_foo_back.png`` under
+    ``output_dir``. Returns the list of written paths.
+    """
+    from PIL import Image
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+    written: list[Path] = []
+    for src in paths:
+        with Image.open(src) as im:
+            flipped = im.transpose(Image.Transpose.FLIP_LEFT_RIGHT)
+            dest = output_dir / f"{src.stem}_back{src.suffix}"
+            flipped.save(dest)
+        written.append(dest)
+        print(f"  [back] {dest.name}", file=sys.stderr)
+    return written
+
+
 async def _screenshot_pages(
     jobs: list[tuple[Path, Path, tuple[int, int]]],
 ) -> None:

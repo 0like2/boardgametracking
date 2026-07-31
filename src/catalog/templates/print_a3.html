@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>A3 Print Sheets</title>
+  <link rel="stylesheet" href="{{ styles_path }}">
+  <style>
+    /*
+     * Print-shop A3 sheets, 3×3 enlarged cards, black background, 2mm bleed.
+     *   media = {{ media_w_mm }} × {{ media_h_mm }} mm  (trim + 2mm bleed all sides)
+     *   trim  = {{ trim_w_mm }} × {{ trim_h_mm }} mm  (A3)
+     *   card  = {{ card_w_mm }} × {{ card_h_mm }} mm  (native 63×88 scaled ×{{ scale_str }})
+     *   mirror = {{ mirror }}  (true → whole sheet flipped L-R for duplex backs)
+     */
+    @page { size: {{ media_w_mm }}mm {{ media_h_mm }}mm; margin: 0; }
+    html, body { margin: 0; padding: 0; background: #000000; }
+
+    .sheet {
+      width: {{ media_w_mm }}mm;
+      height: {{ media_h_mm }}mm;
+      background: #000000;
+      box-sizing: border-box;
+      display: grid;
+      grid-template-columns: repeat(3, {{ card_w_mm }}mm);
+      grid-template-rows: repeat(3, {{ card_h_mm }}mm);
+      gap: {{ gap_mm }}mm;
+      justify-content: center;
+      align-content: center;
+      overflow: hidden;
+      {% if mirror %}transform: scaleX(-1); transform-origin: 50% 50%;{% endif %}
+      page-break-after: always;
+    }
+    .sheet:last-child { page-break-after: auto; }
+
+    .slot {
+      width: {{ card_w_mm }}mm;
+      height: {{ card_h_mm }}mm;
+      overflow: hidden;
+      position: relative;
+      background: #000000;
+    }
+    .slot > .card {
+      transform-origin: top left;
+      transform: scale({{ scale_str }});
+      width: 63mm !important;
+      height: 88mm !important;
+      border-radius: 0 !important;
+      margin: 0 !important;
+    }
+    .slot > .card .card-inner { border-radius: 0 !important; }
+    .trim-marks { display: none !important; }
+  </style>
+</head>
+<body>
+  {% for sheet in sheets %}
+  <div class="sheet">
+    {% for card in sheet %}
+      <div class="slot">{% include 'card_fragment.html' %}</div>
+    {% endfor %}
+    {% for _ in range(9 - (sheet | length)) %}
+      <div class="slot"></div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</body>
+</html>

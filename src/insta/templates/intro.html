@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ game.nameKr }} 소개</title>
+    <link rel="stylesheet" href="base.css" />
+    <style>
+
+      .head {
+        padding: 0 56px;
+        margin-top: -150px;
+        position: relative;
+        z-index: 2;
+      }
+
+      .kicker {
+        margin-bottom: 12px;
+        font-size: 24px;
+        font-weight: 600;
+        color: var(--ink-dim);
+      }
+
+      .intro {
+        margin: 26px 56px 0;
+        font-size: 30px;
+        line-height: 1.55;
+        color: var(--ink-dim);
+        word-break: keep-all;
+        display: -webkit-box;
+        -webkit-line-clamp: {{ intro_lines }};
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .tags {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin: 26px 56px 0;
+      }
+
+      .tag {
+        padding: 11px 22px;
+        border-radius: 999px;
+        background: var(--panel-2);
+        font-size: 23px;
+        color: var(--ink-dim);
+      }
+
+      .spacer {
+        flex: 1 1 auto;
+        min-height: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="post">
+      <div class="art" style="background-image: url('{{ cover_url }}')">
+        <div class="art-top">
+          <span class="eyebrow solid-accent">GAME GUIDE</span>
+          {% if game.rank %}
+          <span class="eyebrow tnum">보드라이프 {{ "{:,}".format(game.rank) }}위</span>
+          {% endif %}
+        </div>
+      </div>
+
+      <div class="head">
+        {% if kicker %}<div class="kicker">{{ kicker }}</div>{% endif %}
+        <div class="title-kr{% if game.nameKr|length > 12 %} small{% endif %}">
+          {{ game.nameKr }}
+        </div>
+        <div class="title-en">{{ game.nameEn }}</div>
+      </div>
+
+      {% if intro %}
+      <div class="intro">{{ intro }}</div>
+      {% endif %}
+
+      {% if tags %}
+      <div class="tags">
+        {% for t in tags %}<span class="tag">{{ t }}</span>{% endfor %}
+      </div>
+      {% endif %}
+
+      <div class="stat-strip">
+        <div class="stat">
+          <div class="stat-label">인원</div>
+          <div class="stat-value tnum">{{ players_text }}</div>
+          <div class="stat-sub">{{ best_text }}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">시간</div>
+          <div class="stat-value tnum">{{ time_text }}</div>
+          <div class="stat-sub">{{ age_text }}</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">난이도</div>
+          <div class="stat-value tnum v-weight">{{ weight_text }}</div>
+          <div class="stat-sub">5점 만점</div>
+        </div>
+        <div class="stat">
+          <div class="stat-label">평점</div>
+          <div class="stat-value tnum v-rating">{{ rating_text }}</div>
+          <div class="stat-sub">보드라이프</div>
+        </div>
+      </div>
+
+      <div class="footer">
+        <span>{{ brand }}</span>
+        <span>{{ handle }}</span>
+      </div>
+    </div>
+  </body>
+</html>

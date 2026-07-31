@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ game.nameKr }} 간단 규칙</title>
+    <link rel="stylesheet" href="base.css" />
+    <style>
+
+      .head {
+        padding: 0 56px;
+        margin-top: -112px;
+        position: relative;
+        z-index: 2;
+      }
+
+      .steps {
+        margin: 34px 56px 0;
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+      }
+
+      .step {
+        display: flex;
+        gap: 22px;
+        align-items: flex-start;
+        padding: 22px 26px;
+        border-radius: 22px;
+        background: var(--panel);
+        border: 2px solid var(--line);
+      }
+
+      .num {
+        flex: 0 0 auto;
+        width: 52px;
+        height: 52px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 999px;
+        background: var(--weight);
+        color: #000;
+        font-size: 26px;
+        font-weight: 900;
+      }
+
+      .step-body {
+        min-width: 0;
+        flex: 1 1 auto;
+      }
+
+      .step-title {
+        font-size: 31px;
+        font-weight: 900;
+        line-height: 1.25;
+      }
+
+      .step-desc {
+        margin-top: 7px;
+        font-size: 25px;
+        line-height: 1.45;
+        color: var(--ink-dim);
+        word-break: keep-all;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+
+      .win {
+        margin: 24px 56px 0;
+        padding: 24px 28px;
+        border-radius: 22px;
+        background: rgba(255, 193, 7, 0.1);
+        border: 2px solid rgba(255, 193, 7, 0.4);
+      }
+
+      .win-label {
+        font-size: 21px;
+        font-weight: 600;
+        letter-spacing: 0.08em;
+        color: var(--rating);
+      }
+
+      .win-text {
+        margin-top: 8px;
+        font-size: 29px;
+        line-height: 1.45;
+        word-break: keep-all;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="post">
+      <div class="art" style="background-image: url('{{ cover_url }}')">
+        <div class="art-top">
+          <span class="eyebrow solid-weight">HOW TO PLAY</span>
+          <span class="eyebrow tnum">{{ players_text }} · {{ time_text }}</span>
+        </div>
+      </div>
+
+      <div class="head">
+        <div class="title-kr small">{{ game.nameKr }}</div>
+        <div class="title-en">간단 규칙</div>
+      </div>
+
+      <div class="steps">
+        {% for s in steps %}
+        <div class="step">
+          <span class="num">{{ loop.index }}</span>
+          <div class="step-body">
+            <div class="step-title">{{ s.title }}</div>
+            {% if s.desc %}<div class="step-desc">{{ s.desc }}</div>{% endif %}
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+
+      {% if win %}
+      <div class="win">
+        <div class="win-label">승리 조건</div>
+        <div class="win-text">{{ win }}</div>
+      </div>
+      {% endif %}
+
+      <div class="footer">
+        <span>{{ brand }}</span>
+        <span>{{ handle }}</span>
+      </div>
+    </div>
+  </body>
+</html>

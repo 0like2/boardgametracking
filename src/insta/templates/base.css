@@ -1,0 +1,231 @@
+/* ============================================================
+   Instagram feed posts — 1080 × 1350 (4:5)
+   Same palette as the printed cards so the feed and the deck match.
+   ============================================================ */
+
+@font-face {
+  font-family: "Pretendard";
+  src: url("fonts/Pretendard-Black.woff2") format("woff2");
+  font-weight: 900;
+}
+@font-face {
+  font-family: "Pretendard";
+  src: url("fonts/Pretendard-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Pretendard";
+  src: url("fonts/Pretendard-Regular.woff2") format("woff2");
+  font-weight: 400;
+}
+
+:root {
+  --bg: #0e0f11;
+  --panel: #17191c;
+  --panel-2: #1f2226;
+  --line: #2b2f35;
+  --ink: #f2f4f7;
+  --ink-dim: #a3abb6;
+  --ink-faint: #6d7681;
+  --weight: #f7861f;
+  --rating: #ffc107;
+  --accent: #4a9eff;
+  --gold: #ffc94a;
+  --silver: #c9d1d9;
+  --bronze: #cd8b5f;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 1080px;
+  height: 1350px;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Pretendard", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.post {
+  position: relative;
+  width: 1080px;
+  height: 1350px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/*
+ * Flex children shrink by default, which silently squashes the scoreboard and
+ * clips its last row instead of overflowing. Pinning every block except the
+ * spacer means too much content overflows .post, where the render script's
+ * scrollHeight check catches it.
+ */
+.post > *:not(.spacer):not(.art) {
+  flex: 0 0 auto;
+}
+
+/*
+ * The art absorbs whatever height the text and scoreboard leave over, so a
+ * 2-player log gets a big photo and a 6-player log gets a smaller one without
+ * any per-case tuning. Below min-height it overflows and the check fires.
+ */
+.art {
+  flex: 1 1 auto;
+  min-height: 300px;
+}
+
+/* --- shared bits --------------------------------------------------- */
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 9px 20px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--ink);
+}
+
+.eyebrow.solid-weight {
+  background: var(--weight);
+  color: #000;
+}
+.eyebrow.solid-accent {
+  background: var(--accent);
+  color: #fff;
+}
+
+.title-kr {
+  font-size: 76px;
+  font-weight: 900;
+  line-height: 1.04;
+  letter-spacing: -0.02em;
+}
+
+.title-kr.small {
+  font-size: 60px;
+}
+
+.title-en {
+  margin-top: 10px;
+  font-size: 27px;
+  font-weight: 600;
+  color: var(--rating);
+  letter-spacing: 0.01em;
+}
+
+.body-text {
+  font-size: 30px;
+  line-height: 1.55;
+  color: var(--ink);
+  word-break: keep-all;
+}
+
+.muted {
+  color: var(--ink-dim);
+}
+
+/* Numbers should line up in score columns. */
+.tnum {
+  font-variant-numeric: tabular-nums;
+}
+
+/* --- stat strip ----------------------------------------------------- */
+
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 2px solid var(--line);
+}
+
+.stat {
+  padding: 24px 12px 26px;
+  text-align: center;
+  border-right: 2px solid var(--line);
+}
+.stat:last-child {
+  border-right: 0;
+}
+
+.stat-label {
+  font-size: 21px;
+  color: var(--ink-faint);
+}
+
+.stat-value {
+  margin-top: 6px;
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.stat-sub {
+  margin-top: 7px;
+  font-size: 19px;
+  color: var(--ink-faint);
+}
+
+.v-weight {
+  color: var(--weight);
+}
+.v-rating {
+  color: var(--rating);
+}
+
+/* --- footer --------------------------------------------------------- */
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 56px 30px;
+  font-size: 21px;
+  color: var(--ink-faint);
+  letter-spacing: 0.04em;
+}
+
+/* --- photo / art ----------------------------------------------------- */
+
+.art {
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.art::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    var(--bg) 0%,
+    rgba(14, 15, 17, 0.75) 22%,
+    rgba(14, 15, 17, 0.06) 58%,
+    rgba(14, 15, 17, 0.35) 100%
+  );
+}
+
+.art-top {
+  position: absolute;
+  top: 44px;
+  left: 56px;
+  right: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 2;
+}

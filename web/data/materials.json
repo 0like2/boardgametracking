@@ -1,0 +1,140 @@
+{
+  "11658": [
+    {
+      "kind": "참조표",
+      "label": "참조표 (긴쪽 양면)",
+      "file": "/materials/11658/참조표_참조표_(긴쪽_양면).pdf",
+      "size": 471276
+    },
+    {
+      "kind": "참조표",
+      "label": "참조표 (접는 버전)",
+      "file": "/materials/11658/참조표_참조표_(접는_버전).pdf",
+      "size": 481081
+    },
+    {
+      "kind": "참조표",
+      "label": "방패 확장 참조표",
+      "file": "/materials/11658/참조표_방패_확장_참조표.pdf",
+      "size": 188182
+    }
+  ],
+  "9450": [
+    {
+      "kind": "요약표",
+      "label": "룰 요약",
+      "file": "/materials/9450/요약표_룰_요약.pdf",
+      "size": 227632
+    },
+    {
+      "kind": "요약표",
+      "label": "규칙 ONE SHEET (xlsx)",
+      "file": "/materials/9450/요약표_규칙_ONE_SHEET_(xlsx).xlsx",
+      "size": 9373
+    }
+  ],
+  "10014": [
+    {
+      "kind": "요약표",
+      "label": "하는 법",
+      "file": "/materials/10014/요약표_하는_법.pdf",
+      "size": 1763762
+    },
+    {
+      "kind": "룰북",
+      "label": "정식 규칙 (나머지)",
+      "file": "/materials/10014/룰북_정식_규칙_(나머지).pdf",
+      "size": 204690
+    }
+  ],
+  "8569": [
+    {
+      "kind": "요약표",
+      "label": "룰 요약",
+      "file": "/materials/8569/요약표_룰_요약.pdf",
+      "size": 179703
+    },
+    {
+      "kind": "참조표",
+      "label": "참조표",
+      "file": "/materials/8569/참조표_참조표.pdf",
+      "size": 553333
+    },
+    {
+      "kind": "점수판",
+      "label": "점수표",
+      "file": "/materials/8569/점수판_점수표.pdf",
+      "size": 35552
+    },
+    {
+      "kind": "룰북",
+      "label": "한글 룰북",
+      "file": "/materials/8569/룰북_한글_룰북.pdf",
+      "size": 4885270
+    }
+  ],
+  "5679": [
+    {
+      "kind": "참조표",
+      "label": "카드 참조표",
+      "file": "/materials/5679/참조표_카드_참조표.jpg",
+      "size": 584371
+    },
+    {
+      "kind": "참조표",
+      "label": "캐릭터 참조표",
+      "file": "/materials/5679/참조표_캐릭터_참조표.jpg",
+      "size": 391933
+    }
+  ],
+  "2528": [
+    {
+      "kind": "참조표",
+      "label": "참조표 한글화",
+      "file": "/materials/2528/참조표_참조표_한글화.pdf",
+      "size": 397449
+    }
+  ],
+  "6501": [
+    {
+      "kind": "참조표",
+      "label": "리마인더",
+      "file": "/materials/6501/참조표_리마인더.pdf",
+      "size": 49277
+    }
+  ],
+  "5005": [
+    {
+      "kind": "기타",
+      "label": "Massive Darkness 크로스오버",
+      "file": "/materials/5005/기타_Massive_Darkness_크로스오버.pdf",
+      "size": 906139
+    }
+  ],
+  "15752": [
+    {
+      "kind": "개인판",
+      "label": "개인매트 1",
+      "file": "/materials/15752/개인판_개인매트_1.jpg",
+      "size": 895351
+    },
+    {
+      "kind": "개인판",
+      "label": "개인매트 2",
+      "file": "/materials/15752/개인판_개인매트_2.jpg",
+      "size": 923753
+    },
+    {
+      "kind": "개인판",
+      "label": "개인매트 3",
+      "file": "/materials/15752/개인판_개인매트_3.jpg",
+      "size": 898755
+    },
+    {
+      "kind": "개인판",
+      "label": "개인매트 4",
+      "file": "/materials/15752/개인판_개인매트_4.jpg",
+      "size": 978142
+    }
+  ]
+}

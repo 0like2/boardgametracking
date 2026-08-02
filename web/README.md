@@ -1,6 +1,6 @@
 # 보드게임 컬렉션
 
-소장 보드게임 109종 목록 · 자료실 · 대여 예약 / 모임 요청 · 플레이 카드 수집.
+소장 보드게임 122종 목록 · 자료실 · 대여 예약 / 모임 요청 · 플레이 카드 수집.
 
 Next.js 16 + Tailwind 4 + Supabase(선택). PWA로 홈화면에 설치할 수 있습니다.
 
@@ -37,7 +37,7 @@ HTML만 읽으므로 네트워크 없이 다시 돌릴 수 있습니다.
 ```bash
 cd ..
 source venv/bin/activate
-python export_web_data.py    # -> web/data/games.json (109종)
+python export_web_data.py    # -> web/data/games.json (122종)
 python build_materials.py    # -> web/public/materials/ + web/data/materials.json
 ```
 

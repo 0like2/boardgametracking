@@ -6772,5 +6772,724 @@
       }
     ],
     "boardlifeUrl": "https://boardlife.co.kr/game/19918"
+  },
+  {
+    "id": "19286",
+    "slug": "the-white-castle-matcha",
+    "bggId": null,
+    "nameKr": "백로성: 말차",
+    "nameEn": "The White Castle: Matcha",
+    "summary": "다도는 일본 문화의 핵심에 자리 잡고 있으며, 환대, 존경, 선(禪) 철학의 가장 본질적이고 근본적인 개념들을 구현합니다.",
+    "description": "다도는 일본 문화의 핵심에 자리 잡고 있으며, 환대, 존경, 선(禪) 철학의 가장 본질적이고 근본적인 개념들을 구현합니다. 일본에서는 13세기에 중국에서 전해진 차가 불교 승려들의 건강 문제를 해결해 주었다고 믿습니다. 세월이 흐르면서 다도는 사무라이들에게 전쟁터의 혼란에서 벗어나 평온을 찾을 수 있는 공간을 제공하는 문화로 발전했습니다. 백로성: 말차 에서는 가문의 새로운 구성원들을 활용하여 조정에 영향력을 행사해야 합니다. 다실(차시쓰)에 가문 구성원들을 배치하면 히메지 조정에서 더 큰 영향력을 행사할 수 있습니다. 또한, 매 라운드마다 추가 행동 한 번을 사용할 수 있습니다. 과연 이 모든 것이 충분할까요?",
+    "year": 2024,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 15188,
+    "minTime": 90,
+    "maxTime": 110,
+    "minAge": 12,
+    "weight": 3.31,
+    "rating": 7.7,
+    "gameType": "",
+    "categories": [
+      "주사위",
+      "경제",
+      "본판이 필요한 확장"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "솔로/솔로테어 게임",
+      "액션 드래프팅",
+      "주사위 일꾼 놓기",
+      "오픈 드래프팅"
+    ],
+    "designers": [
+      "Isra C.",
+      "Shei S."
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2024/10/12/1728681051-141384.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "백로성 프로모 3 한글화 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11149&gameId=19286&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "백로성 리마인드 참조 [말차확장포함]",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11625&gameId=19286&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19286"
+  },
+  {
+    "id": "4331",
+    "slug": "abraca-what",
+    "bggId": null,
+    "nameKr": "아브라카 왓?",
+    "nameEn": "Abraca...what?",
+    "summary": "",
+    "description": "",
+    "year": 2014,
+    "batch": "8월",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 721,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 7,
+    "weight": 1.64,
+    "rating": 7.0,
+    "gameType": "가족게임",
+    "categories": [
+      "추론"
+    ],
+    "mechanics": [
+      "운걸기",
+      "기억력",
+      "비대칭 정보가 있는 역할"
+    ],
+    "designers": [
+      "Gary Kim"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/01/17/1642351183613444_lg.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "여러가지 파티게임 간단 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11451&gameId=4331&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/4331"
+  },
+  {
+    "id": "15766",
+    "slug": "gang-of-dice",
+    "bggId": null,
+    "nameKr": "갱 오브 다이스",
+    "nameEn": "Gang of Dice",
+    "summary": "",
+    "description": "",
+    "year": 2022,
+    "batch": "8월",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 2234,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.17,
+    "rating": 6.2,
+    "gameType": "가족게임",
+    "categories": [
+      "주사위",
+      "파티 게임"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "킬 스틸"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2025/06/02/1748839496-135736.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/15766"
+  },
+  {
+    "id": "13682",
+    "slug": "cubitos",
+    "bggId": null,
+    "nameKr": "큐비토스",
+    "nameEn": "Cubitos",
+    "summary": "",
+    "description": "",
+    "year": 2020,
+    "batch": "8월",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 910,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 14,
+    "weight": 2.17,
+    "rating": 6.9,
+    "gameType": "가족게임",
+    "categories": [
+      "주사위",
+      "레이싱"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "운걸기",
+      "덱,백,풀 빌딩"
+    ],
+    "designers": [
+      "John D. Clair"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/01/29/1643434181567501_lg.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "참조표",
+        "label": "큐비토 카드 한글 참조표입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7500&gameId=13682&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13682"
+  },
+  {
+    "id": "9608",
+    "slug": "everdell",
+    "bggId": null,
+    "nameKr": "에버델",
+    "nameEn": "Everdell",
+    "summary": "에버델의 매력적인 계곡, 우뚝 솟은 나무 가지 아래, 구불구불한 개울과 이끼로 뒤덮인 구멍 사이에서 숲속 동물들의 문명이 번성하고 확장되고 있습니다.",
+    "description": "에버델의 매력적인 계곡, 우뚝 솟은 나무 가지 아래, 구불구불한 개울과 이끼로 뒤덮인 구멍 사이에서 숲속 동물들의 문명이 번성하고 확장되고 있습니다. 에버프로스트에서 벨송까지, 많은 세월이 지났지만 이제 새로운 영토에 정착하고 새로운 도시를 건설할 때가 왔습니다. 여러분은 바로 그 일을 하려는 동물 무리의 리더가 됩니다. 건설해야 할 건물, 생동감 넘치는 캐릭터, 주최해야 할 이벤트 등 바쁜 한 해가 기다리고 있습니다. 겨울 달이 뜨기 전에 여러분의 도시에 태양이 가장 밝게 빛날 수 있을까요? 에버델은 역동적으로 건물을 짓고 일꾼을 배치하는 게임입니다. 자신의 차례가 되면 플레이어는 다음 세 가지 행동 중 하나를 취할 수 있습니다: a) 일꾼을 배치합니다: 각 플레이어는 일꾼 조각 모음을 가지고 있습니다. 일꾼 조각은 보드의 위치, 이벤트, 목적지 카드에 놓습니다. 일꾼은 자원을 모으고, 카드를 뽑고, 다른 특별한 행동을 하는 등 플레이어의 전황을 발전시키기 위해 다양한 행동을 수행합니다. b) 카드 플레이: 각 플레이어는 최대 15장의 건설 및 동물 카드로 구성된 도시를 건설하고 도시를 채웁니다. 카드에는 다섯 가지 종류가 있습니다: 여행자, 생산, 목적지, 거버넌스, 번영의 다섯 가지 유형이 있습니다. 카드는 자원(나뭇가지, 수지, 자갈, 열매)을 생성하고, 능력을 부여하며, 궁극적으로 점수를 획득합니다. 카드의 상호 작용을 통해 수많은 전략과 거의 무한대에 가까운 다양한 도시를 건설할 수 있습니다. c) 다음 시즌을 준비합니다: 일꾼이 플레이어 공급품으로 반환되고 새로운 일꾼이 추가됩니다. 게임은 겨울부터 다음 겨울이 시작될 때까지 진행되며, 이 시점에서 가장 많은 점수를 획득한 도시를 가진 플레이어가 승리합니다.",
+    "year": 2018,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 136,
+    "minTime": 40,
+    "maxTime": 80,
+    "minAge": 13,
+    "weight": 2.83,
+    "rating": 7.7,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임",
+      "도시 건설",
+      "판타지",
+      "동물"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "셋 컬렉션",
+      "일꾼 놓기",
+      "게임 종료 보너스",
+      "수입"
+    ],
+    "designers": [
+      "James A. Wilson"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/03/09/1615275807-288666.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "에버델 팬메이드 커스텀 보드판",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12543&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "영원골 한글 규칙서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4739&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "에버델 규칙서/카드한글화/수집가판 추가규칙 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4924&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "에버델 한글 규칙서 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5237&gameId=9608&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "영원골 카드 한글자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4878&gameId=9608&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9608"
+  },
+  {
+    "id": "9737",
+    "slug": "the-quacks-of-quedlinburg",
+    "bggId": null,
+    "nameKr": "크베들린부르크의 돌팔이 약장수",
+    "nameEn": "The Quacks of Quedlinburg",
+    "summary": "돌팔 약장(The Quacks of Quedlinburg) 운과 확률 시험하는 빌딩(Bag Building) 게임이다. 1. 개요 인원: 2~4 (확장 포함 5).",
+    "description": "돌팔 약장(The Quacks of Quedlinburg) 운과 확률 시험하는  빌딩(Bag Building) 게임이다. 1. 개요 인원: 2~4 (확장 포함  5). 승리 조건: 9라운 종료  승점 가 높 사람 승리한다. 2. 핵심 규칙 채우: 주머니에 약재 칩을 하나 꺼내 자신  판에 놓는. 칩의 숫자만큼 전진하여 배치한다. 폭발 조건: 흰색 약재() 칩의 숫자 합이 7 초과하면 솥이 폭발한다. 폭발하기 전에 멈출지,  뽑을지 결정해야 한다. 구매  전진: 멈춘 지점의 숫자 따라  약재 칩을 구매하거 승점 획득한다. 3. 솥이 폭발했을 때의 불이n솥이 폭발하면 다음  가지  하나 선택  있다. 승점 획득: 이번 라운드에 도달 칸의 승점 받는. ( 구매 불) 구매: 이번 라운드에 도달 칸의 비용으로  칩을 산다. (승점 획득 불) 4. 주요 요소 약재 효과: 칩의 색상(빨강, 노랑, 파랑 )마다 고유 특수 능력 있다. 어떤 조합으로 주머니를 채우느냐가 전략 핵심이다. 쥐꼬: 점수가 뒤처 플레이어에게 주는 보정 수치. 선두와 점수 차이 따라 솥의 시작 위치 앞당겨. 점술 카드:  라운 시작  공통으로 적용되는 이벤트다. 5. 핵심 전략 초반에는 흰색 칩의 비중 낮추 위해 높 수치 유색 칩을 우선 구매한다. 주머 속의  구성 기억하고 폭발 확률 계산하며 멈출 타이밍 잡아 한다.",
+    "year": 2018,
+    "batch": "8월",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 161,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 10,
+    "weight": 1.94,
+    "rating": 7.6,
+    "gameType": "가족게임",
+    "categories": [
+      "중세"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "운걸기",
+      "동시 액션 선택",
+      "덱,백,풀 빌딩",
+      "이벤트"
+    ],
+    "designers": [
+      "Wolfgang Warsch"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/01/25/1611516824-522927.png",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "[팬메이드] 돌팔이약장수 비대칭 시작 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11409&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "퀘틀린부르크의 약장수 : 허브마녀들 <성분 책, 허브마녀 디자인편집>",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5518&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "돌팔이 약장수 확장 : 허브 마녀들 <자료 한글화>",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5520&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "퀘틀린부르크의 돌팔이 약장수 한글룰북/성분칩목록",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4745&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "DSP 2018 구디 박스 - 크베들린부르크의 돌팔이 약장수 프로모 규칙서 한국어 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6819&gameId=9737&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9737"
+  },
+  {
+    "id": "21843",
+    "slug": "01",
+    "bggId": null,
+    "nameKr": "미스터리 & 어드벤처 박스 01: 분가",
+    "nameEn": "미스터리 & 어드벤처 박스 01: 분가",
+    "summary": "",
+    "description": "",
+    "year": 2023,
+    "batch": "8월",
+    "minPlayers": 5,
+    "maxPlayers": 6,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 5027,
+    "minTime": 180,
+    "maxTime": 180,
+    "minAge": null,
+    "weight": null,
+    "rating": 7.0,
+    "gameType": "",
+    "categories": [
+      "살인/미스터리"
+    ],
+    "mechanics": [],
+    "designers": [],
+    "languageDependence": "-",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/02/24/1771859099-258167.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21843"
+  },
+  {
+    "id": "20696",
+    "slug": "moon-colony-bloodbath",
+    "bggId": null,
+    "nameKr": "문 콜로니 블러드배스",
+    "nameEn": "Moon Colony Bloodbath",
+    "summary": "달 위에 세워진 도시들! 이것은 인류 역사상 가장 위대한 업적이 될 것입니다. 마침내 우리는 지구에만 머무르지 않고, 달을 발판 삼아 별을 향해 나아갈 준비를 마쳤습니다.",
+    "description": "달 위에 세워진 도시들! 이것은 인류 역사상 가장 위대한 업적이 될 것입니다. 마침내 우리는 지구에만 머무르지 않고, 달을 발판 삼아 별을 향해 나아갈 준비를 마쳤습니다. 로켓에는 필수 보급품과 이주민들이 가득하고, 로봇들도 프로그램을 완료한 채 작동 준비를 마쳤습니다. 모든 것이 작은 부분 하나까지 철저히 계획되어 있으며, 실패란 있을 수 없습니다. 이제, 달을 향해 출발합시다! 문 콜로니 블러드배스 (Moon Colony Bloodbath)는 플레이어들이 함께 공유 덱을 만들어 사용하며, 달 식민지의 흥망성쇠를 경험하는 게임입니다. 게임에는 엔진을 구축하거나 잃게 만드는 사건들이 가득 담긴 이벤트 덱이 등장합니다. 이 사건들 중 상당수는 달 식민지의 주민들을 위험에 빠뜨리지만, 일부 사건은 긍정적 효과를 주거나 식민지를 발전시키는 데 도움을 줍니다. 구체적으로, 각 턴마다 공유 덱에서 한 장의 카드가 공개됩니다. 이 덱은 처음에 작업 카드 4장, 문제 카드 2장, 변화 카드 2장으로 구성됩니다. 작업 카드 가 나타나면 플레이어들은 동시에 다음 행동 중 하나를 선택합니다: 1) 돈을 벌기 위한 채굴 2) 식량 확보를 위한 농사 3) 새로운 카드를 얻기 위한 연구 4) 새 건물 건설하기 5) 건물에 상자 보급하기 변화 카드 는 매 게임마다 조금씩 다른 효과를 제공합니다. 문제 카드 는 덱에 새로운 사건 카드들을 추가합니다: 기아, 서류 작업의 난제, 설비 오작동, 갑작스러운 사고, 누출, 전력 공급 중단 등 가능한 모든 위기가 닥쳐옵니다. 덱이 다시 섞일 때마다 이런 사건들에 대비할 수 있어야 합니다. 플레이어들은 공유 덱에 카드를 추가하여 자신만을 위한 특수 혜택을 받거나, 모든 플레이어들에게 영향을 주는 발전 카드를 사용할 수도 있습니다. 게임은 한 플레이어의 달 식민지에 주민이 한 명도 남지 않거나 , 플레이어들이 이벤트 덱의 마지막 장까지 도달하면 끝 이 납니다. 이 시점에서 가장 많은 생존자를 보유한 플레이어가 승리 합니다.",
+    "year": 2025,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 2113,
+    "minTime": 45,
+    "maxTime": 90,
+    "minAge": null,
+    "weight": 2.17,
+    "rating": 6.3,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임"
+    ],
+    "mechanics": [
+      "이벤트"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/07/27/1785111648-336606.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "달 식민지 대학살 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12652&gameId=20696&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20696"
+  },
+  {
+    "id": "19923",
+    "slug": "fromage",
+    "bggId": null,
+    "nameKr": "프로마쥬",
+    "nameEn": "Fromage",
+    "summary": "당신은 20세기 초 프랑스의 치즈 장인으로, 수제 치즈를 만들고 숙성시키고 판매합니다. 성공적인 유제품 공장을 운영하고 최고의 치즈를 만들어 프랑스에서 가장 명망 있는 치…",
+    "description": "당신은 20세기 초 프랑스의 치즈 장인으로, 수제 치즈를 만들고 숙성시키고 판매합니다. 성공적인 유제품 공장을 운영하고 최고의 치즈를 만들어 프랑스에서 가장 명망 있는 치즈 장인이 되십시오. 프로마쥬 (Fromage)는 플레이어들이 일꾼을 배치하여 치즈를 만들고, 자신에게 주어진 보드 구역에서 자원을 수집하는 동시 일꾼 배치 게임입니다. 모든 플레이어가 일꾼을 배치하면 보드가 회전하여 생산된 치즈가 숙성되고, 각 플레이어는 새로운 구역에 일꾼을 배치하게 됩니다. 네 곳의 판매처에 치즈를 판매하고, 유제품 공장을 효율적으로 관리 및 업그레이드하여 명성 점수를 획득하세요.",
+    "year": 2024,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 694,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 14,
+    "weight": 2.38,
+    "rating": 7.0,
+    "gameType": "전략게임",
+    "categories": [
+      "경제",
+      "농업"
+    ],
+    "mechanics": [
+      "동시 액션 선택",
+      "일꾼 놓기",
+      "게임 종료 보너스",
+      "지역 최다 / 영향력",
+      "계약서"
+    ],
+    "designers": [
+      "Matthew O'Malley",
+      "Ben Rosset"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/07/16/1784181588-675125.jpg",
+    "cardImage": null,
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "FROMAGE 한국어 룰북 입니다. VER.2 수정본 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10077&gameId=19923&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "FROMAGE 한국어 룰북 VER2 입니다. 룰북 수정 및 업데이트.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10553&gameId=19923&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "Fromage (프로마쥬) 한국어 룰북 및 건물 타일 설명표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10645&gameId=19923&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19923"
+  },
+  {
+    "id": "20875",
+    "slug": "scholars-of-the-south-tigris-dismiss-promo-cards",
+    "bggId": null,
+    "nameKr": "남티그리스의 학자: 해고 프로모",
+    "nameEn": "Scholars of the South Tigris: Dismiss Promo Cards",
+    "summary": "「남티그리스의 학자」의 확장. 남티그리스의 학자 (Scholars of the South Tigris)는 아바스 칼리프 왕조 전성기인 서기…",
+    "description": "",
+    "year": 2024,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 21145,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 13,
+    "weight": null,
+    "rating": null,
+    "gameType": "",
+    "categories": [
+      "아라비안",
+      "본판이 필요한 확장",
+      "중세"
+    ],
+    "mechanics": [
+      "덱,백,풀 빌딩",
+      "주사위 일꾼 놓기"
+    ],
+    "designers": [
+      "Shem Phillips",
+      "S J Macdonald"
+    ],
+    "languageDependence": "-",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2025/05/03/1746252299-291713.jpg",
+    "cardImage": null,
+    "baseGame": "남티그리스의 학자",
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20875"
+  },
+  {
+    "id": "20874",
+    "slug": "scholars-of-the-south-tigris-translator-promo-cards",
+    "bggId": null,
+    "nameKr": "남티그리스의 학자: 번역가 프로모 카드",
+    "nameEn": "Scholars of the South Tigris: Translator Promo Cards",
+    "summary": "「남티그리스의 학자」의 확장. 남티그리스의 학자 (Scholars of the South Tigris)는 아바스 칼리프 왕조 전성기인 서기…",
+    "description": "",
+    "year": 2023,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 21144,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 13,
+    "weight": 3.0,
+    "rating": null,
+    "gameType": "",
+    "categories": [
+      "아라비안",
+      "본판이 필요한 확장",
+      "중세"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "덱,백,풀 빌딩",
+      "테크 트리 / 테크 트랙"
+    ],
+    "designers": [
+      "Shem Phillips",
+      "S J Macdonald"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2025/05/03/1746252219-725051.jpg",
+    "cardImage": null,
+    "baseGame": "남티그리스의 학자",
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20874"
+  },
+  {
+    "id": "20007",
+    "slug": "scholars-of-the-south-tigris-body-of-books",
+    "bggId": null,
+    "nameKr": "남티그리스의 학자: 의학서적",
+    "nameEn": "Scholars of the South Tigris: Body of Books",
+    "summary": "「남티그리스의 학자」의 확장. 남티그리스의 학자 (Scholars of the South Tigris)는 아바스 칼리프 왕조 전성기인 서기…",
+    "description": "",
+    "year": 2025,
+    "batch": "8월",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 16780,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 13,
+    "weight": 3.33,
+    "rating": 7.3,
+    "gameType": "",
+    "categories": [
+      "아라비안",
+      "본판이 필요한 확장",
+      "중세"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "핸드 관리",
+      "덱,백,풀 빌딩"
+    ],
+    "designers": [
+      "S J Macdonald"
+    ],
+    "languageDependence": "-",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2024/09/21/1726927710-608140.jpg",
+    "cardImage": null,
+    "baseGame": "남티그리스의 학자",
+    "boardlifeFiles": [
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "남티그리스의 학자들 확장 서책의 집대성 한글 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10765&gameId=20007&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20007"
+  },
+  {
+    "id": "11120",
+    "slug": "root-the-underworld-expansion",
+    "bggId": null,
+    "nameKr": "루트: 언더월드",
+    "nameEn": "Root: The Underworld Expansion",
+    "summary": "「루트」의 확장. 루트 (Root)는 2~4명('리버포크' 확장팩 사용 시 1~6명, '언더월드' 또는 '약탈자' 확장팩 사용…",
+    "description": "",
+    "year": 2020,
+    "batch": "8월",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 15289,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 10,
+    "weight": 3.63,
+    "rating": 7.0,
+    "gameType": "전략게임",
+    "categories": [
+      "판타지",
+      "동물",
+      "본판이 필요한 확장"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "핸드 관리",
+      "플레이어별 특수능력"
+    ],
+    "designers": [
+      "Patrick Leder",
+      "Cole Wehrle"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/06/02/165417774442704_lg.jpg",
+    "cardImage": null,
+    "baseGame": "루트",
+    "boardlifeFiles": [
+      {
+        "kind": "개인판",
+        "category": "한글화자료",
+        "label": "[루트] 언더월드 개인판 한글화 업데이트 + 두더지 카드 한글화 (루시에님 자료)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12931&gameId=11120&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "(루트 확장) 랜드마크 팩 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12513&gameId=11120&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "루트 언더월드 확장 pnp 종족보드 한글화 자료입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5683&gameId=11120&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "[내림]Root : Underworld Expansion (팩션 번역)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5552&gameId=11120&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "루트 Clockwork expansion: 기계 후작 2.0 PnP 자료 한국어화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6280&gameId=11120&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/11120"
   }
 ]

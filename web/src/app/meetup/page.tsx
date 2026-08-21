@@ -1,3 +1,6 @@
+import { notFound } from "next/navigation";
+
+import { SOCIAL } from "@/lib/site";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowLeft } from "lucide-react";
@@ -10,6 +13,8 @@ export const metadata: Metadata = {
 };
 
 export default function MeetupPage() {
+  if (!SOCIAL) notFound();
+
   return (
     <div className="mx-auto max-w-lg px-4 py-6">
       <Link

@@ -1,3 +1,6 @@
+import { notFound } from "next/navigation";
+
+import { SOCIAL } from "@/lib/site";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { CalendarPlus, PackageOpen } from "lucide-react";
@@ -43,6 +46,8 @@ function maskName(name: string): string {
 }
 
 export default async function RequestsPage() {
+  if (!SOCIAL) notFound();
+
   const supabase = serverSupabase();
 
   let rows: Row[] = [];

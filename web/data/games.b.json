@@ -1,0 +1,5213 @@
+[
+  {
+    "id": "622",
+    "slug": "cockroach-poker-royal",
+    "bggId": null,
+    "nameKr": "바퀴벌레 포커 로얄",
+    "nameEn": "Cockroach Poker Royal",
+    "summary": "",
+    "description": "",
+    "year": 2012,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      5
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 1008,
+    "minTime": 15,
+    "maxTime": 25,
+    "minAge": 8,
+    "weight": 1.14,
+    "rating": 6.8,
+    "gameType": "파티게임",
+    "categories": [
+      "블러핑",
+      "카드 게임"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "셋 컬렉션",
+      "한 명의 패자 게임"
+    ],
+    "designers": [
+      "Jacques Zeimet"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/02/18/1613639076-40431.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "바퀴벌레 듀얼 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8989&gameId=622&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/622"
+  },
+  {
+    "id": "17563",
+    "slug": "dixit-disney-edition",
+    "bggId": 381308,
+    "nameKr": "딕싯: 디즈니 에디션",
+    "nameEn": "Dixit: Disney Edition",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      6
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 830,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.11,
+    "rating": 6.9,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Jean-Louis Roubira"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/08/29/169323752894349_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17563"
+  },
+  {
+    "id": "535",
+    "slug": "bohnanza",
+    "bggId": 11,
+    "nameKr": "보난자",
+    "nameEn": "Bohnanza",
+    "summary": "콩을 재배하고, 작물을 수확하고, 거래를 통해 부를 쌓아보세요.",
+    "description": "보난(Bohnanza) 콩을 심고 수확하여 금화 버는 협상 위주 카드 게임이다. 1. 개요 인원: 2~7. 승리 조건: 게임 종료  금화(카드 뒷면)가 가 많 사람 승리한다. 2. 준n각자   2개를 할당받는. (3번째 밭 게임  구매 가) 주의: 손패 순서 절 바  없다. 먼 받 카드가 항상 앞에 있어 한다. 3. 게임 단계 심기: 손패  앞에 있는 카드 1장을 반드 자신 밭에 심어 한다. (원한다면  다음 카드 1  심을  있다.) 밭이  찼다 기존 콩을 강제 수확해야 한다. 시장 공개  거래: 카드 더미에서 2장을 오픈한다.  카드들을 자신 심거, 다른 플레이어와 협상하여 교환 또는 선물  있다. 이때 손패 있는 카드들도 거래 대상에 포함된다. 거래  심기: 거래 획득 콩들 즉시 자신 밭에 심는. 카드 보충: 카드 더미에서 카드 뽑아 손패  뒤에 추한다. 4. 수확 금화 밭에 심긴 콩의 수량 따라 카드 하단 적힌 ' 미터'만큼 금화 받는. 수확 카드  금화 개수만큼은 뒷면(금화 모양)으로 뒤집 보하고, 나머지 버린. 5. 주요 규칙 수확 제한: 콩이 2 이상 심겨 있는 밭이 있다, 1장만 심긴 밭 수확  없다. 거래 핵심:  손패 앞쪽 있는 원치 않는 콩을 처리하기 위해 상에게 무료 주는(선물) 전략 매우 중요하다. 6. 핵심 전략 자신 손패 순서 확인하고,  심어  콩을 남들에게 넘기거나 필요 콩을 미리 협상으로 구해와 한다. 가치 높 희 (: 보석)보다 자주 나오 (: 푸른) 여러  수확하는 것이 효율적일  있다.",
+    "year": 1997,
+    "batch": "",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      5
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 323,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 13,
+    "weight": 1.67,
+    "rating": 7.4,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/12/1641923933289906_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "보난자 (Bohnanza) 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11230&game=535"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "보난자(신판) 밭 카드버전 (5687크기 밭)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10631&game=535"
+      },
+      {
+        "kind": "개인판",
+        "category": "자료",
+        "label": "보난자 플레이매트(Bohnanza Playmat)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=839&game=535"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "보난자 한글 설명서 (기본판)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=744&game=535"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/535"
+  },
+  {
+    "id": "18625",
+    "slug": "da-vinci-code-plus",
+    "bggId": null,
+    "nameKr": "다빈치 코드 플러스",
+    "nameEn": "Da Vinci Code Plus",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2022,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 1867,
+    "minTime": 10,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.49,
+    "rating": 6.4,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Eiji Wakasugi"
+    ],
+    "languageDependence": null,
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2024/01/23/170600556674408_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/18625"
+  },
+  {
+    "id": "877",
+    "slug": "lectio",
+    "bggId": 19184,
+    "nameKr": "렉시오",
+    "nameEn": "Lectio",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2004,
+    "batch": "",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      5
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 462,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 8,
+    "weight": 1.92,
+    "rating": 7.2,
+    "gameType": "전략, 가족",
+    "categories": [
+      "전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "-"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1371129360-169894.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "렉시오 변형룰 응모 탈락 작품!!",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=420&game=877"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/877"
+  },
+  {
+    "id": "3046",
+    "slug": "hisss",
+    "bggId": 7708,
+    "nameKr": "서펜티나",
+    "nameEn": "Hisss",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2001,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 3192,
+    "minTime": 15,
+    "maxTime": 15,
+    "minAge": 4,
+    "weight": 1.02,
+    "rating": 5.7,
+    "gameType": "어린이",
+    "categories": [
+      "어린이"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Brigitte Pokornik"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/02/02/1643738758396557_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/3046"
+  },
+  {
+    "id": "2145",
+    "slug": "halli-galli",
+    "bggId": 2944,
+    "nameKr": "할리갈리",
+    "nameEn": "Halli Galli",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "할리갈리(Halli Galli) 이스라엘 게임 디자이너 Haim Shafir가 디자인하 독일 아미고 출판 카드 게임이다. 간단 규칙 빠른 진행으로 많 인기 얻고 있다. 한편 할리갈리 모방 게임들도 많편이. 할리갈리 게임 설명 할리갈리 과일 개수 계산하여 종을 치는 순발 게임이다. 1. 구성  준n구성: 과일 카드 56,  1. 준: 종을 중앙 두고 카드 인원수 나누 뒷면으로 쌓아둔다. 2. 진행 규칙 차대 자신 카드 더미   장을 앞면 보이 뒤집 바닥 내려놓는. 카드 뒤집 때는 상방이 먼   있도 바깥 방향으로 뒤집어야 한다. 이전 카드가 있다  위에 덮어 현재 공개 카드 유효하게 만든. 3.  치기  카드 획득 바닥 공개 특정 과일 합계가 정확 5개 되면 종을 친다. 가 먼 종을  사람 바닥 깔린 카드 모두 가져 자신 더미 아래 넣는. 인원수에 상없이  종류 과일이라 합계가 5가 되면 해당된다. 4. 오답  페널n과일 합계가 5가 아닌 종을 치면 실패 간주한다. 종을 잘못  사람은 벌칙으로 자신 카드 더미에서 카드  장씩 꺼내 다른 모든 플레이어에게 나눠준. 5. 게임 종료  승리 자신 카드 더미가 바닥나면 탈락한다. 최종적으 카드 가 많이 보유 사람 승리한다. 보통 2명이 남았  게임 멈추 카드 개수 확인한다.",
+    "year": 2003,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 2267,
+    "minTime": 10,
+    "maxTime": 10,
+    "minAge": 6,
+    "weight": 1.02,
+    "rating": 6.2,
+    "gameType": "어린이, 파티",
+    "categories": [
+      "어린이, 파티"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Haim Shafir"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/02/20/1645350272987784_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/2145"
+  },
+  {
+    "id": "2061",
+    "slug": "rummikub",
+    "bggId": 811,
+    "nameKr": "루미큐브",
+    "nameEn": "Rummikub",
+    "summary": "자신의 타일이 아니더라도 연속된 타일이나 세트를 만들어 모든 타일을 내려놓으세요!",
+    "description": "루미큐브(Rummikub) 숫자 타일을 조합하여 바닥 모두 내려놓는 세계적인 보드게임이다. 1. 개요 인원: 2~4. 승리 조건: 손패 타일을 가 먼 모두 소모하고 \"루미큐브\" 외치 사람 승리한다. 2. 타 구성 숫자 타: 1~13까 숫자가 4가지 색상(검, 빨강, 파랑, 주황)으로  2세트  104 있다. 조커 타: 어떤 숫자 색상으로 대 가능한 조커가 2 있다. 3. 게임 규칙 등록 ( ): 처음 타일을 내릴 때는 반드 타 숫자 합이 30 이상이어 한다. 이를 '등록'이라 하며, 등록 전에 바닥 타일을 건드  없다. 세트 구성: 등록 이후에는 다음  가지 조합으로 타일을 내릴  있다. 그룹 (Group): 숫자 같 색상 모두 다른 타 3 또는 4. 연속 (Run): 색상은 같고 숫자가 연속되는 타 3 이상. 타 가져오:  타일이 없거 내기 싫다 주머니에 타 1개를 가져오 차 마친. 4. 숫자 조합 (조합 묘미) 이미 바닥 깔린 타일들 분리하거 재조합하  손의 타일을 붙일  있다. , 차 마칠  바닥 모든 타 세트 반드 3 이상 규칙 유해야 한다. 분리: 1-2-3-4-5에서 4 떼어내어  손의 4-4와 합쳐 4-4-4 그룹 만드 식이. 치환: 조커가 포함 세트 실제 숫자 채워 넣고 조커 빼내 다른 곳에 사용  있다. 5. 시간 제한 일반적으 차 1분의 시간 제한 있다. 시간 내에 조합 완성하 못하 원상복구 시키 벌칙 타일을 가져 한다. 6. 핵심 전략 초반에는 등록 마친  타일을 아껴두었다, 바닥 조합 많이 깔렸  한꺼번에 털어내는 것이 유리하다. 상방이 필요 타일을 내 않도 바닥 상황 주시해야 한다.",
+    "year": 1977,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 440,
+    "minTime": 60,
+    "maxTime": 60,
+    "minAge": 8,
+    "weight": 2.29,
+    "rating": 7.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Ephraim Hertzano"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/12/20/1703077427568215_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/2061"
+  },
+  {
+    "id": "533",
+    "slug": "jaipur",
+    "bggId": 54043,
+    "nameKr": "자이푸르",
+    "nameEn": "Jaipur",
+    "summary": "상품을 거래하고 판매하여 자이푸르에서 가장 부유한 상인이 되세요.",
+    "description": "당신은 라자스탄의 수도 자이푸르에서 가장 영향력 있는 두 상인 중 1명입니다. 하지만 그것만으로는 충분하지 않습니다. 마하라자의 궁정에 초대받을 수 있는 특권은 2개의 \"대상인의 증표\"를 모두 획득한 상인에게만 주어지기 때문입니다. 따라서 당신은 직접적인 경쟁자보다 더 나은 가격으로 매매 거래를 성사시켜야 하며, 동시에 2마리의 낙타 떼도 잘 관리해야 합니다. 자이푸르 (Jaipur)는 전략, 위험, 운이 절묘하게 어우러진 속도감 넘치는 카드 게임입니다. 자신의 차례가 되면 카드를 가져오거나 팔 수 있습니다. 카드를 가져올 경우, 낙타 카드를 모두 가져가거나, 시장에서 카드 한 장을 가져오거나, 시장과 자신의 카드 사이에 2~5장의 카드를 교환하는 것 중 하나를 선택해야 합니다. 카드를 팔면 한 종류의 상품만 팔 수 있고, 판 카드 수만큼 칩을 받습니다. 칩의 가치는 게임이 진행될수록 감소하므로 서두르는 게 좋습니다! 반면에 같은 상품 카드를 3장, 4장, 또는 5장씩 한꺼번에 팔면 보상이 점점 커지니, 기다리는 게 나을 수도 있습니다! 낙타는 팔 수는 없지만, 교역에 매우 중요하며 라운드 종료 시 약간의 가치를 지니기도 합니다. 때로는 승리를 확정짓기에 충분할 만큼의 가치를 가지므로 현명하게 사용해야 합니다",
+    "year": 2009,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 401,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 12,
+    "weight": 1.46,
+    "rating": 7.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Sébastien Pauchon"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/03/26/1711382746-942147.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "자이푸르 요약표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3866&game=533"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/533"
+  },
+  {
+    "id": "9737",
+    "slug": "the-quacks-of-quedlinburg",
+    "bggId": null,
+    "nameKr": "크베들린부르크의 돌팔이 약장수",
+    "nameEn": "The Quacks of Quedlinburg",
+    "summary": "돌팔 약장(The Quacks of Quedlinburg) 운과 확률 시험하는 빌딩(Bag Building) 게임이다. 1. 개요 인원: 2~4 (확장 포함 5).",
+    "description": "돌팔 약장(The Quacks of Quedlinburg) 운과 확률 시험하는  빌딩(Bag Building) 게임이다. 1. 개요 인원: 2~4 (확장 포함  5). 승리 조건: 9라운 종료  승점 가 높 사람 승리한다. 2. 핵심 규칙 채우: 주머니에 약재 칩을 하나 꺼내 자신  판에 놓는. 칩의 숫자만큼 전진하여 배치한다. 폭발 조건: 흰색 약재() 칩의 숫자 합이 7 초과하면 솥이 폭발한다. 폭발하기 전에 멈출지,  뽑을지 결정해야 한다. 구매  전진: 멈춘 지점의 숫자 따라  약재 칩을 구매하거 승점 획득한다. 3. 솥이 폭발했을 때의 불이n솥이 폭발하면 다음  가지  하나 선택  있다. 승점 획득: 이번 라운드에 도달 칸의 승점 받는. ( 구매 불) 구매: 이번 라운드에 도달 칸의 비용으로  칩을 산다. (승점 획득 불) 4. 주요 요소 약재 효과: 칩의 색상(빨강, 노랑, 파랑 )마다 고유 특수 능력 있다. 어떤 조합으로 주머니를 채우느냐가 전략 핵심이다. 쥐꼬: 점수가 뒤처 플레이어에게 주는 보정 수치. 선두와 점수 차이 따라 솥의 시작 위치 앞당겨. 점술 카드:  라운 시작  공통으로 적용되는 이벤트다. 5. 핵심 전략 초반에는 흰색 칩의 비중 낮추 위해 높 수치 유색 칩을 우선 구매한다. 주머 속의  구성 기억하고 폭발 확률 계산하며 멈출 타이밍 잡아 한다.",
+    "year": 2018,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 161,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 10,
+    "weight": 1.94,
+    "rating": 7.6,
+    "gameType": "가족게임",
+    "categories": [
+      "중세"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "운걸기",
+      "동시 액션 선택",
+      "덱,백,풀 빌딩",
+      "이벤트"
+    ],
+    "designers": [
+      "Wolfgang Warsch"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/01/25/1611516824-522927.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "[팬메이드] 돌팔이약장수 비대칭 시작 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11409&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "퀘틀린부르크의 약장수 : 허브마녀들 <성분 책, 허브마녀 디자인편집>",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5518&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "돌팔이 약장수 확장 : 허브 마녀들 <자료 한글화>",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5520&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "퀘틀린부르크의 돌팔이 약장수 한글룰북/성분칩목록",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4745&gameId=9737&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "DSP 2018 구디 박스 - 크베들린부르크의 돌팔이 약장수 프로모 규칙서 한국어 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6819&gameId=9737&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9737"
+  },
+  {
+    "id": "94",
+    "slug": "7-wonders",
+    "bggId": 68448,
+    "nameKr": "7 원더스",
+    "nameEn": "7 Wonders",
+    "summary": "카드를 뽑아 고대 문명을 발전시키고 세계 불가사의를 건설하세요.",
+    "description": "당신은 고대 세계 7대 도시 중 하나의 지도자입니다. 자원을 모으고, 상업로를 개발하고, 군사적 우위를 확립하십시오. 도시를 건설하고 미래를 초월할 건축물을 세워보세요. 7 원더스 (7 Wonders)는 세 시대로 진행됩니다. 각 시대마다 플레이어는 특정 카드 덱에서 7장의 카드를 받고, 그중 한 장을 선택한 후 나머지 카드를 옆 플레이어에게 넘깁니다. 플레이어들은 동시에 카드를 공개하고, 필요에 따라 자원을 지불하거나, 자원을 모으거나, 다양한 방식으로 다른 플레이어와 상호작용합니다. (플레이어들은 각자 특별한 능력을 가진 양면 보드를 사용하여 카드를 정리합니다.) 각 플레이어는 넘겨받은 덱에서 또 다른 카드를 선택하고, 해당 시대의 카드가 6장 남을 때까지 이 과정을 반복합니다. 세 시대가 끝나면 게임이 종료됩니다. 기본적으로 7 원더스 는 카드 개발 게임입니다. 어떤 카드는 즉시 효과를 발휘하는 반면, 다른 카드는 게임 후반에 보너스나 업그레이드를 제공합니다. 어떤 카드는 향후 구매 시 할인을 제공하고, 어떤 카드는 이웃을 압도할 수 있는 군사력을 제공하며, 또 어떤 카드는 승리 점수만 제공합니다. 각 카드는 뽑힌 직후 바로 사용되므로, 이웃이 어떤 카드를 받는지, 그리고 이웃의 선택이 내가 이미 건설한 것에 어떤 영향을 미칠지 알 수 있습니다. 카드는 세 시대에 걸쳐 왼쪽에서 오른쪽으로, 다시 왼쪽으로 전달되므로 양방향 이웃을 모두 주시해야 합니다. 이전 판본의 상자에는 3~7인용이라고 표기되어 있지만, 설명서에는 공식적인 2인용 변형 규칙이 포함되어 있습니다.",
+    "year": 2010,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 7,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 145,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 2.31,
+    "rating": 7.7,
+    "gameType": "전략, 가족",
+    "categories": [
+      "전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Antoine Bauza"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1613556513-747211.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[세븐원더스 1판] 요약 (본판+지도자+도시+원더팩+기념팩+함대) // ver.251017.1652",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11549&game=94"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "7 원더스 본판 및 주요 확장 3종 요약 룰 정리",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10520&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "버려진 카드를 가져오는 능력 충돌시 우선 순위",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7005&game=94"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "세븐 원더스 모든 확장 (비공식 팬 확장 포함) 정리",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6951&game=94"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[세븐원더스] 한 페이지 요약 (본판+지도자+도시+원더팩+기념팩+함대) // ver.190531.1315",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5713&game=94"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "7원더스 본판만 간략 요약표(저퀄리티)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5548&game=94"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "7원더스 기념팩 아이콘 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4455&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세븐원더스 기념팩 카드 설명 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4124&game=94"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "7원더스 아이콘 참조표 (확장 대부분 포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3575&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "7원더스, 7원더스 듀얼 점수 계산 numbers 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3542&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "7원더스 바벨 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3066&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세븐원더스 (7 Wonders) 리더스 프로모 카드 설명",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1048&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "7원더스 - 신화 비공식확장 대충만든 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=687&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "7 원더스 한글화 (본판)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=401&game=94"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "게임할 때 들으면 더 재밌는 백 그라운드 뮤직 (BGM)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=284&game=94"
+      },
+      {
+        "kind": "점수판",
+        "category": "자료",
+        "label": "7 원더스 - 스코어 시트",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=240&game=94"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/94"
+  },
+  {
+    "id": "5222",
+    "slug": "7-wonders-duel",
+    "bggId": null,
+    "nameKr": "7 원더스 대결",
+    "nameEn": "7 Wonders Duel",
+    "summary": "7 원더스 대결 은 여러 면에서 원작 게임인 7 원더스와 유사합니다. 세 시대에 걸쳐 플레이어는 자원을 제공하거나 군사 또는 과학 발전을 촉진하는 카드를 획득하여 문명을…",
+    "description": "7 원더스 대결 은 여러 면에서 원작 게임인 7 원더스와 유사합니다. 세 시대에 걸쳐 플레이어는 자원을 제공하거나 군사 또는 과학 발전을 촉진하는 카드를 획득하여 문명을 발전시키고 불가사의를 완성합니다. 7 원더스 대결 의 차이점은 제목에서 알 수 있듯이 오직 두 명의 플레이어만을 위한 게임이라는 점입니다. 플레이어들은 카드 덱에서 동시에 카드를 뽑는 것이 아니라, 라운드 시작 시 앞면과 뒷면이 보이도록 배열된 카드 더미에서 카드를 뽑습니다. 플레이어는 다른 카드에 가려지지 않은 카드만 가져올 수 있으므로 타이밍이 중요하며, 보너스 행동을 통해 즉시 두 번째 카드를 가져올 수도 있습니다. 원작 게임과 마찬가지로, 획득한 카드는 건물을 짓거나, 코인으로 교환하거나, 불가사의를 건설하는 데 사용할 수 있습니다. 각 플레이어는 불가사의 카드 4장을 가지고 시작하며, 불가사의를 건설하면 소유자에게 특별한 능력이 부여됩니다. 단, 불가사의는 최대 7개까지만 건설할 수 있으므로, 한 플레이어는 불가사의가 부족하게 됩니다. 플레이어는 언제든지 은행에서 자원을 구매하거나, 게임 중에 미래 건설에 필요한 자원을 제공하는 카드를 획득할 수 있습니다. 이러한 자원을 획득할수록 상대방의 해당 자원 구매 비용이 증가하며, 이는 해당 자원 소유자의 해당 지역에 대한 지배력을 나타냅니다. 7 원더스 대결 에서 승리하는 방법은 세 가지입니다. 군사 카드를 획득할 때마다 군사 마커가 상대방의 수도 방향으로 전진하며, 특정 위치에서는 보너스 점수를 얻습니다. 상대방의 수도에 도달하면 즉시 승리합니다. 또는 7가지 과학 상징 중 6가지를 획득하면 과학적 우위를 점하여 즉시 승리합니다. 이 세 가지 상황 중 어느 것도 발생하지 않으면 게임 종료 시 가장 많은 점수를 획득한 플레이어가 승리합니다.",
+    "year": 2015,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 13,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 2.23,
+    "rating": 8.2,
+    "gameType": "전략게임",
+    "categories": [
+      "고대",
+      "카드 게임",
+      "도시 건설",
+      "문명",
+      "경제"
+    ],
+    "mechanics": [
+      "조립 보드",
+      "셋 컬렉션",
+      "플레이어별 특수능력",
+      "게임 종료 보너스",
+      "수입"
+    ],
+    "designers": [
+      "Antoine Bauza",
+      "Bruno Cathala"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/03/09/1615276187-302156.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "세븐 원더스 듀얼 : 리더스, 리더스 판테온, 리더스 아고라 확장(팬메이드) 한글화 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12366&gameId=5222&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "7원더스, 7원더스 듀얼 점수 계산 numbers 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3542&gameId=5222&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "7 원더스: 대결 - 프로모 카드 설명 한국어 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4412&gameId=5222&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "사그라다 파밀리아 성당 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5255&gameId=5222&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "세븐원더스 듀얼 판테온 + 프로모 부분한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6448&gameId=5222&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/5222"
+  },
+  {
+    "id": "10698",
+    "slug": "tiny-towns",
+    "bggId": 265736,
+    "nameKr": "타이니 타운",
+    "nameEn": "Tiny Towns",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 824,
+    "minTime": 45,
+    "maxTime": 60,
+    "minAge": 14,
+    "weight": 2.07,
+    "rating": 7.0,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Peter McPherson"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/12/1612342914-202825.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "여러가지 파티게임 간단 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11451&game=10698"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타이니타운 포춘+빌리저 확장 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8586&game=10698"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[체험]타이니 타운 포춘 확장 텍스트 룰 (본판에 체험 가능)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6831&game=10698"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타이니 타운 한글화 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5877&game=10698"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타이니타운 개인맵 커스텀 파일.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5720&game=10698"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "Tiny Towns/타이니 타운 한글룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5692&game=10698"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/10698"
+  },
+  {
+    "id": "4374",
+    "slug": "castles-of-mad-king-ludwig",
+    "bggId": 155426,
+    "nameKr": "루트비히의 성",
+    "nameEn": "Castles of Mad King Ludwig",
+    "summary": "타일을 선택하고 조합하여 왕의 변덕을 만족시키고 최고의 환상의 성을 건설하세요.",
+    "description": "타일 ​​놓기 게임 '루트비히의 성' (Castles of Mad King Ludwig)에서 플레이어들은 바이에른의 루트비히 2세 국왕을 위해 놀랍고 화려한 성을 하나씩 지어나가야 합니다. 국왕은 성을 매우 좋아해서 노이슈반슈타인 성(디즈니 테마파크의 성들에 영감을 준 성)을 비롯한 여러 성을 지었는데, 이번에는 여러분에게 역사상 가장 크고 훌륭한 성을 지어달라고 의뢰했습니다. 물론, 국왕의 변덕스러운 요구에 따라 설계해야 하지만요. 각 플레이어는 건축업자가 되어 자신이 짓고 있는 성에 방을 추가하는 동시에 다른 플레이어들에게 건축 서비스를 제공하기도 합니다. 이 게임에서 각 플레이어는 간이 현관으로 시작합니다. 한 플레이어가 건축가 역할을 맡아 다른 플레이어들이 구매할 수 있는 방들의 가격을 정합니다. 다른 플레이어들이 방값을 지불하고 나면, 건축가는 남은 방들을 선택할 수 있습니다. 성에 방이 추가되면, 해당 방을 지은 플레이어는 방의 크기와 종류에 따라 성 점수를 얻고, 방의 위치에 따라 보너스 점수를 얻습니다. 모든 출입구가 성의 다른 방으로 연결되도록 방이 완성되면, 플레이어는 7가지 특별 보상 중 하나를 받습니다. 매 구매 라운드가 끝날 때마다 새로운 플레이어가 마스터 빌더가 되어 새로운 방들의 가격을 정합니다. 몇 라운드가 지나면 게임이 종료되고, 보너스 목표 달성, 가장 인기 있는 방 보유, 그리고 매 게임마다 바뀌는 왕의 요구에 가장 잘 부응하는 플레이어에게 추가 점수가 주어집니다. 가장 많은 성 점수를 획득한 플레이어가 승리 합니다.",
+    "year": 2014,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 257,
+    "minTime": 90,
+    "maxTime": 90,
+    "minAge": 13,
+    "weight": 2.65,
+    "rating": 7.5,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Ted Alspach"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1612345986-688645.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "루트비히 2판 카드 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12255&game=4374"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "루트비히의 성: 비밀 한글 규칙서와 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10157&game=4374"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "v1.3 루트비히의 성 오거나이저(+확장)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4756&game=4374"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "미친 왕 루드비히의 성(Castles of Mad King Ludwig) 참조카드 한글화 v4.1",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=881&game=4374"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "미친 왕 루드비히의 성(Castles of Mad King Ludwig) 한글요약룰 v8.0",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=880&game=4374"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "미친왕 루드비히의 성 한글 룰북.doc",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=837&game=4374"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/4374"
+  },
+  {
+    "id": "9107",
+    "slug": "barenpark",
+    "bggId": 219513,
+    "nameKr": "베런파크",
+    "nameEn": "Barenpark",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2017,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 408,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 8,
+    "weight": 1.66,
+    "rating": 7.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Phil Walker-Harding"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/12/1641924260886424_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "입구가 있는 공원 구역 - 한국 버전",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4847&game=9107"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "박스 표지 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4846&game=9107"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "베런파크 (한글메뉴얼) 2018.05.04 수정",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3740&game=9107"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9107"
+  },
+  {
+    "id": "4368",
+    "slug": "patchwork",
+    "bggId": 163412,
+    "nameKr": "패치워크",
+    "nameEn": "Patchwork",
+    "summary": "다양한 패턴의 조각들을 효율적으로 배치해 가장 아름다운 퀼트를 완성하세요.",
+    "description": "패치워크 (Patchwork) 는 두 명의 플레이어가 9x9 크기의 개인 게임판 위에 가장 아름답고 점수가 높은 패치워크 퀼트를 만들기 위해 경쟁하는 게임입니다. 게임을 시작하려면 모든 패치를 무작위로 원형으로 배치하고 2-1 패치 바로 시계 방향에 마커를 놓습니다. 각 플레이어는 게임의 화폐이자 점수인 단추 5개를 가져가고, 한 명을 시작 플레이어로 정합니다. 플레이어는 차례가 되면 실타래 시계 방향으로 놓인 세 개의 패치 중 하나를 구매하거나 패스할 수 있습니다. 패치를 구매하려면 패치에 표시된 가격만큼 버튼을 지불하고, 실타래를 해당 패치가 있는 위치로 옮긴 후, 패치를 게임판에 추가합니다. 그런 다음 패치에 표시된 시간만큼 자신의 시간 토큰을 시간 트랙에서 이동시킵니다. 패치는 다른 패치와 겹치지 않는 한 게임판 어디에든 놓을 수 있지만, 최대한 촘촘하게 놓는 것이 좋습니다. 자신의 시간 토큰이 상대방의 시간 토큰 뒤나 위에 있으면 다음 차례를 진행하고, 그렇지 않으면 상대방의 차례가 됩니다. 패치를 구매하는 대신 패스할 수도 있습니다. 패스하려면 자신의 시간 토큰을 상대방의 시간 토큰 바로 앞 칸으로 이동시키고, 이동한 칸 수만큼 버튼을 하나씩 가져갑니다. 각 패치에는 버튼 비용과 시간 비용 외에도 0~3개의 버튼이 있으며, 시간 트랙에서 버튼을 지나 시간 토큰을 이동시키면 \"버튼 수입\"을 얻습니다. 개인 게임 보드에 표시된 버튼 수를 모두 더한 다음, 은행에서 해당 버튼 수만큼 버튼을 가져갑니다. 게다가 시간 트랙에는 1x1 크기의 패치 5개가 표시되어 있으며, 게임 시작 시 실제 1x1 패치 5개를 이 칸에 놓습니다. 시간 트랙에서 패치를 먼저 지나치는 사람이 해당 패치를 차지하고 즉시 자신의 게임판에 놓습니다. 또한, 게임판의 7x7 정사각형을 가장 먼저 완전히 채운 플레이어는 게임 종료 시 7점의 추가 점수를 주는 보너스 타일을 획득합니다. (물론 모든 게임에서 이런 일이 발생하는 것은 아닙니다.) 플레이어가 자신의 시간 토큰을 시간 트랙의 중앙 칸으로 이동시키는 행동을 하면, 은행에서 마지막 버튼 하나를 가져갑니다. 두 플레이어 모두 중앙에 도달하면 게임이 종료되고 점수 계산이 시작됩니다. 각 플레이어는 자신이 보유한 버튼 하나당 1점을 얻고, 게임판의 빈 칸 하나당 2점을 잃습니다. 점수는 마이너스가 될 수 있습니다. 가장 많은 점수를 얻은 플레이어가 승리합니다.",
+    "year": 2014,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 263,
+    "minTime": 15,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.6,
+    "rating": 7.5,
+    "gameType": "추상전략, 가족",
+    "categories": [
+      "추상전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/10/02/1664646461313493_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "패치워크 요약 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8413&game=4368"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "패치워크 프로모",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7957&game=4368"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "패치워크 한국어 규칙서 v1.1",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=843&game=4368"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/4368"
+  },
+  {
+    "id": "16922",
+    "slug": "the-mind-soulmates",
+    "bggId": 378851,
+    "nameKr": "더 마인드 소울메이트",
+    "nameEn": "The Mind Soulmates",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 2190,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 8,
+    "weight": 1.2,
+    "rating": 6.2,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Reinhard Staupe",
+      "Wolfgang Warsch"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/04/04/1680544520814882_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/16922"
+  },
+  {
+    "id": "13144",
+    "slug": "praga-caput-regni",
+    "bggId": 308765,
+    "nameKr": "왕국의 수도 프라하",
+    "nameEn": "Praga Caput Regni",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 382,
+    "minTime": 45,
+    "maxTime": 150,
+    "minAge": 12,
+    "weight": 3.73,
+    "rating": 7.3,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Vladimír Suchý"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1612343953-580423.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "프라하 요약표 및 점수시트",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7716&game=13144"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13144"
+  },
+  {
+    "id": "83",
+    "slug": "keyflower",
+    "bggId": 122515,
+    "nameKr": "키플라워",
+    "nameEn": "Keyflower",
+    "summary": "독특한 경매 시스템에 참여하여 가장 번영하는 마을을 건설하세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2012,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 173,
+    "minTime": 90,
+    "maxTime": 120,
+    "minAge": 12,
+    "weight": 3.34,
+    "rating": 7.6,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Sebastian Bleasdale",
+      "Richard Breese"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/03/09/1646758152021733_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "키플라워 미니확장 타일 설명 요약 (v3.0)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7367&game=83"
+      },
+      {
+        "kind": "점수판",
+        "category": "자료",
+        "label": "키플라워 & 농부 확장 & 상인 확장 규칙 통합 요약 + 점수표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1242&game=83"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "키플라워(Keyflower) 프로모 1,2,3 타일 설명 v1.1",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=213&game=83"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/83"
+  },
+  {
+    "id": "20518",
+    "slug": "celestia-big-box",
+    "bggId": 429491,
+    "nameKr": "셀레스티아 빅 박스",
+    "nameEn": "Celestia: Big Box",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 544,
+    "minTime": 0,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.32,
+    "rating": 7.2,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Gaetan Noir"
+    ],
+    "languageDependence": null,
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/12/26/1735178110-450865.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "[셀레스티아] 각종 카드와 캐릭터 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11494&game=20518"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20518"
+  },
+  {
+    "id": "14627",
+    "slug": "verdant",
+    "bggId": 334065,
+    "nameKr": "보타닉 가든",
+    "nameEn": "Verdant",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2022,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 806,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 10,
+    "weight": 2.07,
+    "rating": 7.0,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Molly Johnson",
+      "Robert Melvin",
+      "Shawn Stankewich",
+      "Kevin Russ",
+      "Aaron Mesburne"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/03/21/1679328636515872_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/14627"
+  },
+  {
+    "id": "1727",
+    "slug": "clue",
+    "bggId": 1294,
+    "nameKr": "클루",
+    "nameEn": "Clue",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 1949,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 2096,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 8,
+    "weight": 1.64,
+    "rating": 6.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Anthony E. Pratt"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/28/1643356196671864_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "클루: 빅뱅이론 한글화 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2986&game=1727"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/1727"
+  },
+  {
+    "id": "13426",
+    "slug": "the-crew-the-quest-for-planet-nine",
+    "bggId": 284083,
+    "nameKr": "스페이스 크루",
+    "nameEn": "The Crew: The Quest for Planet Nine",
+    "summary": "협동 트릭테이킹 게임 '스페이스 크루' 에서 플레이어들은 우주 비행사가 되어 미지의 우주 모험을 떠납니다. 미지의 행성에 대한 소문은 과연 무엇일까요?",
+    "description": "협동 트릭테이킹 게임 '스페이스 크루' 에서 플레이어들은 우주 비행사가 되어 미지의 우주 모험을 떠납니다. 미지의 행성에 대한 소문은 과연 무엇일까요? 파란만장한 우주 여정은 50개가 넘는 흥미진진한 미션으로 가득합니다. 하지만 이 게임을 클리어하려면 각 플레이어가 맡은 개별 임무를 완수해야 합니다. 다양한 도전을 극복하기 위해서는 팀워크가 필수적이지만, 우주에서는 예상보다 훨씬 어려운 일이 기다리고 있습니다. 각 미션을 진행할 때마다 게임 난이도가 높아집니다. 미션이 끝나면 게임을 일시 정지했다가 나중에 다시 시작할 수 있습니다. 각 미션에서는 트릭의 횟수가 아니라 적절한 타이밍에 적절한 트릭을 사용하는 것이 중요합니다. 모든 팀원이 각자의 임무를 성공적으로 완수해야만 팀이 임무를 완료하게 됩니다. 이 게임에는 50개의 미션이 포함되어 있으며, 2020년 2월에 출시된 spielbox 에 3개의 추가 미션이 포함되어 있습니다 .",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 41,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 10,
+    "weight": 1.96,
+    "rating": 8.0,
+    "gameType": "가족게임",
+    "categories": [
+      "카드 게임",
+      "SF 공상 과학",
+      "우주 탐험"
+    ],
+    "mechanics": [
+      "협력 게임",
+      "핸드 관리",
+      "트릭-테이킹",
+      "시나리오/미션/캠페인 게임",
+      "의사소통 제한"
+    ],
+    "designers": [
+      "Thomas Sing"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy_reg/2020/09/28/1601282966-492612.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "그외자료",
+        "label": "스페이스 크루 미션지 요약본을 만들어 봤습니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7078&gameId=13426&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "[스페이스 크루 & 딥씨 크루] 임무일지",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11145&gameId=13426&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "[스페이스 크루-팬메이드 확장] 외계인과의 만남 (한글번역)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11978&gameId=13426&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "‘디 크루’ 규칙 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6338&gameId=13426&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13426"
+  },
+  {
+    "id": "12",
+    "slug": "ticket-to-ride",
+    "bggId": 9209,
+    "nameKr": "티켓 투 라이드",
+    "nameEn": "Ticket to Ride",
+    "summary": "1872년 세상을 떠들썩하게 만들었던 괴짜 필리아스 포그의 80일간의 세계 일주 내기! 28년 후인 1900년...",
+    "description": "1872년 세상을 떠들썩하게 만들었던 괴짜 필리아스 포그의 80일간의 세계 일주 내기! 28년 후인 1900년... 새로운 세기가 밝아 오는 것을 기념한 기차 여행 내기가 시작됐다. 기한은 7일, 상금은 100만달러! 기차를 타고 북미 대륙을 누비자! 누가 더 많은 도시를 방문할 것인가? 이제 필요한 것은 기차 탑승권뿐! - 게임 목표 도시 사이를 자기 노선으로 연결하고. 주어진 목적지 모두를 들를 수 있게 하세요. 이런 과정 중에 점수를 얻게 됩니다. 그 누구보다도 더 많은 점수를 얻으세요! - 게임 준비 1) 각자 색깔을 정하고, 그 색깔의 기차를 가져가세요. 2) 각자 기차 카드 4장과 목적지 카드 3장을 받습니다. 3) 기차 카드 더미에서 기차 카드 5장을 펼쳐놓습니다. 4) 각자 점수말을 0점 칸에 놓습니다. - 게임 진행 자기 차례엔 3가지 행동 중 하나를 수행합니다. 1) 기차 카드 뽑기 2) 노선 연결 3) 목적지 카드 가져오기 - 게임 종료 누군가의 남은 기차가 2개 이하라면 게임이 종료됩니다. 가장 긴 노선을 만든 플레이어는 추가 점수 10점을 얻습니다. 노선을 연결하여 얻은 점수와 목적지 카드를 통해 얻은 점수, 가장 긴 노선에 따른 추가 점수를 합쳐 가장 높은 점수를 얻은 플레이어가 승리 합니다! \"규칙은 기차표에 적을 수 있을 만큼 간단합니다. 매 턴마다 카드를 더 뽑거나, 노선을 확보하거나, 추가 목적지 티켓을 얻는 것 중 하나를 선택하면 됩니다.\"라고 '티켓 투 라이드' 의 디자이너 Alan R. Moon은 말합니다. \"긴장감은 손에 카드를 더 많이 모으고 싶은 욕심과 중요한 노선을 경쟁자에게 빼앗기지 않으려는 두려움 사이에서 균형을 잡아야 한다는 데서 비롯됩니다.\"",
+    "year": 2004,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 461,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 8,
+    "weight": 1.82,
+    "rating": 7.2,
+    "gameType": "가족게임",
+    "categories": [
+      "기차"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "운걸기",
+      "네트워크 및 경로 구축",
+      "셋 컬렉션",
+      "게임 종료 보너스"
+    ],
+    "designers": [
+      "Alan R. Moon"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/01/12/1641924483868554_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "T2R:집에서 머물러요.(한글화) ,T2R: 제주 (맵)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7564&gameId=12&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "",
+        "label": "티켓 투 라이드 국내버전 자료 공유합니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10517&gameId=12&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "티켓투라이드 시리즈 게임보드 지명 한국어화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=537&gameId=12&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "그외자료",
+        "label": "티켓투 라이드 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2031&gameId=12&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/12"
+  },
+  {
+    "id": "1324",
+    "slug": "targi",
+    "bggId": 118048,
+    "nameKr": "타르기",
+    "nameEn": "Targi",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2012,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 290,
+    "minTime": 60,
+    "maxTime": 60,
+    "minAge": 12,
+    "weight": 2.34,
+    "rating": 7.4,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Andreas Steiger"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1612343500-580798.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "타르기 룰 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10476&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 작가 버젼 솔로 AI번역/감수.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10117&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 작가 미니PNP확장 한글화자료(수정1)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8056&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 작가 PNP미니확장 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8053&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 대체 경계 카드 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8048&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 본판 및 확장 한글화 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5704&game=1324"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "타르기 카드 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1200&game=1324"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/1324"
+  },
+  {
+    "id": "19662",
+    "slug": "everdell-duo",
+    "bggId": 425005,
+    "nameKr": "에버델 듀오",
+    "nameEn": "Everdell Duo",
+    "summary": "다양한 자원을 활용하여 카드 게임을 하고 나만의 숲속 도시를 만들어 보세요.",
+    "description": "에버델 듀오 에서는 혼자 상대하거나 다른 플레이어와 협력하여 가장 많은 점수를 획득하는 것이 목표입니다. 일꾼을 배치하여 자원을 모으고, 모은 자원을 사용하여 카드를 앞면이 보이도록 앞에 내려놓아 자신만의 삼림 도시를 건설하면 됩니다. 카드는 손에 든 카드나 보드판의 앞면이 보이도록 놓인 '초원' 영역에서 낼 수 있습니다. 단, 초원 영역에서는 태양이나 달 토큰에 닿아 있는 카드만 낼 수 있으며, 플레이어는 매 턴마다 이 토큰들을 이동시킵니다. 따라서 어떤 카드를 낼지 계획하고 타이밍을 잘 맞추는 것이 매우 중요합니다. 각 게임에서 플레이어는 다양한 이벤트를 달성해야 하며, 이벤트 달성 조건은 게임마다 다르기 때문에 특정 카드와 조합을 확보하는 것이 더욱 중요해집니다. 게임은 4시즌 동안 진행되며, 이후 플레이어들은 점수를 합산하여 승자를 결정합니다. 협동 플레이를 하는 경우, 해당 챕터의 조건을 확인하여 승리 여부를 확인하세요.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 1059,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 10,
+    "weight": 3.04,
+    "rating": 6.8,
+    "gameType": "전략, 가족",
+    "categories": [
+      "전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "James A. Wilson",
+      "Clarissa A. Wilson"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2026/05/18/1779084412-495303.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "에버델 듀오 카드 참조표 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10888&game=19662"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "에버델 듀오 규칙서 한글화버전입니다.(한글판출시로내림)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10858&game=19662"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19662"
+  },
+  {
+    "id": "591",
+    "slug": "dominion",
+    "bggId": null,
+    "nameKr": "도미니언",
+    "nameEn": "Dominion",
+    "summary": "풍요로운 강이 흐르고 사시사철 상록수가 가득한 작은 왕국. 집안 대대로 이 지역을 통치해 왔지만, 선조들과 달리 여러분에게는 큰 꿈이 있습니다.",
+    "description": "풍요로운 강이 흐르고 사시사철 상록수가 가득한 작은 왕국. 집안 대대로 이 지역을 통치해 왔지만, 선조들과 달리 여러분에게는 큰 꿈이 있습니다. 그건 바로 더 넓은 영토를 차지해 손에 닿는 모든 지역을 통치하는 것입니다. 방방곡곡 굽이쳐 흐르는 강, 끝없이 펼쳐진 숲, 풍요로운 마을과 백성에 대한 열망은 날이 갈수록 커져만 갑니다. 그리고 지금이야말로 주위로 눈을 돌릴 시간입니다. 왕국 근처에는 보잘것없는 영주들이 지배하는 토지들이 산재해 있으며, 무정부 상태나 마찬가지인 이곳은 문명의 혜택을 받지 못한 자들로 가득합니다. 이제 여러분은 이들에게 문명의 이기를 전하고, 모두를 자신의 깃발 아래 하나로 모아 진정한 군주로 거듭날 것입니다! 하지만 주변 군주들의 낌새가 심상치 않습니다. 자신의 영토를 더 넓히고자 하는 것은 비단 여러분만의 생각이 아니었던 겁니다. 다른 군주들 보다 더 넓은 영토를 차지하려면 빠른 상황판단과 잘 짜인 계획이 필요합니다. 왕국을 발전시키고 재물을 모아 모든 것을 자신의 지배 아래에 두십시오. 때로는 하수인을 고용해 상대를 방해하고, 자신의 것을 지킬 줄도 알아야 합니다. 새로운 시대의 주인이 되는 것은 모두 여러분의 손에 달렸습니다. 도미니언 은 카드로 이루어진 덱을 만들어 나가는 덱 빌딩 게임입니다. 이렇게 만들어진 덱은 여러분이 지배하는 왕국을 보여줍니다. 덱은 다른 자원을 살 수 있는 재물, 승점이 되는 영토, 그 밖에 다른 다양한 카드를 포함합니다. 처음에 여러분에게 주어지는 것은 사유지 조금과 가치가 떨어지는 동 밖에 없습니다. 하지만 게임을 진행함에 따라 넓은 속주와 그 위에 세워진 다양한 건물, 그곳에 사는 거주민들이 여러분의 왕국을 채워나갈 것입니다. 게임이 끝나면 서로 영토를 비교해 승점이 가장 높은 사람이 승리 합니다!",
+    "year": 2008,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 66,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 13,
+    "weight": 2.35,
+    "rating": 7.9,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임",
+      "중세"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "빼앗기",
+      "덱,백,풀 빌딩",
+      "변화하는 게임 세팅",
+      "지연 구매"
+    ],
+    "designers": [
+      "Donald X. Vaccarino"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2024/02/06/1707147614478933_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "개인판",
+        "category": "그외자료",
+        "label": "도미니언 개인 플레이 매트 및 참조",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10339&gameId=591&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "도미니언 오거나이저 입니다. (dominion  organizer) 장막까지만 수납가능합니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5750&gameId=591&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "한국어룰북",
+        "label": "도미니언 참조표 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6058&gameId=591&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "도미니언 영문판 해석 설명서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7993&gameId=591&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "도미니언 교회, 선장 프로모 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6112&gameId=591&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/591"
+  },
+  {
+    "id": "17864",
+    "slug": "forest-shuffle",
+    "bggId": 391163,
+    "nameKr": "포레스트 셔플",
+    "nameEn": "Forest Shuffle",
+    "summary": "다양한 동물 카드를 모아 자신만의 숲을 완성하세요!",
+    "description": "등록된 설명이 없어요.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 435,
+    "minTime": 40,
+    "maxTime": 60,
+    "minAge": 10,
+    "weight": 2.21,
+    "rating": 7.3,
+    "gameType": "전략, 가족",
+    "categories": [
+      "전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Kosch"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/03/12/1710181018-705469.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "포레스트 셔플 드래프트 룰 번역 (AI번역/어도비 익스프레스)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10932&game=17864"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "포레스트 셔플 풀확장 1인용 도전과제 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10929&game=17864"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "포레스트 셔플 1인용 오토마 카드 PnP 와 규칙서 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10431&game=17864"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17864"
+  },
+  {
+    "id": "12080",
+    "slug": "ankhor",
+    "bggId": 271530,
+    "nameKr": "황금 앙크",
+    "nameEn": "Ankhor",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 1337,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.75,
+    "rating": 6.6,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Frank Crittin",
+      "Grégoire Largey",
+      "Sébastien Pauchon"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/17/1642354953269672_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "여러가지 파티게임 간단 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11451&game=12080"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/12080"
+  },
+  {
+    "id": "386",
+    "slug": "hey-that-s-my-fish",
+    "bggId": 8203,
+    "nameKr": "이봐, 그건 내 물고기야!",
+    "nameEn": "Hey, That's My Fish!",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2003,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 1361,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 8,
+    "weight": 1.45,
+    "rating": 6.6,
+    "gameType": "추상전략, 가족",
+    "categories": [
+      "추상전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Günter Cornett",
+      "Alvydas Jakeliunas"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/10/08/1696709009618465_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "이봐, 그거 내 물고기야! 룰 북(2011년) 한국어 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4280&game=386"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/386"
+  },
+  {
+    "id": "9089",
+    "slug": "no-touch-kraken-deluxe",
+    "bggId": 170587,
+    "nameKr": "노 터치 크라켄 딜럭스",
+    "nameEn": "No Touch Kraken Deluxe",
+    "summary": "탐험대로 숨겨진 보물을 모두 찾거나, 스켈레톤으로 크라켄을 깨워 이를 막으세요!",
+    "description": "등록된 설명이 없어요.",
+    "year": 2017,
+    "batch": "",
+    "minPlayers": 4,
+    "maxPlayers": 8,
+    "bestPlayers": [
+      6
+    ],
+    "recPlayers": [
+      5
+    ],
+    "rank": 373,
+    "minTime": 1,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 1.15,
+    "rating": 7.3,
+    "gameType": "파티",
+    "categories": [
+      "파티"
+    ],
+    "mechanics": [],
+    "designers": [
+      "佐藤 雄介 (Yusuke Sato)"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/02/24/1645642498083113_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "여러가지 파티게임 간단 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11451&game=9089"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "노 터치 크라켄에 크툴루를 건드리지 마라 딜럭스 요소를 추가해 보자",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5486&game=9089"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9089"
+  },
+  {
+    "id": "6838",
+    "slug": "circus-flohcati",
+    "bggId": 337,
+    "nameKr": "벼룩 서커스",
+    "nameEn": "Circus Flohcati",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 1998,
+    "batch": "",
+    "minPlayers": 3,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      5
+    ],
+    "rank": 1046,
+    "minTime": 15,
+    "maxTime": 15,
+    "minAge": 6,
+    "weight": 1.23,
+    "rating": 6.8,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/04/04/168054460123903_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "벼룩서커스로 데드맨스드로우 하기 (+캐릭터 확장)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7566&game=6838"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "\"벼룩서커스로 데드 맨스 드로우 하기\" 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7135&game=6838"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/6838"
+  },
+  {
+    "id": "4255",
+    "slug": "skull-king",
+    "bggId": 150145,
+    "nameKr": "스컬킹",
+    "nameEn": "Skull King",
+    "summary": "",
+    "description": "",
+    "year": 2013,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "bestPlayers": [
+      5
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 43,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.74,
+    "rating": 8.0,
+    "gameType": "가족게임",
+    "categories": [
+      "카드 게임",
+      "항해",
+      "해적"
+    ],
+    "mechanics": [
+      "트릭-테이킹",
+      "예측 입찰"
+    ],
+    "designers": [
+      "Brent Beck",
+      "Jeffrey Beck"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2023/08/30/1693324289971011_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "스컬킹 한장 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12812&gameId=4255&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "스컬킹 한글룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5320&gameId=4255&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "스컬킹 한글 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5639&gameId=4255&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "한국어룰북",
+        "label": "스컬킹 확장팩 (skull king expansion pack) 룰북 및 참조표 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11746&gameId=4255&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "그외자료",
+        "label": "스컬킹 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3185&gameId=4255&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/4255"
+  },
+  {
+    "id": "561",
+    "slug": "agricola",
+    "bggId": 31260,
+    "nameKr": "아그리콜라",
+    "nameEn": "Agricola",
+    "summary": "가족을 부양하며 농장을 일구고 자원을 관리해 안정적인 삶을 구축해보세요!",
+    "description": "보드게임뉴스 원문 설명 아그리콜라에서 여러분은 배우자와 함께 나무 오두막집에서 농사를 짓는 농부입니다. 처음에는 한 턴에 가족은 밭 갈기, 재료 수집, 울타리 짓기 등 농장에서 할 수 있는 모든 일 중에서 자신과 배우자가 할 수 있는 두 가지 행동만 할 수 있습니다. 다양한 선택지가 있으며, 게임이 진행되는 동안 매 라운드마다 새로운 액션 카드가 뒤집혀서 가능한 액션이 하나씩 더 늘어납니다. 더 많은 작업을 수행하기 위해 아이를 갖는 것을 생각할 수도 있지만, 먼저 집을 확장하여 공간을 확보하고 작은 양탄자 쥐들에게 무엇을 먹일 것인지 생각해야 합니다. 이 게임은 주로 사소한 개선과 직업을 나타내는 카드의 분배를 통해 다양한 수준의 복잡성을 지원합니다. 초보자 버전(미국 출시 버전에서는 패밀리 변형이라고 함)에서는 이러한 카드가 전혀 사용되지 않습니다. 고급 플레이를 위해 미국 출시 버전에는 기본(E덱), 상호작용(I덱), 복합(K덱)의 세 가지 레벨의 두 가지 유형의 카드가 포함되어 있으며, 규칙집은 플레이어가 다양한 덱과 그 조합을 실험하도록 권장하고 있습니다. Z-덱과 L-덱과 같은 애프터마켓 덱도 존재합니다. 각 플레이어는 7장의 직업 카드(총 160장 이상)와 7장의 마이너 개선 카드(총 140장 이상)로 구성된 패를 가지고 시작하며, 자신의 전략에 맞는 경우 게임 중에 사용할 수 있습니다. 아그리콜라는 턴제 게임으로, 매 라운드마다 한 명의 플레이어만 가능한 행동을 취할 수 있으므로 선택에 신중을 기해야 한다는 점이 극복해야 할 문제입니다. 수많은 전략이 있으며, 그 중 일부는 플레이어의 카드 패에 따라 달라집니다. 때로는 코스를 유지하는 것이 좋은 선택이고 때로는 상대방의 행동에 반응하는 것이 더 좋습니다...",
+    "year": 2007,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 25,
+    "minTime": 30,
+    "maxTime": 150,
+    "minAge": 12,
+    "weight": 3.63,
+    "rating": 8.1,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1640329018-317029.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "아그리콜라 주기별, 수확, 점수 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10241&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 구판용 추가 신판 보드판",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7351&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 구판 Pi 덱 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6720&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 구판 네덜란드덱 한글화 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5666&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 G(게이머)덱 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5462&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 오스트리아(외)덱 한글화 v1.1",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3498&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 구판용 자원스티커",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3343&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아그리콜라 벨기에덱 한글화 파일입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2287&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "프랑스덱 수정 패치파일 V1.3 입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2232&game=561"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "프랑스덱 수정 패치파일 V1.2 입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2087&game=561"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "아그리콜라 점수요약표를 만들어 봤습니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=484&game=561"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/561"
+  },
+  {
+    "id": "2214",
+    "slug": "glass-road",
+    "bggId": 143693,
+    "nameKr": "글래스 로드",
+    "nameEn": "Glass Road",
+    "summary": "땅을 개간하고,전문가를 고용하고,건물을 짓고 자원을 모아 자신만의 무역 제국을 건설하세요!",
+    "description": "게임 '글래스 로드' 는 바이에른 숲의 700년 역사를 자랑하는 유리 제조 전통을 기념합니다. (오늘날 '글래스 로드'는 바이에른 숲을 가로지르는 길로, 방문객들은 이 지역의 오래된 유리 공장과 박물관들을 둘러볼 수 있습니다.) 유리와 벽돌 생산을 능숙하게 관리하여 사업을 원활하게 운영할 수 있는 적절한 구조물을 건설해야 합니다. 가마에 불을 계속 지피기 위해 숲을 벌목하고, 필요한 재료를 공급받기 위해 연못, 구덩이, 숲을 조성하고 제거해야 합니다. 15명의 전문가들이 당신의 명령을 수행하기 위해 함께합니다. 좀 더 자세히 설명하면, 게임은 네 번의 건설 기간으로 구성됩니다. 각 플레이어는 동일한 15장의 전문가 카드를 가지고 있으며, 각 전문가 카드에는 두 가지 능력이 있습니다. 각 건설 기간이 시작될 때, 플레이어는 다섯 장의 전문가 카드를 선택하여 손에 쥐게 됩니다. 해당 건설 기간 동안 다른 플레이어가 가지고 있지 않은 전문가 카드를 사용하면, 그 카드에 있는 두 가지 능력을 모두 사용할 수 있습니다. 두 명 이상의 플레이어가 같은 전문가 카드를 사용하면, 각 플레이어는 두 가지 능력 중 하나만 사용할 수 있습니다. 이러한 전문가 카드의 능력을 활용하면 자원을 모으고, 새로운 지형 타일(예: 연못과 구덩이)을 배치하고, 세 가지 유형의 다양한 건물을 건설할 수 있습니다. - 처리 건물 - 일회성 효과를 가진 \"즉각적인\" 건물 - 게임 종료 시 다양한 업적 달성에 따라 보너스 점수를 제공하는 건물 어떤 특수 카드를 사용하는 것이 가장 효과적인지 아는 것과 그 카드를 언제 사용할지 유연하게 대처하는 것, 그리고 건물을 영리하게 조합하는 것 사이의 균형을 마스터하는 것이 이 게임의 핵심입니다. 2021년판 글래스 로드 에는 이전에 공개된 홍보 자료인 옥토버페스트 및 어드벤트스칼렌더 타일과 솔로 플레이 버전에서 사용할 수 있는 할레킨 카드가 포함되어 있습니다.",
+    "year": 2013,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 307,
+    "minTime": 20,
+    "maxTime": 80,
+    "minAge": 12,
+    "weight": 2.96,
+    "rating": 7.4,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/10/1641796318313880_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/2214"
+  },
+  {
+    "id": "9789",
+    "slug": "gizmos",
+    "bggId": 246192,
+    "nameKr": "기즈모",
+    "nameEn": "Gizmos",
+    "summary": "에너지 구슬을 모아 기즈모를 만들고 연쇄 반응과 콤보를 발동시키세요!",
+    "description": "우리 시대 최고의 천재들이 과학 박람회에 모였습니다. 모두들 자신의 작품을 만들기 위해 열심히 노력했지만, 단 한 명만이 챔피언의 자리에 오를 수 있습니다. 참가자들은 빠르고 효율적으로 기즈모를 제작하기 위해 순발력을 발휘해야 합니다. 과연 누구의 작품이 최고가 될까요? 기즈모 에서는 엔진을 만들어 승리 포인트를 획득하면 게임에서 승리합니다. 엔진은 작업을 더 빠르게 완료하는 데 도움이 됩니다. 가장 훌륭한 기계를 만들고 가장 많은 승리 포인트를 모은 사람이 승리합니다! 게임 시작 시, 당신에게는 4가지 행동 기회가 주어집니다. - 파일: 공개된 카드를 내 아카이브에 넣어 나중에 다시 만들 수 있도록 합니다. - 선택: 3D 구슬 배출기에서 에너지 구슬 하나를 꺼내 보관하세요. - 조립: 기계를 하나 만들고 작동시키세요! 카드에 적힌 색깔에 해당하는 구슬을 지불해야 합니다. - 연구: 카드를 몇 장 뽑은 다음, 뽑은 카드 중 하나를 정리하거나 만들 수 있습니다. 나머지 카드는 덱 맨 아래로 갑니다. 기즈모는 승리 점수를 제공하며, 특정 조건이 충족되면 더 많은 행동을 할 수 있게 해줍니다. 기계를 건설하면서 새로운 부착물을 추가하면 연쇄 반응이 일어나 턴당 더 많은 행동을 할 수 있습니다.",
+    "year": 2018,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 295,
+    "minTime": 40,
+    "maxTime": 50,
+    "minAge": 14,
+    "weight": 2.05,
+    "rating": 7.4,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Phil Walker-Harding"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1612347045-512394.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "철지난 기즈모 구슬 기계?",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10686&game=9789"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "기즈모 개인보드판 자료 입니다 ^^",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6237&game=9789"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9789"
+  },
+  {
+    "id": "551",
+    "slug": "kamisado",
+    "bggId": 38545,
+    "nameKr": "달빛 아래에서 수를",
+    "nameEn": "Kamisado",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2008,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 1377,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 8,
+    "weight": 2.37,
+    "rating": 6.6,
+    "gameType": "추상전략",
+    "categories": [
+      "추상전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Peter Burley"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/10/164179604713918_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/551"
+  },
+  {
+    "id": "3991",
+    "slug": "enigma",
+    "bggId": 127312,
+    "nameKr": "에니그마",
+    "nameEn": "Enigma",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2012,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 1995,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 8,
+    "weight": 2.07,
+    "rating": 6.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Touko Tahkokallio"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/31/1643582317765284_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/3991"
+  },
+  {
+    "id": "9608",
+    "slug": "everdell",
+    "bggId": null,
+    "nameKr": "에버델",
+    "nameEn": "Everdell",
+    "summary": "에버델의 매력적인 계곡, 우뚝 솟은 나무 가지 아래, 구불구불한 개울과 이끼로 뒤덮인 구멍 사이에서 숲속 동물들의 문명이 번성하고 확장되고 있습니다.",
+    "description": "에버델의 매력적인 계곡, 우뚝 솟은 나무 가지 아래, 구불구불한 개울과 이끼로 뒤덮인 구멍 사이에서 숲속 동물들의 문명이 번성하고 확장되고 있습니다. 에버프로스트에서 벨송까지, 많은 세월이 지났지만 이제 새로운 영토에 정착하고 새로운 도시를 건설할 때가 왔습니다. 여러분은 바로 그 일을 하려는 동물 무리의 리더가 됩니다. 건설해야 할 건물, 생동감 넘치는 캐릭터, 주최해야 할 이벤트 등 바쁜 한 해가 기다리고 있습니다. 겨울 달이 뜨기 전에 여러분의 도시에 태양이 가장 밝게 빛날 수 있을까요? 에버델은 역동적으로 건물을 짓고 일꾼을 배치하는 게임입니다. 자신의 차례가 되면 플레이어는 다음 세 가지 행동 중 하나를 취할 수 있습니다: a) 일꾼을 배치합니다: 각 플레이어는 일꾼 조각 모음을 가지고 있습니다. 일꾼 조각은 보드의 위치, 이벤트, 목적지 카드에 놓습니다. 일꾼은 자원을 모으고, 카드를 뽑고, 다른 특별한 행동을 하는 등 플레이어의 전황을 발전시키기 위해 다양한 행동을 수행합니다. b) 카드 플레이: 각 플레이어는 최대 15장의 건설 및 동물 카드로 구성된 도시를 건설하고 도시를 채웁니다. 카드에는 다섯 가지 종류가 있습니다: 여행자, 생산, 목적지, 거버넌스, 번영의 다섯 가지 유형이 있습니다. 카드는 자원(나뭇가지, 수지, 자갈, 열매)을 생성하고, 능력을 부여하며, 궁극적으로 점수를 획득합니다. 카드의 상호 작용을 통해 수많은 전략과 거의 무한대에 가까운 다양한 도시를 건설할 수 있습니다. c) 다음 시즌을 준비합니다: 일꾼이 플레이어 공급품으로 반환되고 새로운 일꾼이 추가됩니다. 게임은 겨울부터 다음 겨울이 시작될 때까지 진행되며, 이 시점에서 가장 많은 점수를 획득한 도시를 가진 플레이어가 승리합니다.",
+    "year": 2018,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 136,
+    "minTime": 40,
+    "maxTime": 80,
+    "minAge": 13,
+    "weight": 2.83,
+    "rating": 7.7,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임",
+      "도시 건설",
+      "판타지",
+      "동물"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "셋 컬렉션",
+      "일꾼 놓기",
+      "게임 종료 보너스",
+      "수입"
+    ],
+    "designers": [
+      "James A. Wilson"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://boardlife.co.kr/data/boardgame_strategy/2021/03/09/1615275807-288666.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "에버델 팬메이드 커스텀 보드판",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12543&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "영원골 한글 규칙서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4739&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "에버델 규칙서/카드한글화/수집가판 추가규칙 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4924&gameId=9608&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "에버델 한글 규칙서 입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5237&gameId=9608&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "영원골 카드 한글자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4878&gameId=9608&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9608"
+  },
+  {
+    "id": "12473",
+    "slug": "calico",
+    "bggId": 283155,
+    "nameKr": "캘리코",
+    "nameEn": "Calico",
+    "summary": "퀼트를 만들고, 단추를 모으고, 고양이를 유인해 보세요!",
+    "description": "캘리코 는 퀼트와 고양이를 소재로 한 퍼즐식 타일 놓기 게임입니다. 캘리코(Calico)에서 플레이어들은 다양한 색상과 패턴의 천 조각들을 모아 붙여 가장 포근한 퀼트를 만드는 경쟁을 펼칩니다. 각 퀼트에는 따라야 할 특정 패턴이 있으며, 플레이어들은 미적으로 아름다울 뿐만 아니라 가장 사랑스러운 고양이들을 끌어들일 수 있는 색상과 패턴 조합을 만들어내려고 노력합니다! 게임 방법은 간단합니다. 손에 든 조각 타일 하나를 골라 퀼트에 꿰매 붙이고, 세 개의 조각 타일 중에서 하나를 골라 손에 잡으세요. 같은 색깔의 조각을 만들면 퀼트에 단추를 달 수 있습니다. 고양이들이 좋아하는 무늬를 만들면 고양이가 다가와 퀼트 위에 올라와 몸을 웅크릴 거예요! 게임이 끝나면 단추 개수, 고양이 수, 그리고 퀼트 무늬를 얼마나 잘 완성했는지에 따라 점수를 얻습니다.",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 343,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 10,
+    "weight": 2.19,
+    "rating": 7.4,
+    "gameType": "추상전략, 가족",
+    "categories": [
+      "추상전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Kevin Russ"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1611206540-236776.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "칼리코(Calico) 한국어 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6989&game=12473"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/12473"
+  },
+  {
+    "id": "7415",
+    "slug": "kingdomino",
+    "bggId": 204583,
+    "nameKr": "킹도미노",
+    "nameEn": "Kingdomino",
+    "summary": "영주가 되어 도미노 모양 타일 위에 다양한 지형으로 왕국을 건설하세요!",
+    "description": "킹도미노 (Kingdomino)에서 당신은 왕국을 확장할 새로운 땅을 찾는 영주입니다. 밀밭, 호수, 산 등 모든 땅을 탐험하여 최적의 땅을 찾아내고, 다른 영주들과 경쟁하여 먼저 차지해야 합니다. 이 게임은 도미노처럼 두 부분으로 나뉜 타일을 사용합니다. 매 턴마다 각 플레이어는 기존 왕국에 연결할 새로운 도미노를 선택하며, 선택한 도미노의 적어도 한 면은 이미 놓여 있는 동일한 지형 유형에 연결되어야 합니다. 누가 먼저 타일을 선택할지는 이전에 선택한 타일에 따라 결정되며, 더 좋은 타일을 선택한 플레이어는 다음 라운드에서 나중에 선택하게 됩니다. 모든 플레이어가 5x5 격자를 완성하면 게임이 종료되며, 점수는 연결된 타일의 수와 가치 있는 왕관 심볼에 따라 계산됩니다.",
+    "year": 2016,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 668,
+    "minTime": 15,
+    "maxTime": 25,
+    "minAge": 8,
+    "weight": 1.23,
+    "rating": 7.1,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Bruno Cathala"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/04/30/1682837122647773_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "킹도미노 타일 분석 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7182&game=7415"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "'킹도미노 확장 - 궁전' P&P파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6741&game=7415"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "킹도미노 타일 종류표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6675&game=7415"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/7415"
+  },
+  {
+    "id": "10661",
+    "slug": "wingspan",
+    "bggId": null,
+    "nameKr": "윙스팬",
+    "nameEn": "Wingspan",
+    "summary": "",
+    "description": "",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 124,
+    "minTime": 40,
+    "maxTime": 70,
+    "minAge": 10,
+    "weight": 2.48,
+    "rating": 7.7,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임",
+      "교육",
+      "동물"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "핸드 관리",
+      "셋 컬렉션"
+    ],
+    "designers": [
+      "Elizabeth Hargrave"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/01/13/1642061418457210_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "점수판",
+        "category": "그외자료",
+        "label": "윙스팬 라운드 점수판 (사이즈 확대 버전)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11321&gameId=10661&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "[자료내림] 윙스팬(WINGSPAN) 한글 룰북(r10) (r17 변경사항 기록)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5624&gameId=10661&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "[자료내림] 윙스팬 한글화 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5685&gameId=10661&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "윙스팬 \"조류사학자\" 자작 수정본입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6076&gameId=10661&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "윙스팬 카드 목록 (ALG, 코보게)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7718&gameId=10661&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/10661"
+  },
+  {
+    "id": "9032",
+    "slug": "azul",
+    "bggId": 230802,
+    "nameKr": "아줄",
+    "nameEn": "Azul",
+    "summary": "전략적인 타일 배치로 왕의 궁전을 꾸며보세요!",
+    "description": "무어인들이 들여온 아줄레호 (원래는 흰색과 파란색의 세라믹 타일)는 포르투갈의 마누엘 1세 국왕이 스페인 남부의 알함브라 궁전을 방문했을 때 무어 양식의 장식 타일의 아름다움에 매료되면서 포르투갈인들에게 널리 받아들여졌습니다. 알함브라 궁전의 내부 아름다움에 압도된 국왕은 즉시 포르투갈에 있는 자신의 궁전도 비슷한 벽 타일로 장식하도록 명했습니다. 타일 시공 예술가인 당신은 에보라 왕궁의 벽을 아름답게 장식하는 임무를 맡게 되었습니다. '아줄' 에서 플레이어들은 차례대로 공급자로부터 색깔 타일을 가져와 자신의 보드에 놓습니다. 라운드가 진행됨에 따라 플레이어들은 타일을 배치하여 궁전을 장식한 방식에 따라 점수를 얻습니다. 특정 패턴을 만들거나 세트를 완성하면 추가 점수를 얻고, 타일을 낭비하면 점수가 깎입니다. 게임이 끝날 때 가장 많은 점수를 얻은 플레이어가 승리합니다.",
+    "year": 2017,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 242,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 8,
+    "weight": 1.77,
+    "rating": 7.5,
+    "gameType": "추상전략, 가족",
+    "categories": [
+      "추상전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Michael Kiesling"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/07/1616026481-610481.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "아줄 룰요약입니다 근본카드사이즈",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9470&game=9032"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "DSP 2018 구디 박스 - 아줄 프로모 규칙서 한국어 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6817&game=9032"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아줄 한국어 규칙서+조커 타일 규칙",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3993&game=9032"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/9032"
+  },
+  {
+    "id": "17567",
+    "slug": "black-friday",
+    "bggId": 388838,
+    "nameKr": "블랙 프라이데이",
+    "nameEn": "Black Friday",
+    "summary": "요동치는 주식 시장에서 주식을 거래하고, 금을 구매하여 승리를 쟁취하세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 146,
+    "minTime": 45,
+    "maxTime": 60,
+    "minAge": 12,
+    "weight": 2.73,
+    "rating": 7.7,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Friedemann Friese"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/08/12/1691775698821005_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[블랙프라이데이] 리테마(주식 토큰, 주식 시장 거치대, M.I.B.S. 요약)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11336&game=17567"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "M.I.B.S. 규칙 요약표 블프 스타일로 만들어 봤어요:)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11130&game=17567"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[룰요약] 블랙프라이데이",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10948&game=17567"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "블랙 프라이데이 기업 토큰(원형) 스티커 이미지",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10921&game=17567"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "블랙 프라이데이) 주식 게임 리테마 자료 공유합니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10325&game=17567"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "(20250823 수정) A4 한장으로 요약해봤습니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9581&game=17567"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[블랙 프라이데이] 기업 로고 스티커",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9440&game=17567"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "블랙 프라이데이 '기업 마커'",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9431&game=17567"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[블랙 프라이데이] 오토마(M.I.B.S.) 규칙 요약표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9357&game=17567"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17567"
+  },
+  {
+    "id": "17628",
+    "slug": "perch",
+    "bggId": null,
+    "nameKr": "퍼치",
+    "nameEn": "Perch",
+    "summary": "",
+    "description": "",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 709,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 14,
+    "weight": 2.45,
+    "rating": 7.0,
+    "gameType": "",
+    "categories": [
+      "동물"
+    ],
+    "mechanics": [
+      "조립 보드",
+      "덱,백,풀 빌딩",
+      "변화하는 게임 세팅"
+    ],
+    "designers": [
+      "Douglas Hettrick"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2024/01/19/1705668024965552_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17628"
+  },
+  {
+    "id": "12714",
+    "slug": "formosa-tea",
+    "bggId": 287941,
+    "nameKr": "대만 차 연대기",
+    "nameEn": "Formosa Tea",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 734,
+    "minTime": 40,
+    "maxTime": 90,
+    "minAge": 12,
+    "weight": 3.41,
+    "rating": 7.0,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Chu-Lan Kao"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/07/15/1689417014898908_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "대만차연대기 2판 솔로 규칙(공식)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11562&game=12714"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "대만차연대기 Tee Tree 확장, Domestic Market 확장",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11556&game=12714"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "대만차연대기 2판 규칙서 수정사항",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11555&game=12714"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "대만차연대기 보드 및 인물 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7180&game=12714"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/12714"
+  },
+  {
+    "id": "19546",
+    "slug": "the-yellow-house",
+    "bggId": 420385,
+    "nameKr": "옐로우 하우스",
+    "nameEn": "The Yellow House",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 3004,
+    "minTime": 20,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.5,
+    "rating": 5.9,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Geonil"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/06/29/1719672378-903138.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19546"
+  },
+  {
+    "id": "21111",
+    "slug": "feya-s-swamp",
+    "bggId": 438442,
+    "nameKr": "페야의 늪",
+    "nameEn": "Feya's Swamp",
+    "summary": "페야의 늪 (Feya's Swamp)에서 플레이어는 늪지대에 사는 부족의 일원이 되어 지역에서 가장 번영하는 부족이 되는 것을 목표로 합니다.",
+    "description": "페야의 늪 (Feya's Swamp)에서 플레이어는 늪지대에 사는 부족의 일원이 되어 지역에서 가장 번영하는 부족이 되는 것을 목표로 합니다. 성공하려면 최적의 어장과 정착지를 찾아내고 적절한 교역 상대를 선택하는 등 주변 환경에 적응해야 합니다. 또한 강력한 신들이 깨어나기를 기다리는 인근의 버려진 사원을 탐험할 수도 있습니다. 이 게임은 총 4라운드로 진행되며, 각 라운드는 수입 단계, 턴 단계, 유지 단계의 세 단계로 구성됩니다. 턴 단계에서는 고유한 캐릭터를 사용하여 부족의 일꾼들을 배치하고, 다양한 행동을 통해 승리 점수를 획득하고 다른 플레이어보다 유리한 위치를 차지할 수 있습니다. 늪을 가로질러 배를 이동시키면서 다양한 행동을 할 수 있습니다. 낚시, 다른 부족과의 교역, 페야에 있는 버려진 사원 탐험, 부족의 능력을 강화할 새로운 정착지 건설 등이 그 예입니다. 늪을 이동하지 않고도 할 수 있는 행동도 있습니다. 예를 들어, 항해술을 개선하여 배의 속도를 높이거나, 각 부족이 물고기를 가져와 승리 점수를 얻는 축제를 개최하거나, 늪에 형성된 작은 섬에 명성을 더하는 새로운 종교 시설을 건설하는 것 등이 있습니다. 주요 목표는 페야의 발전에 가장 크게 기여하는 클랜이 되는 것이며, 이를 달성하기 위해서는 각 게임 세션마다 주어지는 다양한 목표도 충족해야 합니다. 페야의 늪 에는 각 부족이 고유한 능력을 보유하여 게임에 일정한 비대칭성을 도입하는 고급 모드가 포함되어 있습니다.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 489,
+    "minTime": 80,
+    "maxTime": 100,
+    "minAge": 12,
+    "weight": 3.4,
+    "rating": 7.2,
+    "gameType": "",
+    "categories": [
+      "문명",
+      "판타지",
+      "영역 건설",
+      "경제"
+    ],
+    "mechanics": [
+      "플레이어별 특수능력",
+      "일꾼 놓기",
+      "지역 이동",
+      "타일 놓기",
+      "게임 종료 보너스"
+    ],
+    "designers": [
+      "Anselm Ostertag",
+      "Helge Ostertag"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/03/09/1772987895-810236.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "페야의 늪, 물고기*3 3D 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12695&gameId=21111&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21111"
+  },
+  {
+    "id": "11722",
+    "slug": "cartographers",
+    "bggId": 263918,
+    "nameKr": "지도 제작자들",
+    "nameEn": "Cartographers",
+    "summary": "사계절 동안 지도를 제작하여 가장 아름다운 지도를 완성하세요.",
+    "description": "김낙스 여왕은 북부 영토를 수복하라는 명령을 내렸습니다. 여왕의 휘하 지도 제작자인 당신은 이 영토를 지도화하고 날로스 왕국의 영토로 편입시키는 임무를 맡았습니다. 여왕은 공식 칙령을 통해 가장 중요하게 여기는 땅을 발표하며, 당신은 여왕의 요구를 충족시킴으로써 명성을 쌓아야 합니다. 하지만 이 황무지에는 당신 혼자만 있는 것이 아닙니다. 드라굴족은 전초 기지를 건설하여 당신의 영토 주장에 도전하고 있으므로, 그들의 영향력을 줄이기 위해 신중하게 영토 경계를 설정해야 합니다. 여왕이 원하는 영토를 최대한 많이 차지한다면 당신은 왕국 최고의 지도 제작자로 인정받게 될 것입니다. 지도 제작자들 (Cartographers)에서 플레이어들은 네 계절이 지나기 전에 가장 많은 평판 별을 획득하기 위해 경쟁합니다. 각 계절마다 플레이어들은 지도 시트에 그림을 그리고, 계절이 끝나기 전에 여왕의 칙령을 수행하여 평판을 얻습니다. 겨울이 끝날 때 가장 많은 평판 별을 획득한 플레이어가 승리합니다!",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 571,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 10,
+    "weight": 1.88,
+    "rating": 7.1,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Jordy Adan"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/15/1642183429289026_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "지도제작자들 Stonespine Architects 프로모 한글화 자료 공유합니다 (슬라임 수정)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12541&game=11722"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "여러가지 파티게임 간단 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11451&game=11722"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "'지도 제작자들' 맵팩 4 5 6 추가 시트",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10110&game=11722"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "\"지도 제작자들\" 맵 생성 사이트 링크+기존 맵 png 모음",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8289&game=11722"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "지도 제작자들 한글 규칙 수정본",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6224&game=11722"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/11722"
+  },
+  {
+    "id": "2308",
+    "slug": "ciao-ciao",
+    "bggId": 1163,
+    "nameKr": "챠오챠오",
+    "nameEn": "Ciao Ciao",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 1997,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 1941,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 1.09,
+    "rating": 6.3,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Alex Randolph"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1615279396-336725.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/2308"
+  },
+  {
+    "id": "5588",
+    "slug": "stockpile",
+    "bggId": 161614,
+    "nameKr": "스탁파일",
+    "nameEn": "Stockpile",
+    "summary": "공개, 비공개 주가 정보로 주식과 물건을 매매하여 가장 많은 돈을 획득하세요.",
+    "description": "스탁파일 은 싸게 사서 비싸게 파는 전통적인 주식 보유 전략에 여러 가지 추가 메커니즘을 결합하여 빠르고 흥미진진하며 상호작용적인 경험을 제공하는 경제 보드 게임입니다. 스탁파일 (Stockpile)에서 플레이어는 20세기 말 주식 시장 투자자가 되어 벼락부자가 되기를 꿈꿉니다. 게임 종료 시 가장 많은 돈을 가진 투자자가 승자가 됩니다. 스탁파일 은 주식 시장에 대해 모든 것을 아는 사람은 없지만, 누구나 어느 정도는 알고 있다는 전제에 기반합니다. 게임에서 이러한 철학은 내부 정보와 '스탁파일(stockpile)'이라는 두 가지 방식으로 나타납니다. 먼저, 참가자들은 매 라운드마다 내부 정보를 제공받습니다. 이 정보는 라운드 종료 시 주식 가치가 어떻게 변할지를 결정합니다. 주가가 오를지 내릴지 미리 알게 된 각 참가자는 시장 움직임보다 앞서 적절한 시점에 매수 또는 매도하여 수익을 낼 기회를 갖게 됩니다. 둘째, 플레이어들은 스탁파일이라고 불리는 카드 더미에 입찰하여 주식을 구매합니다. 이 스탁파일에는 다른 플레이어들이 놓은 앞면이 보이거나 보이지 않는 카드들이 섞여 있습니다. 따라서 아무도 스탁파일에 있는 모든 카드를 알 수 없습니다. 또한 모든 카드가 좋은 카드는 아닙니다. 거래 수수료 때문에 플레이어들이 입찰가보다 더 많은 돈을 지불해야 할 수도 있습니다. 스탁파일은 주식과 다른 카드들을 경매에 부침으로써 플레이어들 간의 상호작용을 촉진하는데, 특히 내부 정보를 통해 얻을 수 있는 잠재적 이익이 걸려 있을 때 더욱 그렇습니다. 이 두 가지 메커니즘은 모두 주식 시장 요소와 결합되어 플레이어가 주식을 매도할 때 여러 요소를 고려하도록 합니다. 수익성이 좋은 주식 분할을 기대하며 주식을 보유할 것인가, 아니면 회사의 파산을 막기 위해 지금 팔 것인가? 게임이 끝날 때까지 주식을 보유하여 최대 주주가 될 것인가, 아니면 미래의 입찰을 위해 지금 현금 유동성이 필요한가? 한 회사에 집중 투자하여 모든 것을 걸고 위험을 감수할 것인가, 아니면 포트폴리오를 다각화하여 위험을 줄일 것인가? 결국 주식 시장에 대해 어느 정도는 아는 것이 있기 때문에, 모든 것은 전략 실행에 달려 있습니다. 당신은 주식 시장의 움직임을 확실하게 예측하고 헤쳐나갈 수 있을까요? 아니면 잘못된 예측으로 투자 손실을 입게 될까요?",
+    "year": 2015,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      5
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 210,
+    "minTime": 45,
+    "maxTime": 45,
+    "minAge": 13,
+    "weight": 2.12,
+    "rating": 7.5,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Brett Sobol",
+      "Seth Van Orden"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/04/16/1681633697149912_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 1인 솔로모드 참고",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12506&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 한국 기업 리테마 자료입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12479&game=5588"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스탁파일 거대한 충돌(하우스 룰) 1장 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10806&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일) 리테마 버전 추가 및 하우스룰 카드 제작 (수정)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10335&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일) 주식 게임 리테마",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10326&game=5588"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스탁파일 요약(간단) 룰 설명 (펌 내용 수정) [하는법, 규칙, 룰]",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9356&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 풀패키지(본판+프로모+계속되는부패+불법투자) 슬리브 필요 수량",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9354&game=5588"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스탁파일 투자자 요약표 (확장, 프로모 포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8657&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 패러디 리테마 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8475&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일: The Big Crash 한글 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7705&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 본판 + 2확장 + 프로모 원박싱 오거나이저",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7516&game=5588"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스탁파일 투자자 정리",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6957&game=5588"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스탁파일 요약표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3871&game=5588"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스탁파일 한국어 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1428&game=5588"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/5588"
+  },
+  {
+    "id": "17276",
+    "slug": "the-white-castle",
+    "bggId": 371942,
+    "nameKr": "백로성",
+    "nameEn": "The White Castle",
+    "summary": "히메지 하늘에는 백로가 날아다니고, 성 꼭대기에 있는 다이묘는 하인들의 움직임을 지켜본다.",
+    "description": "히메지 하늘에는 백로가 날아다니고, 성 꼭대기에 있는 다이묘는 하인들의 움직임을 지켜본다. 정원사들은 잉어가 살고 있는 연못을 가꾸고, 무사들은 성벽을 지키고, 신하들은 성문에 모여 궁궐 내부로 들어갈 수 있는 알현을 간절히 기다린다. 밤이 되면 등불이 켜지고, 일꾼들은 각자의 가문으로 돌아간다. 백로성(The White Castle) 에서 플레이어는 여러 가문 중 하나를 선택하여 다른 가문보다 더 많은 승점을 획득해야 합니다. 이를 위해서는 궁정에서 영향력을 키우고, 자원을 과감하게 관리하며, 적절한 시기에 적절한 장소에 일꾼을 배치해야 합니다. 이 게임은 셰일라 산토스와 이스라엘 센드레로가 제작했으며, 이들은 데비르와 함께 성공작인 붉은 대성당(The Red Cathedral) 을 디자인한 라마 다이스(Llama Dice)라는 듀오입니다. 이번 작품에서는 이반 4세의 모스크바를 뒤로하고, 현대 일본에서 가장 웅장한 요새인 히메지 성을 탐험합니다. 이곳은 다이묘 사카이 타다키요의 지휘 아래 사카이 가문의 깃발이 휘날리는 곳입니다. 백로성 은 자원 관리, 일꾼 배치, 주사위 굴림을 통한 행동 수행 등의 메커니즘을 갖춘 유로 스타일 게임입니다. 세 라운드에 걸쳐 진행되는 게임에서 플레이어는 자신의 부족 구성원을 정원 가꾸기, 성 방어, 귀족 신분 상승 등의 활동에 투입합니다. 게임이 끝나면 이러한 활동들을 통해 다양한 방식으로 승리 점수를 획득할 수 있습니다. 중앙 패널에는 여러 구역으로 나뉜 히메지 성의 웅장한 모습이 그려져 있습니다. 가장 큰 구역은 성 내부로, 신하들이 다이묘의 총애를 받기 위해 신분 상승을 위해 노력하는 천 개의 양탄자가 있는 방이 있습니다. 또한 정원사들이 정성껏 가꾼 연못과 정원은 누구나 편안하게 휴식을 취하며 그 아름다움을 감상할 수 있는 공간입니다. 성벽과 성 외곽은 무사들이 순찰하고 경비를 서는 중요한 구역입니다. 마지막으로, 세 개의 다리가 있는 구역에는 행동에 사용할 수 있는 세 종류의 주사위가 모이는 곳과 각 플레이어의 개인 영역이 있습니다. 개인 영역에서는 플레이어들이 자신의 자원을 관리하고 일꾼 예비량을 보관합니다. 쉬운 규칙과 세심하게 구성된 배경을 갖춘 ' 백로성 ' 은 다양한 게임 그룹에 어울리는 다재다능한 게임입니다. 라마 다이스 게임의 전통처럼, 세련되고 심플한 디자인 속에 플레이어들이 활용할 수 있는 깊이 있는 전략적 요소가 숨겨져 있습니다.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 49,
+    "minTime": 80,
+    "maxTime": 80,
+    "minAge": 12,
+    "weight": 3.04,
+    "rating": 8.0,
+    "gameType": "전략게임",
+    "categories": [
+      "주사위",
+      "경제",
+      "추상전략"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "일꾼 놓기",
+      "솔로/솔로테어 게임",
+      "변화하는 게임 세팅",
+      "액션 드래프팅"
+    ],
+    "designers": [
+      "Isra C.",
+      "Shei S."
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2024/03/12/1710181536-73292.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "(백로성)세팅 및 액션 요약표(1인플 포함)-1/24일 1인플 수정",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11993&gameId=17276&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "백로성 프로모 3 한글화 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11149&gameId=17276&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "백로성 팬메이드 솔로 번역.(GAME BY. Xavi, BGG포럼에서 발췌. AI/의역)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10085&gameId=17276&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "백로성 리마인드 참조",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11610&gameId=17276&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "백로성 리마인드 참조 [말차확장포함]",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11625&gameId=17276&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17276"
+  },
+  {
+    "id": "13682",
+    "slug": "cubitos",
+    "bggId": null,
+    "nameKr": "큐비토스",
+    "nameEn": "Cubitos",
+    "summary": "",
+    "description": "",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 910,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 14,
+    "weight": 2.17,
+    "rating": 6.9,
+    "gameType": "가족게임",
+    "categories": [
+      "주사위",
+      "레이싱"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "운걸기",
+      "덱,백,풀 빌딩"
+    ],
+    "designers": [
+      "John D. Clair"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/01/29/1643434181567501_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "참조표",
+        "label": "큐비토 카드 한글 참조표입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7500&gameId=13682&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13682"
+  },
+  {
+    "id": "10653",
+    "slug": "quoridor-pac-man",
+    "bggId": 411617,
+    "nameKr": "쿼리도 팩맨",
+    "nameEn": "Quoridor Pac-Man",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 1409,
+    "minTime": 15,
+    "maxTime": 15,
+    "minAge": 8,
+    "weight": 1.82,
+    "rating": 6.6,
+    "gameType": "추상전략",
+    "categories": [
+      "추상전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Mirko Marchesi"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/04/03/1712078643-947538.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/10653"
+  },
+  {
+    "id": "11322",
+    "slug": "kushi-express",
+    "bggId": 264797,
+    "nameKr": "꼬치의 달인",
+    "nameEn": "Kushi Express",
+    "summary": "누구보다 빠르고 정확하게 꼬치를 만들어 꼬치의 달인으로 거듭나세요!",
+    "description": "꼬치의 달인 는 최대한 빨리 꼬치구이를 만드는 게임입니다. 각 플레이어는 재료 모양의 플라스틱 블록 4개(토마토, 고추, 새우, 소고기 스테이크)와 천 조각 2개(치즈, 베이컨)를 가지고 있습니다. 테이블 가운데에는 \"순서\" 카드 한 벌이 놓여 있다. 플레이어가 덱의 맨 위 카드를 공개하는 즉시, 모든 플레이어는 해당 카드에 맞는 꼬치를 만들기 위해 경쟁해야 합니다. 접시에 맞는 꼬치를 가장 먼저 담아낸 플레이어가 카드를 가져갑니다. 플레이어가 10점을 성공적으로 모으면 쿠시의 왕이 되는 것으로 게임이 종료됩니다.",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 1892,
+    "minTime": 20,
+    "maxTime": 20,
+    "minAge": 6,
+    "weight": 1.2,
+    "rating": 6.4,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Yohan Goh"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/02/24/1645642462266563_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/11322"
+  },
+  {
+    "id": "3516",
+    "slug": "splendor",
+    "bggId": 148228,
+    "nameKr": "스플렌더",
+    "nameEn": "Splendor",
+    "summary": "스플렌더(Splendor) 보석 상인 되어 승점 15점을 먼 획득하는 자 이기 엔진 빌딩 게임이다. 1. 개요 인원: 2~4.",
+    "description": "스플렌더(Splendor) 보석 상인 되어 승점 15점을 먼 획득하는 자 이기 엔진 빌딩 게임이다. 1. 개요 인원: 2~4. 승리 조건: 누군가 승점 15 이상 얻으 해당 라운드까지 진행  점수가 가 높 사람 승리한다. 2. 차   있는 행동 ( 1) 보석 가져오: 서로 다른 색상 보석 토큰 3개를 가져오거나, 같 색상 보석 토큰 2 가져온(해당 색상 토큰 4 이상 남아있을 때만 가). 카드 구매하기: 보석 토큰 지불하 바닥이나 손에  개발 카드 구매한다. 구매 카드 영구적인 보석 할인 혜택 제공한다. 카드 예약하기: 바닥 카드 1장을 가져 자기 앞에 뒤집 두고, 황금(조커) 토큰 1개를 받는. 예약 카드 나중 비용 지불하 구매  있다. 3. 주요 요소 개발 카드: 1단계(하급), 2단계(중급), 3단계(상급) 나뉜. 상급일수 요구 비용 높 높 승점 준. 귀 타: 특정 색상 카드 조합(: 파 4, 녹색 4 ) 완성하면 차 종료  귀족이 방문하여 승점 3점을 추 준. 토큰 제한:  플레이어 최 10개의 토큰 보유  있다. 초과  즉시 반납해야 한다. 4. 핵심 전략 초반에는 1단계 카드 모아 보석 할인 기반 닦는. 효율적인 엔진 구축되면 2, 3단계 카드와 귀 타일을 노려 승점 빠르 확보한다.",
+    "year": 2014,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 112,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 1.78,
+    "rating": 7.7,
+    "gameType": "가족게임",
+    "categories": [
+      "카드 게임",
+      "경제",
+      "르네상스"
+    ],
+    "mechanics": [
+      "셋 컬렉션",
+      "계약서",
+      "레이스",
+      "오픈 드래프팅"
+    ],
+    "designers": [
+      "Marc André"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2023/11/19/1700324061316293_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "[룰요약] 스플렌더",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11110&gameId=3516&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "스플렌더 한국어룰북 V1.0 을 공유합니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=594&gameId=3516&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "스플렌더 찬란한 도시 확장 포함 원 박스 보관 오거나이저",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3855&gameId=3516&gamepg="
+      },
+      {
+        "kind": "개인판",
+        "category": "한국어룰북",
+        "label": "스플렌더 플레이 매트입니다.(확장 포함본)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5725&gameId=3516&gamepg="
+      },
+      {
+        "kind": "개인판",
+        "category": "그외자료",
+        "label": "스플렌더 플레이매트 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3499&gameId=3516&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/3516"
+  },
+  {
+    "id": "559",
+    "slug": "lost-cities",
+    "bggId": 50,
+    "nameKr": "로스트 시티",
+    "nameEn": "Lost Cities",
+    "summary": "탐험을 떠나보세요. 하지만 그 모험에 드는 비용보다 얻는 것이 더 클까요?",
+    "description": "로스트 시티 는 코스모스 2인용 카드 시리즈의 한 종류입니다. 원래는 2~10등급의 카드 한 벌로 구성되어 있으며, 다섯 가지 색상으로 나뉘어 있고 각 색상마다 세 가지 특수 카드(\"악수\", 아래 점수 계산 예시에서는 \"HS\")가 있었습니다. 하지만 2018년부터는 여섯 가지 색상의 카드로 구성되었으며, 여섯 번째 색상은 게임 플레이에 선택 사항입니다. 버려진 카드를 정리하고 플레이어들이 자신의 카드 컬렉션을 관리하는 데 도움이 되는 게임판도 포함되어 있습니다. 이 게임의 목표는 색깔별 카드 문양으로 표현된 다양한 유적지에 수익성 있는 고고학 탐험대를 파견하여 점수를 얻는 것입니다. 플레이어는 자신의 차례가 되면 먼저 카드 한 장을 탐험대에 내거나 해당 색깔의 버리는 카드 더미에 버린 다음, 덱에서 또는 버리는 카드 더미의 맨 위에서 카드 한 장을 뽑아야 합니다. 탐험대에 내는 카드는 오름차순이어야 하지만, 연속된 카드일 필요는 없습니다. 악수 카드는 2보다 낮은 숫자로 간주되며 탐험에 대한 투자를 나타냅니다. 따라서 빨간색 4 카드를 냈다면, 다음 차례에는 4보다 높은 다른 빨간색 카드를 낼 수 있지만, 악수 카드, 2, 또는 3 카드는 더 이상 낼 수 없습니다. 이 게임은 덱에서 마지막 카드가 뽑힐 때까지 플레이어들이 번갈아가며 차례를 진행하는 방식으로 진행됩니다. 마지막 카드가 뽑히면 손에 남은 카드는 모두 버리고, 플레이어들은 탐험 점수를 계산합니다. 카드가 한 장 이상 사용된 탐험은 모두 점수를 계산해야 합니다. 탐험에 사용된 카드는 카드 등급에 따라 점수가 부여되며, 악수는 최종 점수에 곱해집니다. 악수 한 번은 탐험 점수를 두 배로, 두 번은 세 배로, 세 번은 네 배로 늘려줍니다. 탐험은 -20점에서 시작하므로, 이득을 보려면 최소 20점 이상의 카드를 탐험에 사용해야 합니다. 만약 점수가 마이너스인 상태에서 악수가 있다면, 곱셈은 여전히 적용됩니다. 카드가 8장 이상 사용된 탐험에는 20점의 보너스 점수가 주어집니다. 로스트 시티 게임은 총 세 번의 매치로 진행되며, 각 매치의 점수를 합산합니다. 점수 계산 예시 1: 탐험대의 점수가 2, 3, 7, 8, 10으로 총 30점입니다. 이 탐험대의 총점은 10점입니다. 즉, 30점에 초기 감점 20점을 더한 값입니다. 점수 계산 예시 2: 탐험대는 HS 2개와 4, 5, 6, 7, 8, 10점을 획득하여 총 40점을 얻었습니다. 이 탐험대는 총 80점입니다. 카드 점수 40점에 초기 -20점, 두 가지 배율에 대한 3배, 그리고 8장 이상의 카드를 사용한 보너스 20점을 더한 점수입니다. 점수 계산 예시 3: 탐험대는 HS 1개와 4, 6, 7점을 받아 총 17점을 얻었습니다. 이 탐험대의 총점은 -6점입니다. (17점에 초기 -20점, 곱셈 계수 2를 더한 값입니다.)",
+    "year": 1999,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 512,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 10,
+    "weight": 1.47,
+    "rating": 7.2,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1613555831-178098.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "수정) 로스트시티 신판 점수 기록지",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12223&game=559"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/559"
+  },
+  {
+    "id": "19937",
+    "slug": "castle-combo",
+    "bggId": 416851,
+    "nameKr": "캐슬 콤보",
+    "nameEn": "Castle Combo",
+    "summary": "카드 드래프트를 통해 최적의 인재 조합으로 라이벌들을 제압하세요!",
+    "description": "캐슬 콤보 는 단순함과 깊이 있고 몰입도 높은 게임 플레이를 결합하여 매우 만족스러운 경험을 제공하는 테이블 빌딩 게임입니다. 각 플레이어는 코인을 사용하여 테이블 위의 두 개의 공개 시장(하부 도시와 상부 도시)에서 9장의 카드를 뽑습니다. 게임이 진행됨에 따라 3x3 크기의 사각형 영역을 형성하게 되며, 이 영역 내의 사람들은 서로 상호작용하여 즉시 효과를 발동시키고 게임 종료 보너스를 제공합니다. 매 턴마다 플레이어는 자신의 진형에 캐릭터를 추가합니다. 언뜻 보기에는 간단해 보이지만, 전략적인 결정에 있어 매우 중요한 역할을 합니다. 플레이어는 열쇠를 신중하게 관리하여 중요한 순간에 전령 말을 움직여야 합니다. 전령 말은 농민과 귀족, 두 가지 영역에서 모집 가능한 캐릭터를 결정하기 때문입니다. 골드 보유량을 균형 있게 유지하는 것 또한 매우 중요하며, 게임 내내 전략에 가장 적합한 캐릭터를 확보할 수 있도록 해야 합니다. 적절한 캐릭터를 선택하는 것은 캐릭터의 즉각적인 효과와 게임 종료 시 획득할 점수를 극대화하는 데 필수적입니다. 마지막으로, 3x3 보드에 캐릭터를 신중하게 배치하는 것은 캐릭터의 잠재력을 최대한 발휘하는 데 핵심적인 요소입니다. 모든 플레이어가 9턴을 마친 후(즉, 모든 플레이어 앞에 9개의 캐릭터가 놓인 후), 자신의 테이블로에서 가장 많은 점수를 얻은 플레이어가 게임에서 승리합니다.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 182,
+    "minTime": 10,
+    "maxTime": 25,
+    "minAge": 10,
+    "weight": 1.74,
+    "rating": 7.6,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Grégory Grard",
+      "Mathieu Roussel"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2025/05/07/1746598498-990462.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "점수판",
+        "category": "자료",
+        "label": "캐슬 콤보 점수계산기",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12991&game=19937"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "캐슬콤보 확장포함 아이콘 갯수",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12482&game=19937"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[캐슬콤보] 구글시트 점수기록지",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11762&game=19937"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "[룰요약] 캐슬콤보",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11231&game=19937"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "캐슬 콤보 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10512&game=19937"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "캐슬콤보 AI번역/검수 및 의역) 문제시 삭제, 상업적 이용X 아이콘 요약표 추가.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10501&game=19937"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19937"
+  },
+  {
+    "id": "17089",
+    "slug": "sky-team",
+    "bggId": 373106,
+    "nameKr": "스카이 팀",
+    "nameEn": "Sky Team",
+    "summary": "점점 가혹해지는 상황에서도 소리 없이 협력하며 비행기를 안전하게 착륙시키세요.",
+    "description": "스카 팀(Sky Team)은 2 전용 협력 보드게임이다. 플레이어 각각 기장 부기장 되어 비행기를 안전하게 착륙시켜 한다. 1. 개요 장르: 2 전용 협력 게임. 승리 조건: 비행기 공항 도달했을  속도, 플랩, 바, 관제탑 연락  모든 조건 충족하여 무사 착륙한다. 패배 조건: 비행기 추락하거, 다른 비행기 충돌하거, 활주로를 지나치 즉시 패배한다. 2. 핵심 규칙 주사 할당: 각자 주사 4개를 굴려 가림막 뒤에 숨긴. 번갈 가 비행 계기판의 특정 칸에 주사위를 배치한다. 통신 제한: 주사위를 배치하는 동안 서로 어떤 주사위를 놓을지 대화할  없다. 오직 상가 놓는 주사 눈을 보고 의도 파악해야 한다. 필수 행동:  라운 '엔진(속도 조절)' '(수평 유)' 칸에 반드 주사위를 놓아 한다.  플레이어가 놓 주사 눈의 합이 차이 따라 기체 상태가 결정된다. 3. 주요 요소 관제탑 연락: 경로상의 다른 비행기를 제거하여 충돌 방한다. 랜딩 기어  플랩: 착륙 전까지 모든 장치 펼쳐 한다. 브레이크: 착륙  비행기를 멈추 위해 미리 성능 강화해야 한다. 커피: 주사 눈을  1 또는 -1 보정하는 자원이다. 4. 구성 기본 몬트리올 공항 외에 난이도 다른 여러 공항 시나리오가 포함되어 있다.  시나리오마다 연료 제한, 강풍, 얼음 활주 등의 특수 규칙 추된다.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 74,
+    "minTime": 15,
+    "maxTime": 15,
+    "minAge": 14,
+    "weight": 2.04,
+    "rating": 7.9,
+    "gameType": "가족, 테마",
+    "categories": [
+      "가족, 테마"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Luc Rémond"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/07/25/1721849492-927713.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스카이팀 비행일지 여권 버전 공유",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12257&game=17089"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[스카이팀] 비행일지(난기류 확장 포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11737&game=17089"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스카이팀 pnp 자료 색상(노란색) 패치",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10158&game=17089"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "스카이팀 룰 요약하였습니다. 56.87사이즈",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9613&game=17089"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스카이팀 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9318&game=17089"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "스카이 팀 추가모듈 PNP 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9278&game=17089"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17089"
+  },
+  {
+    "id": "135",
+    "slug": "carcassonne",
+    "bggId": 822,
+    "nameKr": "카르카손",
+    "nameEn": "Carcassonne",
+    "summary": "카르카손 은 타일 놓기 게임으로, 플레이어들은 남부 프랑스의 풍경이 그려진 타일을 뽑아 배치합니다.",
+    "description": "카르카손 은 타일 놓기 게임으로, 플레이어들은 남부 프랑스의 풍경이 그려진 타일을 뽑아 배치합니다. 타일에는 도시, 길, 수도원, 초원 또는 이들의 조합이 포함될 수 있으며, 이미 놓인 타일과 맞닿아야 합니다. 예를 들어, 도시는 도시와, 길은 길과 연결되도록 배치해야 합니다. 플레이어는 타일을 배치한 후, 자신의 미플(말)을 놓을지 선택할 수 있습니다. 도시에는 기사로, 길에는 도둑으로, 수도원에는 수도사로, 초원에는 농부로 배치할 수 있습니다. 그리고 해당 구역이 완성되면, 해당 미플은 주인에게 점수를 제공합니다. 게임을 진행하는 동안, 플레이어는 \"마지막 미플을 여기 놓아도 될까?\" 또는 \"이 타일을 내 도시를 확장하는 데 쓸까, 아니면 상대의 도시를 방해하는 데 쓸까?\" 같은 전략적 선택을 해야 합니다. 한 턴에 타일 한 장을 놓고 미플을 배치할 수 있기 때문에, 다양한 선택지가 있음에도 불구하고 게임은 빠르게 진행됩니다.",
+    "year": 2000,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 159,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 7,
+    "weight": 1.89,
+    "rating": 7.6,
+    "gameType": "가족게임",
+    "categories": [
+      "영역 건설",
+      "중세"
+    ],
+    "mechanics": [
+      "울타리",
+      "패턴 빌딩",
+      "타일 놓기",
+      "지역 최다 / 영향력",
+      "킬 스틸"
+    ],
+    "designers": [
+      "Klaus-Jürgen Wrede"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2024/02/01/170671827431712_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "그외자료",
+        "label": "카르카손 점수 참조표 (확장 1, 2 포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10338&gameId=135&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "카르카손 - 과수원 확장",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6595&gameId=135&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "카르카손 미니확장 : 통행료 징수인",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6606&gameId=135&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "카르카손 공식 1인플 한국어 규칙서입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7031&gameId=135&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "카르카손 미로 미니 확장 규칙서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7800&gameId=135&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/135"
+  },
+  {
+    "id": "421",
+    "slug": "the-castles-of-burgundy",
+    "bggId": 84876,
+    "nameKr": "버건디의 성",
+    "nameEn": "The Castles of Burgundy",
+    "summary": "다양한 타일을 조합해 효율적인 콤보를 완성하세요!",
+    "description": "2019년 버전은 부르고뉴의 성을 참조하세요. 이 게임은 중세 프랑스의 부르고뉴 지역을 배경으로 합니다. 각 플레이어는 원래 작은 왕국을 지배하는 귀족의 역할을 맡게 됩니다. 게임을 플레이하는 동안 정착지와 강력한 성을 건설하고, 강을 따라 무역을 하고, 은광을 개발하고, 여행자의 지식을 활용하는 것을 목표로 합니다. 이 게임은 플레이어가 게임 보드에서 정착지 타일을 가져와 플레이어 보드에 표시된 자신의 왕국에 배치하는 방식으로 진행됩니다. 모든 타일에는 타일을 왕국에 놓으면 시작되는 기능이 있습니다. 왕국 자체는 여러 지역으로 구성되어 있으며, 각 지역마다 고유한 유형의 정착지 타일이 필요합니다. 게임은 5단계로 진행되며, 각 단계는 5라운드로 구성됩니다. 각 단계는 정착지 타일과 상품 타일로 채워진 게임 보드에서 시작됩니다. 각 라운드가 시작될 때 모든 플레이어는 두 개의 주사위를 굴리고, 현재 차례가 먼저인 플레이어가 상품 배치 주사위를 굴립니다. 상품 주사위를 굴린 결과에 따라 게임 보드에 상품 타일을 놓습니다. 각 라운드 동안 플레이어는 현재 턴 순서대로 차례를 진행합니다. 자신의 차례에 플레이어는 네 가지 행동 유형 중 두 가지를 수행할 수 있습니다: 1) 게임 보드의 번호가 매겨진 창고에서 자신의 주사위 중 하나에 해당하는 합의 타일을 가져와 자신의 플레이어 보드의 준비 영역에 놓거나, 2) 자신의 플레이어 보드의 준비 영역에서 타일의 종류에 해당하는 영역에 있는 자신의 주사위 중 하나와 일치하는 번호가 있고 이전에 놓았던 합의 타일과 인접한 플레이어 보드의 칸으로 합의 타일을 가져가거나, 3) 자신의 주사위 중 하나와 일치하는 번호의 상품을 전달하거나, 4) 플레이어가 자신의 주사위를 조정할 수 있는 작업자 토큰을 받습니다. 이러한 행동 외에도 플레이어는 게임 보드의 중앙 창고에서 정착지 타일을 구입하여 자신의 플레이어 보드의 준비 구역에 놓을 수 있습니다. 행동으로 승리 점수를 획득하면 해당 점수는 즉시 기록됩니다. 각 정착지 타일은 혜택, 추가 행동, 추가 돈, 턴 순서 트랙의 전진, 더 많은 상품 타일, 주사위 굴림 조정 또는 승리 점수를 제공합니다. 한 지역을 정착지 타일로 채우면 보너스 승점이 주어집니다. 게임은 다섯 번째 단계가 완료되면 종료됩니다. 사용하지 않은 돈과 일꾼, 배달되지 않은 상품에 대한 승리 점수가 부여됩니다. 게임 종료 시 특정 정착지 타일의 보너스 승점이 주어집니다. 가장 많은 승점을 획득한 플레이어가 승리합니다. 규칙에는 기본 버전과 고급 버전이 있습니다. 이 게임은 알레아 빅박스 시리즈의 14번째 게임입니다. 2019년 버전에는 별도의 BGG 항목이 있습니다: 부르고뉴의 성들. 2019년 버전에는 다음이 포함됩니다. 2019년 버전에는 별도의 BGG 항목이 있습니다: 부르고뉴의 성들. 2019 에디션에는 기본 게임과 함께 8개의 확장팩이 포함되어 있으며, 그 중 7개는 이미 프로모션 아이템으로 별도로 출시되었고 1개는 2019년에 새롭게 출시되었습니다.",
+    "year": 2011,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 8,
+    "minTime": 30,
+    "maxTime": 90,
+    "minAge": 12,
+    "weight": 3.0,
+    "rating": 8.3,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Stefan Feld"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/07/1585818831-183512.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "버건디의 성 참조표(요약룰) 공유드립니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10683&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "버건디의 성 ZQD 커스텀 맵 (공용맵) 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4530&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "버건디의 성 9번째 확장 : 팀게임 한글룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4508&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "이거 하나면 끝! 도움말 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3914&game=421"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "출력용 지식 타일 요약 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3897&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "1인플 룰(꾸미구미님 개발)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3466&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "<수정되었습니다>(사과문)(데이터 주의!!) 플레이 오거나이저를 품은 버건디의 성 오거나이저",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3416&game=421"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "나름대로 요약 룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2710&game=421"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "로빈슨크루소 / 버건디 / 화이트채플 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2704&game=421"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "버건디의 성(The Castles of Burgundy) 한글참조룰 v2.0",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=102&game=421"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/421"
+  },
+  {
+    "id": "20719",
+    "slug": "rikka",
+    "bggId": 410338,
+    "nameKr": "여섯불꽃",
+    "nameEn": "Rikka",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 843,
+    "minTime": 10,
+    "maxTime": 20,
+    "minAge": 8,
+    "weight": 1.4,
+    "rating": 6.9,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Hashimoto Atsushi (橋本淳志)"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2025/03/16/1742105211-742622.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "여섯불꽃 -하우스룰- 6역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11304&game=20719"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "(수정4)[여섯불꽃] 액션 및 역 정리(하우스 룰 포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11147&game=20719"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20719"
+  },
+  {
+    "id": "13343",
+    "slug": "alma-mater",
+    "bggId": 299960,
+    "nameKr": "알마마터",
+    "nameEn": "Alma Mater",
+    "summary": "대학교 총장이 되어 유능한 교수와 우수한 학생을 유치하여 학교의 명성과 위상을 높이세요.",
+    "description": "새로운 시대가 유럽 대륙에 밝아옵니다. 15세기 초, 종교의 영향력에 대응하여 유럽 곳곳에 새로운 대학이 설립되고 있습니다. 하지만 당시에는 누구도 알지 못했습니다. 이 대학들이 문화적 패러다임 변화를 가져올 르네상스의 첫 불꽃이 될 거라는 사실을요. 여러분은 유럽의 르네상스를 선도할 신흥 대학들의 총장이 됩니다. 여러분의 목표는 명확합니다. 여러분의 대학을 유럽 최고의 명문대로 만드는 것입니다. 다양한 분야에서 최고의 교수진을 유치하고, 우수한 학생들을 모집하며, 다른 대학과 교류하여 교육 수준을 발전시켜야 합니다. 그럼 총장 여러분의 첫 학기를 시작해 볼까요? - 알마마터 규칙서 첫 장 알마마터에서 플레이어는 15세기 독립 대학 중 한곳의 교장이 됩니다. 각 플레이어는 자신이 맡은 대학교의 명성과 위상을 강화해야 합니다. 이러한 목표를 달성하기 위해서 플레이어는 최고의 직원과 학생을 모집하고 다른 학교와 지식을 교환하며 학교의 네 가지 분야에 대한 전문가가 되어야 합니다! -출판사의 desc 설명 상과 영예 2021 MinD-Spielepreis 복합 게임 후보",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 482,
+    "minTime": 90,
+    "maxTime": 150,
+    "minAge": 12,
+    "weight": 3.75,
+    "rating": 7.2,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Antonio Tinto",
+      "Flaminia Brasini",
+      "Virginio Gigli",
+      "Acchittocca",
+      "Stefano Luperto"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/11/1612343561-903864.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "별빛바다 룰북 모음 링크입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7782&game=13343"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "알마마터 미니확장 별빛바다 공식룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7777&game=13343"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "알마마터 요약룰",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7406&game=13343"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13343"
+  },
+  {
+    "id": "258",
+    "slug": "ora-et-labora",
+    "bggId": 70149,
+    "nameKr": "기도하고 일하라",
+    "nameEn": "Ora et Labora",
+    "summary": "중세 수도원 주변의 땅을 개발하기 위해 노동자와 자원을 관리하세요.",
+    "description": "'기도하고 일하라'라는 뜻의 라틴어 'Ora et Labora' 에서 각 플레이어는 중세 시대 수도원의 수장이 되어 토지를 매입하고 건물을 짓습니다. 이러한 작은 사업들을 통해 자원과 이익을 얻습니다. 목표는 효율적인 기반 시설을 구축하고 책, 도자기, 장신구, 유물과 같은 고급 물품을 생산하여 게임 종료 시 가장 많은 승리 점수를 획득하는 것입니다. 우베 로젠베르크의 다섯 번째 \"대작\" 게임인 기도하고 일하라 는 그의 전작인 '르 아브르' 와 유사한 게임 메커니즘을 가지고 있습니다. 예를 들어, 양면으로 된 자원 타일은 기본 아이템에서 더 유용한 아이템으로 업그레이드할 수 있습니다. '아그리콜라' 와 '르 아브르'처럼 턴마다 자원을 보드에 추가하는 대신 , 기도하고 일하라 는 숫자가 적힌 원형 타일을 사용하여 각 자원의 현재 수량을 표시합니다. 매 라운드 시작 시, 플레이어는 원형 타일을 한 칸씩 돌려 모든 자원의 수량을 동시에 조정합니다. 각 플레이어는 개인 게임판을 가지고 있습니다. 새로운 건물들이 게임에 추가되면, 플레이어는 수집한 건축 자재를 사용하여 자신의 게임판에 건물을 지을 수 있습니다. 단, 지형에 따라 건설 가능한 건물 위치가 제한될 수 있습니다. 일부 공간은 '아그리콜라: 무어의 농부들' 처럼 나무나 황무지가 있는 상태로 시작되므로 , 플레이어가 해당 지역을 개간하기 전까지는 개발을 방해하지만, 제거하면 자원을 얻을 수 있습니다. 개인 게임판에 건물을 현명하게 배치하면 최종 점수에 영향을 미치며, 필요한 경우 게임 중에 추가 지형물을 구매할 수도 있습니다. 플레이어는 건물에 들어가 해당 위치와 관련된 행동을 수행할 수 있는 일꾼 세 명을 가지고 있습니다. 일꾼은 세 명 모두 배치될 때까지 제자리에 머물러 있어야 합니다. 자신의 건물에는 일꾼을 투입할 수 있지만, 다른 플레이어의 건물에 들어가려면 해당 플레이어에게 입장료를 지불해야 합니다. 그러면 그 플레이어가 자신의 일꾼 한 명을 건물로 이동시켜 작업을 수행하게 합니다. 기도하고 일하라 는 프랑스와 아일랜드 두 가지 버전으로 제공됩니다.",
+    "year": 2011,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 170,
+    "minTime": 60,
+    "maxTime": 180,
+    "minAge": 13,
+    "weight": 3.89,
+    "rating": 7.6,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/12/1641922743145808_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "기도하고일하라 : 플랑드르&노르망디 - 팬 확장",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10382&game=258"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "기도하고 일하라：리스본 수도원의 작은 기적 - 미니확장 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10305&game=258"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "기도하고 일하라 플레이 인원수에 따른 게임 진행 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1382&game=258"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/258"
+  },
+  {
+    "id": "21270",
+    "slug": "orloj-the-prague-astronomical-clock",
+    "bggId": 429405,
+    "nameKr": "오를로이: 프라하 천문시계",
+    "nameEn": "Orloj: The Prague Astronomical Clock",
+    "summary": "프라하 구시가지 중심부에는 오를로이(Orloj)라 불리는 천문 시계가 있습니다. 복잡한 메커니즘과 수수께끼 같은 인형들로 시간의 흐름을 표시하는 이 시계는, 오늘날까지 살…",
+    "description": "프라하 구시가지 중심부에는 오를로이(Orloj)라 불리는 천문 시계가 있습니다. 복잡한 메커니즘과 수수께끼 같은 인형들로 시간의 흐름을 표시하는 이 시계는, 오늘날까지 살아남은 중세 기술의 경이로움 그 자체입니다. 게임에서 당신은 전설적이고 장엄한 달력 오를로이를 추구하며, 역사에 자신의 흔적을 남기기 위해 경쟁하는 장인 건축가 역할을 맡습니다. 균형, 그리고 우주에 대한 깊은 지식이 복잡한 작업을 완료하는 열쇠가 될 것입니다. 당신이 조립하는 모든 톱니바퀴, 구체(sphere), 그리고 황도 12궁의 표식과 함께, 당신은 도시에서 여러 세대 동안 시간을 알릴 걸작을 완성하는 데 한 걸음씩 나아갈 것입니다. 매 턴마다 플레이어는 시계 다이얼에 일꾼들을 배치하여 자원을 얻고, 오를로이 달력을 건설하는 데 필요한 행동을 수행합니다. 조수를 고용하는 것 외에도, 플레이어는 사도들의 카리용을 건설하고 여러 트랙에 걸쳐 지식을 개발할 수 있으며, 이를 통해 쌓인 경험은 그들의 능력을 더욱 향상시킬 것입니다. 달력이 완성되면 게임이 종료됩니다. 가장 높은 조화 점수를 획득한 플레이어가 최종 승자가 됩니다.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 292,
+    "minTime": 60,
+    "maxTime": 120,
+    "minAge": 14,
+    "weight": 3.33,
+    "rating": 7.4,
+    "gameType": "전략게임",
+    "categories": [
+      "중세",
+      "르네상스"
+    ],
+    "mechanics": [
+      "셋 컬렉션",
+      "일꾼 놓기",
+      "게임 종료 보너스",
+      "변화하는 게임 세팅",
+      "테크 트리 / 테크 트랙"
+    ],
+    "designers": [
+      "Abraham Sanchez Hermida",
+      "Paloma J. Pascual"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/05/07/1778139019-609545.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "참조표",
+        "category": "참조표",
+        "label": "대충 만들어본 오를로이 행동/프리액션 참조표 (수정)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12727&gameId=21270&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "[오를로이: 프라하 천문시계]구글번역을 이용한 룰북 번역입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11628&gameId=21270&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "오를로이 한국판 박스 크기 때문에 해외 3d 오거 출력을 못 하신다구요? 답이 여기 있어요!",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12735&gameId=21270&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "오를로이 카드화 근본사이즈",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11979&gameId=21270&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "참조표",
+        "label": "오를로이 개인 참조표입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12430&gameId=21270&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21270"
+  },
+  {
+    "id": "577",
+    "slug": "yinsh",
+    "bggId": 7854,
+    "nameKr": "인쉬",
+    "nameEn": "Yinsh",
+    "summary": "링을 조각 위로 옮겨 뒤집어 원하는 색상의 조각 5개씩을 줄지어 놓으세요.",
+    "description": "인쉬 에서 각 플레이어는 보드 위에 다섯 개의 고리를 가지고 시작합니다. 고리를 움직일 때마다 그 자리에 마커가 하나씩 남습니다. 마커는 한쪽 면은 흰색이고 다른 쪽 면은 검은색입니다. 고리가 마커를 뛰어넘으면 마커의 색깔을 뒤집어야 하므로 마커의 색깔은 끊임없이 바뀝니다. 플레이어는 자신의 색깔이 위로 향하도록 다섯 개의 마커를 일렬로 만들어야 합니다. 다섯 개의 마커를 일렬로 만드는 데 성공하면, 해당 플레이어는 자신의 고리 하나를 제거하여 일렬을 만들었다는 표시를 합니다. 먼저 세 개의 고리를 제거하는 플레이어가 승리합니다. 즉, 일렬을 만들 때마다 승리에 한 걸음 더 가까워지지만, 동시에 사용할 수 있는 고리가 하나 줄어들기 때문에 약해지기도 합니다. 정말 까다로운 게임이죠!",
+    "year": 2003,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 162,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 9,
+    "weight": 2.63,
+    "rating": 7.6,
+    "gameType": "추상전략",
+    "categories": [
+      "추상전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Kris Burm"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/08/1641106493-140845.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "YINSH 한글 룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9907&game=577"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/577"
+  },
+  {
+    "id": "29",
+    "slug": "trajan",
+    "bggId": 102680,
+    "nameKr": "트라야누스",
+    "nameEn": "Trajan",
+    "summary": "정치·군사·상업을 조율해 로마 제국을 번영으로 이끄는 전략을 펼쳐보세요!",
+    "description": "고대 로마를 배경으로 한 트라야누스 (Trajan)은 플레이어가 정치적 영향력, 무역, 군사적 지배력 및 기타 로마 문화의 중요한 부분과 같은 로마 생활의 다양한 영역에서 영향력과 힘을 키우기 위해 노력하는 개발 게임입니다. 게임의 핵심 메커니즘은 만칼라 또는 '구덩이와 자갈 게임'(pit-and-pebbles games)과 유사한 시스템을 사용합니다. 트라야누스 에서 플레이어는 건설, 무역, 포룸에서 타일 가져가기, 군대 사용하기, 의회에 영향력 행사하기, 자신의 테이블에 트라야누스 타일 놓기 등 여섯 가지 행동을 할 수 있습니다. 게임을 시작할 때 각 플레이어는 자신의 테이블에 있는 6개의 광장에 각각 다른 색의 안건 토큰들을 2개씩 놓습니다. 한 턴에 플레이어는 한 광장에 있는 모든 안건 토큰들을 집어 들고 시계 방향 순서대로 광장에 하나씩 놓습니다. 마지막 안건 토큰을 놓을 때마다 플레이어는 해당 광장과 관련된 행동을 취하고, 해당 광장에 놓인 안건 토큰의 색깔이 광장 옆에 있는 트라야누스 타일에 표시된 색상과 일치하면(게임 시작 시와 이후 행동을 통해 안건 토큰을 배치할 때) 해당 타일에 표시된 추가 행동을 취합니다. 이 행동으로 무엇을 하려고 하나요? 가능한 모든 방법으로 승리 포인트(VP)를 획득하고, Feld 디자인이기 때문에 벌칙을 받지 않으려고 노력해야합니다. 포룸에서는 대중의 요구를 예측하여 그들이 원하는 것을 제공하고 불이익을 받지 않도록 노력해야 합니다. 의회에서는 집정관 관련 법안에 대한 표결에 영향력을 행사하여 장기적인 계획에 부합하는 법안을 통과시킬 수 있습니다. 군대를 통해 유럽 지역을 장악하면 로마에서 멀리 떨어진 지역에서 더 많은 점수를 획득할 수 있습니다. 모든 게임 구성 요소는 언어 중립적이며, 플레이 시간은 플레이어당 30분입니다.",
+    "year": 2011,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 35,
+    "minTime": 60,
+    "maxTime": 120,
+    "minAge": 12,
+    "weight": 3.63,
+    "rating": 8.0,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Stefan Feld"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2023/04/26/1682441562945688_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "트라야누스 게임플레이의 핵심 개념, 최적화 전략, 셀프 체크 리스트",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11939&game=29"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "트라야누스 솔로 규칙과 솔로 카드덱입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11929&game=29"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "트라야누스 룰 요약 수정입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1109&game=29"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "트라야누스 룰 요약입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1097&game=29"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/29"
+  },
+  {
+    "id": "21446",
+    "slug": "stitch-the-fix-for-626",
+    "bggId": 436219,
+    "nameKr": "실험체 626을 위한 해결책",
+    "nameEn": "Stitch: The Fix for 626",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 2247,
+    "minTime": 10,
+    "maxTime": 0,
+    "minAge": 8,
+    "weight": null,
+    "rating": 6.2,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "-"
+    ],
+    "languageDependence": null,
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2025/10/29/1761700100-288178.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21446"
+  },
+  {
+    "id": "5572",
+    "slug": "pandemic-legacy-season-1",
+    "bggId": 161936,
+    "nameKr": "팬데믹 레거시: 시즌 1",
+    "nameEn": "Pandemic Legacy: Season 1",
+    "summary": "전 세계에 변이하는 질병이 확산되고 있습니다 - 당신의 팀은 인류를 구할 수 있을까요?",
+    "description": "팬데믹 레거시는 협동 캠페인 게임으로, 그룹이 게임을 얼마나 잘 하느냐에 따라 12~24개의 세션을 통해 전체적인 스토리 아크를 플레이할 수 있습니다. 게임 초반에는 기본 팬데믹과 매우 유사한 방식으로 시작되며, 질병 퇴치 전문가로 구성된 팀이 전 세계를 돌아다니며 질병이 창궐하는 지역을 치료하고 네 가지 전염병에 대한 치료법을 연구하여 전염병이 더 이상 확산되지 않도록 시간을 다투는 방식으로 진행됩니다. 플레이어의 차례에는 네 가지 행동이 주어지며, 플레이어는 다양한 방식으로 세계를 여행하고(때로는 카드를 버려야 함), 연구소와 같은 구조물을 건설하고, 질병을 치료하고(보드에서 큐브 하나를 제거하며, 같은 색의 큐브가 모두 제거되면 질병이 박멸된 것입니다), 다른 플레이어와 카드를 교환하거나 질병 치료제를 찾습니다(연구소에 있는 동안 같은 색의 카드 5개를 버려야 함). 각 플레이어는 이러한 행동에 도움이 되는 특별한 능력을 가진 고유한 역할을 맡습니다. 플레이어는 자신의 행동을 취한 후 카드 2장을 뽑습니다. 이 카드에는 새로운 질병 큐브를 보드에 배치하는 전염병 카드가 포함될 수 있으며, 전염병이 발생하여 질병 큐브를 더욱 확산시킬 수 있습니다. 전염병이 발생하면 도시의 패닉 레벨이 추가로 증가하여 해당 도시를 여행하는 데 더 많은 비용이 듭니다. 게임에서 매달 그 달의 목표를 달성할 수 있는 기회가 두 번 주어집니다. 성공하면 승리하고 즉시 다음 달로 넘어갑니다. 실패하면 두 번째 기회가 주어지며, 유익한 이벤트 카드를 위한 더 많은 자금을 획득할 수 있습니다. 캠페인 기간 동안 새로운 규칙과 구성 요소가 도입됩니다. 카드에 글씨를 쓰거나, 카드를 찢거나, 구성 요소에 영구 스티커를 붙이는 등 게임의 구성 요소를 영구적으로 변경해야 하는 경우도 있습니다. 캐릭터는 새로운 스킬을 얻거나 해로운 효과를 얻을 수 있습니다. 심지어 캐릭터가 완전히 사라져 더 이상 플레이할 수 없게 될 수도 있습니다.",
+    "year": 2015,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 3,
+    "minTime": 60,
+    "maxTime": 60,
+    "minAge": 13,
+    "weight": 2.83,
+    "rating": 8.4,
+    "gameType": "전략, 테마",
+    "categories": [
+      "전략, 테마"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Rob Daviau",
+      "Matt Leacock"
+    ],
+    "languageDependence": "많음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/04/07/1712424660-580537.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "팬데믹 레거시 1 캐릭터 및 행동 정리 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10661&game=5572"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "팬데믹 레거시 시즌1 Q&A (수정보완)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4355&game=5572"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "팬데믹 레거시 FAQ",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2475&game=5572"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "팬데믹 레거시 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1835&game=5572"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "팬데믹 레거시 스티커 참조표??",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1645&game=5572"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "팬데믹 레거시 규칙서 스티커 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1558&game=5572"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "팬데믹 레거시 규칙서 (NO spoiler ONLY)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1552&game=5572"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/5572"
+  },
+  {
+    "id": "11971",
+    "slug": "azul-summer-pavilion",
+    "bggId": 287954,
+    "nameKr": "아줄: 여름 별장",
+    "nameEn": "Azul: Summer Pavilion",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "아줄: 여름 별장(Azul: Summer Pavilion)은 아줄 시리즈의  번째 작품으로, 마름모꼴 타일을 사용하여 육각  모양 완성하는 게임이다. 1. 개요 인원: 2~4. 승리 조건: 6라운 종료  가 높 점수 획득 플레이어가 승리한다. 2. 주요 차이 (기존 아줄 대) 와일드카드(조커): 라운드마 특정 색상 하나가 와일드카드 지정된.  타일 어떤 색상 별을 채울 때도 사용  있다. 타 보: 라운 종료  사용하 않 타일을 최 4개까지 다음 라운드로 이월  있다. 배치 방식: 타일을 가져오 단계와 배치하는 단계가 완전 분리되어 있다. 3. 게임 단계 타 획득: 진열대 중앙에서 같 색상 타일을 모두 가져온. 와일드카드가 섞여 있다 1개만 함께 가져온. 타 배치: 모든 플레이어가 타 획득 마치 번갈 가 자신 보드 배치한다. 별의  칸에 숫자가 적 있으(1~6), 해당 숫자만큼 타일을 지불해 1개를 배치  있다. 추 타 보너: 보드판의 특정 문양(기둥, 조각, 창문) 주위 타일로 둘러싸면 중앙 공급처에 보너 타일을 즉시 가져온. 4. 점수 계산 배치 점수: 타일을 놓을  해당 타일과 연결 타일의 개수만큼 점수 얻는. 보너 점수: 게임 종료   하나 완벽 채우거나(색상 상이), 1~4 숫자 모두 채운 경우 추 점수 받는. 감점: 사용하 못하 남 타일 개당 -1 처리된다. 5. 핵심 전략 와일드카드 효율적으 모아 높 숫자(5, 6) 칸을 공략한다. 보너 타일을 가져올  있는 길목 선점하여 타 수급량을 늘린.",
+    "year": 2019,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 501,
+    "minTime": 30,
+    "maxTime": 45,
+    "minAge": 8,
+    "weight": 2.07,
+    "rating": 7.2,
+    "gameType": "추상전략, 가족",
+    "categories": [
+      "추상전략, 가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Michael Kiesling"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/12/1616026539-387032.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "아줄 보너스카드 자료 입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6704&game=11971"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/11971"
+  },
+  {
+    "id": "182",
+    "slug": "ticket-to-ride-nordic-countries",
+    "bggId": 31627,
+    "nameKr": "티켓 투 라이드: 노르딕",
+    "nameEn": "Ticket to Ride: Nordic Countries",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2007,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 3,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 311,
+    "minTime": 30,
+    "maxTime": 60,
+    "minAge": 8,
+    "weight": 1.96,
+    "rating": 7.4,
+    "gameType": "가족",
+    "categories": [
+      "가족"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Alan R. Moon"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/01/31/1643576313621021_lg.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "T2R:집에서 머물러요.(한글화) ,T2R: 제주 (맵)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7564&game=182"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "티켓 투 라이드 - 노르딕 컨트리 노선 카드 부분 한글화",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5165&game=182"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "티켓투 라이드 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2031&game=182"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "한글보드 참조표입니다..",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1225&game=182"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "티켓투라이드 시리즈 게임보드 지명 한국어화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=537&game=182"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/182"
+  },
+  {
+    "id": "13631",
+    "slug": "showdown-tactics",
+    "bggId": 300007,
+    "nameKr": "구룡투",
+    "nameEn": "Showdown Tactics",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "구룡투는 1부 9까 숫자 타일을 사용하여 9번의 대결을 펼치,  많 승점 챙기 플레이어가 승리하는 심리 추리 게임입니. 1. 게임 준n 플레이어 1, 2, 3, 4, 5, 6, 7, 8, 9가 적힌  9개의 타일을 받습니다. 상방에게는 내 가 타일의 숫자가 보이지 않도 배치합니. 2. 게임 진행 ( 9라운) 타 선택:  플레이어 이번 라운드에  타일을 하나 골라 동시(혹 비공개로) 제시합니. 승패 판정: 숫자가  높 플레이어가 해당 라운드에 승리하며 승점 1점을 얻습니다. 결과 공개: 중요 점 승패 결과 알려준다는 것입니다. (: \"플레이어 A 승리!\") 상가 정확 어떤 숫자 냈는지 공개되 않습니다. 참고: 만약 숫자가 같다 무승부 처리됩니. 반복: 사용 타일 제외하고, 남 타일로 다음 라운드를 진행합니. 3. 승리 조건 9라운드 모두 끝났 , 승점  높 사람 최종 승리합니. 만약 중간  플레이어가 이미 과반(5) 확보했다 게임 조기 종료되기 합니.",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 2,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [],
+    "rank": 1796,
+    "minTime": 15,
+    "maxTime": 15,
+    "minAge": 8,
+    "weight": 1.0,
+    "rating": 6.4,
+    "gameType": "추상전략",
+    "categories": [
+      "추상전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Paul JH Bang"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/04/28/1714309766-212828.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13631"
+  },
+  {
+    "id": "6550",
+    "slug": "a-feast-for-odin",
+    "bggId": 177736,
+    "nameKr": "오딘을 위하여",
+    "nameEn": "A Feast for Odin",
+    "summary": "북구의 바람 속에서 자원을 모아 영광을 넓혀가는 깊이 있는 확장 전략을 경험해보세요!",
+    "description": "오딘을 위하여 (A Feast for Odin)은 바이킹의 생활과 항해, 약탈, 식민 개척까지 문화적 배경을 담은 대서사시 같은 전략 게임이다. 바이킹은 단순한 약탈자가 아니라 탐험가이자 국가를 세운 집단이었고, 열악한 농업 환경이 그들을 바다로 이끌었다. 게임에서는 새로운 땅을 탐험하고 약탈하며, 다양한 자원을 모아 자신의 사회적 기반을 다진다. 최종 목표는 가장 높은 가치를 지닌 재산을 완성하는 것이다. 게임은 점수 중심의 구조로, 수많은 승리 경로와 선택지가 주어져 있다. 기본 홀에는 큰 페널티 공간이 있어 이를 타일로 덮는 것이 핵심 전략이며, 장홀이나 섬 역시 높은 보상을 주지만 자체 페널티가 있다. 게임은 한 해 단위로 진행되며, 준비 → 일꾼 배치 → 연회 준비의 흐름을 따른다. 61개의 행동 중 선택해 일꾼을 배치하는 것이 중심이며, 열이 오른쪽으로 갈수록 더 많은 일꾼을 요구하지만 더 강력한 효과를 준다. 라운드 끝에는 플랜트류와 채소류를 번갈아 배치해 연회상을 채워야 하고, 녹색·파란 타일을 홀에 배치해 소득을 늘리고 아이콘을 둘러싸며 추가 보상을 얻는다. 게임은 확장과 개발을 오가며 엔진을 구축하는 흐름으로 전개되며, 어떤 위험을 감수해 어떤 보상을 노릴 지에 따라 플레이 방향이 달라진다.",
+    "year": 2016,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 28,
+    "minTime": 30,
+    "maxTime": 120,
+    "minAge": 12,
+    "weight": 3.87,
+    "rating": 8.1,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Uwe Rosenberg"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2026/03/07/1640329574-996804.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "오딘을 위하여 - 신규 섬 세트, 개선된 집 타일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12018&game=6550"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "오딘 참조표(노르웨이 확장포함)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6579&game=6550"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "오딘을 위하여 개인참조표(조잡스러움 주의)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6390&game=6550"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "오딘을 위하여(노르웨이인 확장, 프로모 포함) 타일 참조표 v1.0",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6376&game=6550"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "오딘을 위하여 - 노르웨이인 확장 한글규칙서(자료 내림)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=5419&game=6550"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "오딘을 위하여 미니확장 1 설명서 번역",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4398&game=6550"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "오딘을 위하여 간단요약서(첫플하시는 분께 설명하실거라면..)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4248&game=6550"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "오딘을 위한 잔치 (A Feast for Odin) 한글 룰북 v1.2",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2866&game=6550"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "오딘을 위한 잔치 치트 시트",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=2779&game=6550"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/6550"
+  },
+  {
+    "id": "4357",
+    "slug": "alchemists",
+    "bggId": 161970,
+    "nameKr": "알케미스트",
+    "nameEn": "Alchemists",
+    "summary": "실험과 추리를 통해 연금술의 비밀을 밝혀내고 명성을 쌓아보세요!",
+    "description": "알케미스트 에서는 두 명에서 네 명의 장래가 촉망되는 연금술사들이 신비로운 연금술의 비밀을 밝히기 위해 경쟁합니다. 점수는 다양한 방식으로 얻을 수 있지만, 대부분은 이론, 그것도 정확한 이론을 발표함으로써 얻게 되는데, 바로 여기에 문제가 있습니다. 이 게임은 총 6라운드로 진행됩니다. 각 라운드 시작 시, 플레이어들은 자신의 플레이 순서를 선택합니다. 나중에 플레이하는 플레이어일수록 더 많은 보상을 받습니다. 플레이어들은 다양한 행동 공간에 큐브를 놓아 자신의 행동을 선언하고, 각 행동 공간은 순서대로 평가됩니다. 플레이어들은 스마트폰 앱(iOS, Android, Windows 지원)을 사용하여 재료를 혼합하고 결과를 실험하며 지식을 쌓습니다. 이 앱은 매 게임마다 연금술 규칙을 무작위로 생성합니다. 연금술사들이 더욱 강력한 힘을 원한다면, 마법 유물을 구입하여 추가적인 이점을 얻을 수 있습니다. 유물은 총 9종(매 게임마다 다름)이며, 매우 강력할 뿐만 아니라 가격도 매우 비쌉니다. 하지만 학문적 명예가 걸린 게임에서는 돈은 아무것도 아닙니다! 이러한 유물을 소유하면 명성도 얻을 수 있습니다. 플레이어들은 모험가들에게 품질이 의심스러운 물약을 팔아 돈을 벌 수도 있지만, 돈은 수단일 뿐입니다. 연금술사들이 진정으로 원하는 것은 부가 아니라 존경이며, 존경은 보통 이론을 발표함으로써 얻어집니다. 게임 진행 중 플레이어들의 평판은 오르내립니다. 6라운드와 최종 전시회가 끝나면 평판은 점수로 환산됩니다. 유물과 보조금 획득 시에도 점수가 부여됩니다. 이후 연금술의 비밀이 공개되고, 플레이어들은 자신의 이론이 맞았는지 틀렸는지에 따라 점수를 얻거나 잃습니다. 게임 종료 시 가장 많은 점수를 획득한 플레이어가 승리합니다. 향미 설명: 맨드레이크 뿌리와 전갈 꼬리, 스펀지 같은 버섯과 사마귀 두꺼비 — 이것들이 바로 연금술사의 생계, 과학, 그리고 예술의 근간입니다. 하지만 이 기묘한 재료들은 어떤 불가사의한 비밀을 숨기고 있을까요? 이제 그 비밀을 밝혀낼 시간입니다. 재료들을 섞어 물약을 만들고 마셔 그 효과를 확인해 보세요. 아니면 안전하게 조수에게 시험해 보는 것도 좋겠죠! 떠돌아다니는 모험가들에게 물약을 팔아 부를 축적하고, 그 부를 강력한 유물에 투자하세요. 지식이 쌓일수록 명성도 높아질 것이며, 당신의 이론을 세상에 공개할 때 더욱 빛을 발할 것입니다. 지식, 부, 그리고 명예는 모두 연금술사의 가마솥 속 어두컴컴한 곳에서 찾을 수 있습니다.",
+    "year": 2014,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 60,
+    "minTime": 120,
+    "maxTime": 120,
+    "minAge": 13,
+    "weight": 3.92,
+    "rating": 7.9,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Matúš Kotry"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/06/17/1718561426-847909.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "알케미스트 요약표/물약골렘설명추가",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7374&game=4357"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "물약팔기 속성 추리",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7300&game=4357"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "알케미스트 이해하기 쉽게 풀어 쓴 자료입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6840&game=4357"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "연금술 아카데미, 왕의 골렘 확장 카드 한글화 재업로드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=6006&game=4357"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[알케미스트] 카드 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4841&game=4357"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "연금술사 아카데미 오거나이저(확장no)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=4007&game=4357"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "알케미스트 도움 카드 한글 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=931&game=4357"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/4357"
+  },
+  {
+    "id": "19110",
+    "slug": "seti-search-for-extraterrestrial-intelligence",
+    "bggId": 418059,
+    "nameKr": "세티: 외계의 지성체를 찾아서",
+    "nameEn": "SETI: Search for Extraterrestrial Intelligence",
+    "summary": "우주를 향한 인류의 도전! 최첨단 기술을 활용해 외계 문명의 단서를 포착해보세요.",
+    "description": "세티: 외계의 지성체를 찾아서 (SETI: Search for Extraterrestrial Intelligence)는 1~4명의 플레이어가 즐길 수 있는 유로게임으로, 각 플레이어는 지구 너머 생명체의 흔적을 찾는 임무를 맡은 과학 연구소의 책임자가 됩니다. 이 게임은 현재 존재하거나 새롭게 떠오르는 실제 우주 탐사 기술과 연구 활동에서 영감을 받아 제작되었습니다. 플레이어들은 탐사선을 지구에서 발사해 근처 행성과 그 위성들을 탐험하며, 끊임없이 변화하는 천체의 위치를 전략적으로 활용해야 합니다. 표면에 착륙하여 귀중한 샘플을 직접 수집할 것인지, 아니면 더 광범위한 조사를 위해 궤도에 머무를 것인지 신중하게 결정하세요. 또한, 먼 별 시스템으로 망원경을 향해 외계 신호나 아직 발견되지 않은 외계 행성을 탐색하고, 그 중 유망한 데이터를 지구로 전송하여 심층 연구를 진행할 수도 있습니다. 지구의 연구소에서는 장비를 업그레이드하여 들어오는 데이터를 더욱 효율적으로 분석하고, 망원경의 신호 수신 용량을 확장하거나, 더 많은 자원을 확보할 수 있습니다. 이 모든 활동은 결국 외계 생명체를 발견할 가능성을 높이기 위한 것입니다. 게임에는 200장 이상의 독특한 카드가 제공됩니다. 각 카드는 실제 존재하는 기술, 프로젝트 및 획기적인 발견(국제우주정거장 ISS, 대형 강입자 충돌기, 퍼서비어런스 로버, 보이저 탐사선 등)을 생생한 삽화와 함께 묘사하고 있으며, 이를 통해 탐사 활동을 지원하거나 특정 연구 분야에 집중하여 추가적인 보너스와 보상을 얻을 수 있습니다. 지구 외 생명체의 흔적을 찾는 것은 결국 시간 문제입니다. 플레이어가 가진 자원을 얼마나 전략적이고 효율적으로 활용하는가에 따라, 우리 은하에 숨겨진 외계 생명체에 대한 지식을 넓히는 중대한 과학적 발견에 기여할 수 있을 것입니다. 세티: 외계의 지성체를 찾아서 는 행성 탐사와 천문학, 광활한 우주에서의 생명의 흔적을 찾기 위한 끊임없는 도전, 그리고 우주 속 생명의 본질을 이해하려는 인류의 지속적인 노력에 경의를 표하는 게임입니다.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 2,
+    "minTime": 40,
+    "maxTime": 160,
+    "minAge": 13,
+    "weight": 3.68,
+    "rating": 8.5,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Tomáš Holek"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2026/03/09/1772988477-459259.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 오거 추가 구성?",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=13005&game=19110"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "(솔플)세티+우주기관 요약룰(20260730)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12949&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 확장 카드 아이콘 오류 수정 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12926&game=19110"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "(솔플)세티 본판 세팅 및 룰요약(20260730)-7월30일 수정",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12925&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 2025 에센 슈필 프로모",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12900&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 외계인 랜더마이저",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12878&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 외계종 선택용 랜더마이저 카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12876&game=19110"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "(세티+우주기관확장)합친 룰요약 및 세팅요약(20260719)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12872&game=19110"
+      },
+      {
+        "kind": "참조표",
+        "category": "자료",
+        "label": "세티 시작세팅용 참조표(본판+점수정리/ 확장룰)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12758&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 아크릴 에너지 크레딧 컴포 및 공전궤도 랜더마이저 qr코드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12429&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 미션 임무 브리핑...> 외계 지성체를 찾아서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12372&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[3D] SETI 토큰 업글용 (소스 공개)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11820&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 2쇄 공식 한글룰북 업로드 됐습니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11740&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 팬 메이드 외계인 헵타포드 한글화 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11151&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 외계종 대체 카드 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11150&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[공유]세티 행성모형 받침대 3mf파일 입니다^^",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10995&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 다이스타워 프로모 한글화 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10887&game=19110"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "세티 에라타 수정, 화성 프로모 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10886&game=19110"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "세티 룰 요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10879&game=19110"
+      },
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "세티 카드요약",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10872&game=19110"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19110"
+  },
+  {
+    "id": "19106",
+    "slug": "courtisans",
+    "bggId": null,
+    "nameKr": "궁신",
+    "nameEn": "Courtisans",
+    "summary": "오늘 밤, 여왕은 모두가 참석할 연회를 개최합니다. 그들이 좋은 인상을 남길까요? 중상모략은 공정한 게임이며, 좋아하는 가족을 주목받게 해준다면 어떤 속임수도 그리 더럽지…",
+    "description": "오늘 밤, 여왕은 모두가 참석할 연회를 개최합니다. 그들이 좋은 인상을 남길까요? 중상모략은 공정한 게임이며, 좋아하는 가족을 주목받게 해준다면 어떤 속임수도 그리 더럽지 않습니다. 궁신에서는 각 턴마다 세 장의 카드를 받고 플레이합니다. 한장은 긍정적이든 부정적이든 가문의 영향력을 흔들기 위해서 여왕의 테이블에 놓습니다. 다른 두 카드는 당신의 테이블과 상대방의 테이블에 놓이며, 게임이 끝날 때 가족의 상태에 따라 긍정적이거나 부정적인 점수를 받을 수 있습니다. 누구보다 많은 점수를 받아서 승리하려면 세 장의 카드를 어디에 배치해야 최선인지 선택하세요. -출판사의 desc 설명",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 674,
+    "minTime": 20,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.3,
+    "rating": 7.1,
+    "gameType": "가족게임",
+    "categories": [
+      "카드 게임",
+      "중세"
+    ],
+    "mechanics": [
+      "셋 컬렉션",
+      "빼앗기",
+      "게임 종료 보너스"
+    ],
+    "designers": [
+      "Romaric Galonnier",
+      "Anthony Perone"
+    ],
+    "languageDependence": "간단",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2025/05/27/1748322079-164293.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "궁신 Courtisans 한국어 룰북(자료 내림)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9846&gameId=19106&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "[Courtisans] 궁신 게임 설명서 / 자료 내림",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10550&gameId=19106&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "궁정의 신하들, 커티잔(Courtisans) 미션 카드 한국어화 자료.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9770&gameId=19106&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "요약룰",
+        "label": "궁신(courtisans) 규칙 요약 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11303&gameId=19106&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/19106"
+  },
+  {
+    "id": "682",
+    "slug": "las-vegas",
+    "bggId": 117959,
+    "nameKr": "라스베가스",
+    "nameEn": "Las Vegas",
+    "summary": "라스베가스 는 간단하면서도 짜릿한 주사위 게임으로, 플레이어들은 카지노에 주사위를 배치해 가장 많은 돈을 획득하는 것을 목표로 합니다.",
+    "description": "라스베가스 는 간단하면서도 짜릿한 주사위 게임으로, 플레이어들은 카지노에 주사위를 배치해 가장 많은 돈을 획득하는 것을 목표로 합니다. 직관적인 규칙과 빠른 진행 덕분에 누구나 쉽게 즐길 수 있으며, 운과 전략의 절묘한 균형이 특징입니다. 게임은 6개의 카지노(1~6 숫자가 적힌 카드)로 구성되어 있으며, 각 카지노에는 매 라운드마다 일정 금액의 지폐가 무작위로 배치됩니다. 각 플레이어는 8개의 주사위를 가지고 있으며, 자신의 차례에 모든 주사위를 굴려 한 숫자를 선택해 해당 숫자의 모든 주사위를 해당 카지노에 배치합니다. 이후 다음 플레이어가 같은 방식으로 진행합니다. 한 라운드가 끝나면 각 카지노에서 주사위를 가장 많이 놓은 플레이어가 해당 카지노의 가장 높은 금액을 가져가며, 동일한 개수의 주사위를 놓은 플레이어들은 서로 상쇄되어 제외됩니다. 즉, 치열한 경쟁보다는 남들과 겹치지 않는 영리한 배치가 더 좋은 결과를 가져올 수 있습니다. 게임은 총 4라운드로 구성되며, 최종적으로 가장 많은 돈을 모은 플레이어가 승리합니다. 간단한 게임 진행 순서 요약: 1. 주사위를 모두 굴립니다. 2. 한 숫자를 선택해 해당 숫자의 주사위를 모두 같은 번호의 카지노에 놓습니다. 3. 각 카지노별로 주사위 개수를 비교해 상금을 분배합니다. 4. 4라운드 진행 후 가장 많은 돈을 모은 사람이 승리합니다. 빠른 템포와 긴장감 있는 눈치 싸움, 그리고 매 라운드의 반전이 인상적인 게임입니다. 가족, 친구와 함께 가볍게 즐기기에 아주 좋은 게임입니다.",
+    "year": 2012,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 70,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 8,
+    "weight": 1.17,
+    "rating": 7.9,
+    "gameType": "가족게임",
+    "categories": [
+      "주사위"
+    ],
+    "mechanics": [
+      "주사위 굴림",
+      "지역 최다 / 영향력"
+    ],
+    "designers": [
+      "Rüdiger Dorn"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/wys2/swf_upload/2022/06/16/1655381471867279_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "라스베가스 신판(?)예정 기념 자작 확장판 제작기",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12352&gameId=682&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "라스베가스(하이 소사이어티로 즐기기) 2015.01.20. 수정",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=955&gameId=682&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "라스베가스 슬롯 머신",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11412&gameId=682&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "라스베가스 확장 불러바드 (Las Vegas - Boulevard) 카드한글화 v3.0",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=1280&gameId=682&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "라스베거스 포커칩으로 돈카드 대체하기(tira님 아이디어!)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=3988&gameId=682&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/682"
+  },
+  {
+    "id": "21415",
+    "slug": "deckers",
+    "bggId": 443306,
+    "nameKr": "덱커스",
+    "nameEn": "Deckers",
+    "summary": "데커 팀이 협력하여 서버 네트워크에 해킹하고 방어 시스템을 무력화합니다.",
+    "description": "데커스 에서는 최대 4명까지 팀을 이루어 협력하거나 혼자서 5개의 서버로 구성된 네트워크에 해킹하며, 함께 승리하거나 패배합니다. 네트워크는 사용 가능한 초대형 컴퓨터(SMC) 중 하나에 의해 운영되며, 각각 다른 난이도와 고유한 방어 시스템을 가지고 있어 이를 극복해야 합니다. 서버에 접속하면 각자 특수 능력을 가진 데커 프로필을 맡게 되며, 서버의 공간을 이동하면서 네트워크에 데커 조각을 업로드하여 통제권을 확장하는 동시에 SMC의 조각을 최대한 제거합니다. 매 라운드마다 새로운 목표가 주어지며, 이를 달성하여 우위를 점해야 합니다. 최종 목표를 완수하면 궁극적인 승리를 거머쥡니다.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      1
+    ],
+    "recPlayers": [
+      3
+    ],
+    "rank": 3541,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 12,
+    "weight": 4.0,
+    "rating": 8.2,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Richard Wilkins"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2026/06/10/1781071219-846378.png",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21415"
+  },
+  {
+    "id": "17255",
+    "slug": "barcelona",
+    "bggId": 383607,
+    "nameKr": "바르셀로나",
+    "nameEn": "Barcelona",
+    "summary": "19세기 바르셀로나 확장 작업에 참가하여 도시를 건설하라!",
+    "description": "때는 19세기 중반. 바르셀로나는 유럽에서 가장 인구 밀도가 높은 도시였다. 옛 성벽이 마침내 철거된 직후, 도시 계획의 창시자로 여겨지는 일데폰스 세르다는 바르셀로나에 절실히 필요했던 확장 계획인 '에이샴플레' 건설을 제안했다. 이 계획은 1860년에 착공되었다. 바르셀로나 에서 여러분은 19세기 바르셀로나의 새로운 도시 확장을 담당하는 건축가가 되어 플레이하게 됩니다. 주요 목표는 구시가지를 떠나려는 시민들을 수용할 건물을 짓는 것이며, 그 과정에서 도로를 건설하고, 트램 노선을 만들고, 공공 서비스를 구축하게 됩니다. 또한, 당시 부유층 사이에서 인기를 얻고 있던 새로운 건축 및 예술 양식인 \"모더니즘\"을 탐구해 볼 수도 있습니다. 바르셀로나 는 세 번의 점수 획득 단계를 거친 후 최종 점수 획득 단계로 이어지는 가변적인 라운드 수로 진행됩니다. 매 라운드마다 각 플레이어는 두 가지 이상의 행동, 건물 건설 단계, 그리고 다음 차례를 준비하는 단계로 구성된 한 번의 턴을 갖습니다. 게임 종료 시 가장 많은 점수를 획득한 플레이어가 승리합니다.",
+    "year": 2023,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 421,
+    "minTime": 60,
+    "maxTime": 90,
+    "minAge": 14,
+    "weight": 3.36,
+    "rating": 7.3,
+    "gameType": "전략",
+    "categories": [
+      "전략"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Dani Garcia"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/04/23/1713805315-679839.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "요약표",
+        "category": "자료",
+        "label": "바르셀로나 요약룰입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9778&game=17255"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "Barcelona 한국어룰북",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9052&game=17255"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/17255"
+  },
+  {
+    "id": "478",
+    "slug": "tichu",
+    "bggId": 313051,
+    "nameKr": "티츄",
+    "nameEn": "Tichu",
+    "summary": "티츄 (Tichu)는 정펜(Zheng Fen) 에서 많은 규칙과 메커니즘을 차용했습니다.",
+    "description": "티츄 (Tichu)는 정펜(Zheng Fen) 에서 많은 규칙과 메커니즘을 차용했습니다. 티츄 는 파트너와 함께하는 카드 게임으로, 목표는 손에 든 카드를 모두 소진하는 것이며, 그 과정에서 점수를 얻는 것이 좋습니다. 이 게임은 52장의 표준 카드 덱 하나 또는 두 개를 사용하며, 여기에 개, 봉, 용, 참새와 같은 특수 카드 4장이 추가됩니다. 카드는 라운드 시작 시 8장씩 또는 6장씩 그룹으로 배분됩니다. 자신의 차례가 되면 현재 맨 위에 있는 카드 조합(싱글, 페어, 연속 페어, 풀하우스, 스트레이트)을 이기거나 패스할 수 있습니다. 플레이가 맨 위에 카드를 낸 플레이어에게 다시 돌아오면 그 플레이어는 트릭을 이기고 카드를 모두 치운 다음 트릭을 리드할 수 있습니다. 리드한 카드는 해당 트릭에서 낼 수 있는 유일한 카드 조합을 결정합니다. 따라서 한 장의 카드가 리드되면 한 장씩만 낼 수 있고, 7장의 스트레이트가 리드되면 7장의 스트레이트만 낼 수 있습니다. 한 라운드에서 마지막으로 탈락한 플레이어는 자신이 획득한 모든 카드를 먼저 탈락한 플레이어에게 주고, 마지막 플레이어가 사용하지 않은 카드는 상대 팀에게 넘겨줍니다. 5, 10, 킹은 각각 5점, 10점, 10점이며, 보너스 없이 각 패는 100점입니다. 하지만 보너스가 게임의 승패를 좌우합니다. 각 라운드 시작 시, 플레이어는 카드를 내기 전에 \"스몰 티츄(Tichu)\"라고 외칠 수 있습니다. 이는 해당 플레이어가 이번 라운드에서 자신의 패를 가장 먼저 모두 소진할 수 있다고 생각한다는 것을 의미합니다. 만약 가장 먼저 모두 소진한다면 해당 팀은 100점을 획득하고, 그렇지 못하면 100점을 잃습니다. 또한, 플레이어는 처음 8장의 카드만 보고 \"라지 티츄(Grand Tichu)\"라고 외칠 수 있으며, 이 경우 200점의 보너스를 받고, 그렇지 못하면 100점을 잃습니다. 한 팀의 두 플레이어가 상대 팀의 어느 플레이어보다 먼저 라운드에서 탈락할 경우, 카드 점수는 계산되지 않으며 승리한 팀은 200점을 획득합니다(스몰 티츄/라지 티츄 보너스 및 벌점은 정상적으로 적용됩니다). 먼저 1,000점을 획득하는 팀이 승리합니다.",
+    "year": 1991,
+    "batch": "",
+    "minPlayers": 4,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 81,
+    "minTime": 60,
+    "maxTime": 60,
+    "minAge": 10,
+    "weight": 2.34,
+    "rating": 7.8,
+    "gameType": "전략게임",
+    "categories": [
+      "카드 게임"
+    ],
+    "mechanics": [
+      "핸드 관리",
+      "팀 기반 게임",
+      "사다리 타기",
+      "예측 입찰"
+    ],
+    "designers": [
+      "Urs Hostettler"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2024/06/16/1718472191-873526.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "라지 티츄 / 스몰 티츄 카드 AI 제작",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11065&gameId=478&gamepg="
+      },
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "[티츄] 점수 용지 (2 vs 2)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11162&gameId=478&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "티츄 룰요약 참조카드",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11924&gameId=478&gamepg="
+      },
+      {
+        "kind": "참조표",
+        "category": "참조표",
+        "label": "티츄 신판 일러로 만든 조합, 특수 카드 참조표",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11064&gameId=478&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/478"
+  },
+  {
+    "id": "21287",
+    "slug": "magical-athlete",
+    "bggId": 454103,
+    "nameKr": "야단법석 달리기",
+    "nameEn": "Magical Athlete",
+    "summary": "개성 넘치는 캐릭터들이 펼치는 정신없는 결승선 레이스를 즐겨보세요.",
+    "description": "야단법석 달리기 (Magical Athlete)는 혼돈 그 자체인 레이싱 게임입니다! 주사위를 굴려 나온 숫자만큼 레이서를 이동시키세요. 하지만 모든 레이서는 예측 불가능하고 게임의 흐름을 바꿀 수 있는 기상천외한 능력을 가지고 있습니다. 4번의 레이스를 펼쳐 가장 많은 점수를 획득한 플레이어가 승리 합니다! 경주가 시작되기 전에 플레이어는 게임에 사용할 4명의 레이서를 드래프트 방식으로 선택하고, 각 경주 전에 어떤 레이서를 사용할지 결정합니다. 경주는 보드의 \"평범한\"(mild) 면과 \"험난한\"(wild) 면을 번갈아가며 진행됩니다. 2명의 레이서가 결승선을 통과하면 경주가 종료되며, 일반적으로 이 두 플레이어만 점수를 획득합니다.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 6,
+    "bestPlayers": [
+      6
+    ],
+    "recPlayers": [
+      4
+    ],
+    "rank": 154,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 6,
+    "weight": 1.76,
+    "rating": 7.6,
+    "gameType": "가족, 파티",
+    "categories": [
+      "가족, 파티"
+    ],
+    "mechanics": [],
+    "designers": [
+      "Richard Garfield",
+      "Takashi Ishida"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2026/05/18/1779089850-698981.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "매지컬 애슬릿 Robo Racer 팬메이드 NPC 규칙",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12985&game=21287"
+      },
+      {
+        "kind": "개인판",
+        "category": "자료",
+        "label": "야단법석 달리기 보드게임 몰입도를 200% 끌어올리는 개인 매트 & 참조표 제작기!",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12906&game=21287"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "야단법석 달리기의 캐릭터를 바꿔 봤습니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=12702&game=21287"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "[KBG요청으로 삭제]",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11867&game=21287"
+      },
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "(자료 삭제)매지컬 애슬릿 카드 한글화 A4 출력용 PDF",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11851&game=21287"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21287"
+  },
+  {
+    "id": "13341",
+    "slug": "lost-ruins-of-arnak",
+    "bggId": null,
+    "nameKr": "아르낙의 잊혀진 유적",
+    "nameEn": "Lost Ruins of Arnak",
+    "summary": "미지의 바다에 떠 있는 무인도에서 탐험가들은 위대한 문명의 흔적을 발견했습니다. 이제 여러분은 탐험대를 이끌고 섬을 탐사하며 잃어버린 유물을 찾고, 두려운 수호자들과 맞서…",
+    "description": "미지의 바다에 떠 있는 무인도에서 탐험가들은 위대한 문명의 흔적을 발견했습니다. 이제 여러분은 탐험대를 이끌고 섬을 탐사하며 잃어버린 유물을 찾고, 두려운 수호자들과 맞서 섬의 비밀을 밝혀내야 합니다. 아르낙의 잊혀진 유적 은 덱 빌딩과 일꾼 놓기를 결합한 탐험, 자원 관리, 발견의 게임입니다. 전통적인 덱 빌딩 효과뿐만 아니라, 카드들은 일꾼을 놓는 데도 사용할 수 있으며, 섬을 탐사하면서 새로운 일꾼 놓기 액션이 추가됩니다. 일부 액션은 일꾼 대신 자원을 요구하므로, 탄탄한 자원 기반을 구축하는 것이 필수적입니다. 자신의 차례마다 단 하나의 액션만 수행할 수 있으므로 신중한 선택이 필요합니다. 지금 어떤 행동이 가장 큰 이득을 줄까요? 그리고 나중에 할 수 있을까요... 다른 누군가가 먼저 차지하지 않는다면 말이죠! 덱 크기가 작고, 게임의 랜덤성이 보드 위에서 제공되는 다양한 전략적 선택들로 크게 완화됩니다. 다양한 일꾼 놓기, 유물, 장비 카드 덕분에 매 게임마다 새로운 상황이 연출되며, 플레이어들은 새로운 전략을 시도하며 도전에 맞서야 합니다. 아르낙의 잊혀진 유적의 신비로운 세계를 탐험하세요!",
+    "year": 2020,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      3
+    ],
+    "recPlayers": [
+      2
+    ],
+    "rank": 9,
+    "minTime": 30,
+    "maxTime": 120,
+    "minAge": 12,
+    "weight": 2.93,
+    "rating": 8.2,
+    "gameType": "전략게임",
+    "categories": [
+      "모험",
+      "고대",
+      "탐험",
+      "판타지",
+      "여행"
+    ],
+    "mechanics": [
+      "일꾼 놓기",
+      "덱,백,풀 빌딩",
+      "솔로/솔로테어 게임",
+      "덱을 따라 이동",
+      "계약서"
+    ],
+    "designers": [
+      "Elwen",
+      "Mín"
+    ],
+    "languageDependence": "적당",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2025/05/04/1746339868-557088.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "그외자료",
+        "label": "아르낙 빅박스(3확장) 기본-텐트 현장 맛보기 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11904&gameId=13341&gamepg="
+      },
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "아르낙 솔로 미니 PNP확장, 점수기록지, 룰북 등",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7307&gameId=13341&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "아르낙 프로모 출력 자료",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=7856&gameId=13341&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "아르낙 쥐 프로모 한글화 파일입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11148&gameId=13341&gamepg="
+      },
+      {
+        "kind": "한글화",
+        "category": "한글화자료",
+        "label": "아르낙 쥐 프로모 한글화 (자료내림)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10968&gameId=13341&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/13341"
+  },
+  {
+    "id": "21565",
+    "slug": "everdell-silverfrost",
+    "bggId": 436821,
+    "nameKr": "에버델 은빛 서리",
+    "nameEn": "Everdell Silverfrost",
+    "summary": "눈 덮인 산 너머, 에버델 계곡 남쪽에 은빛 서리가 있습니다!",
+    "description": "은빛 서리 는 에버델 지도 시리즈의 새로운 스탠드얼론 게임입니다. 에버델 계곡 남쪽, 눈 덮인 스파이어크레스트 산맥 너머에는 험준한 은빛 서리 땅이 펼쳐져 있습니다. 이 험난한 지형에 도시를 건설하고 유지하는 것이 당신의 임무입니다. 쌓이는 눈을 치우고, 시민들이 따뜻하고 풍요롭게 살 수 있도록 불을 피우고, 레인저 길드의 중요한 퀘스트를 완료해야 합니다. 은빛 서리 에서는 생물 일꾼들을 보드판, 카드, 또는 산의 다양한 위치로 보내 자원을 모으고 고유한 효과를 발동시킵니다. 이렇게 모은 자원을 사용하여 카드를 앞면이 보이도록 자신의 앞에 내려놓고 자신만의 도시를 건설합니다. 매 턴마다 일꾼 배치, 카드 사용, 또는 다음 계절 준비의 세 가지 행동 중 하나를 선택할 수 있습니다. 당신은 자신의 도시 또는 상대방 도시의 기본 위치, 빨간색 목적지 카드, 대장간, 온천, 또는 산 정상의 봉화대에 일꾼 1명을 배치할 수 있습니다. 단, 눈이나 다른 일꾼으로 막혀 있지 않아야 합니다. 그런 다음 나열된 자원을 획득하거나 행동을 수행합니다. 해당 위치에 눈이 쌓여 있다면, 먼저 불 자원을 소모하여 눈 더미를 치워야 합니다. 특수 일꾼인 레인저를 사용하면, 이미 점유된 위치를 방문하거나, 혼자 위치를 방문할 경우 불 자원을 획득할 수 있습니다. 카드를 내려면 카드에 명시된 자원 비용을 지불해야 합니다. 만약 생물 카드라면, 불을 붙일 수 있는 자원만 있다면 굴뚝 2개 중 하나를 사용하여 무료로 낼 수 있습니다. 카드는 손에 든 카드 또는 보드 위에 앞면이 보이도록 놓인 '계곡' 영역에서 낼 수 있습니다. 은빛 서리 의 거의 모든 카드는 새롭고 강력한 능력을 가지고 있어, 다양한 전략적 깊이와 조합을 탐구할 수 있는 기회를 제공합니다. 모든 일꾼을 배치했다면, 모든 일꾼을 복귀시키고 새로운 일꾼을 얻어 다음 계절에 해당하는 행동을 수행하여 다음 계절을 준비할 수 있습니다. 이러한 행동에는 보드와 도시에 새로운 눈을 내리게 하는 것 외에도 다른 도전 과제들이 포함됩니다. 플레이어는 마지막 계절(봄)을 완료하고 더 이상 행동을 수행할 수 없을 때 게임을 종료합니다. 모든 플레이어가 게임을 완료하면 가장 많은 점수를 획득한 플레이어가 승리합니다.",
+    "year": 2025,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 4112,
+    "minTime": 30,
+    "maxTime": 120,
+    "minAge": 10,
+    "weight": null,
+    "rating": 8.0,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "James A. Wilson",
+      "Clarissa A. Wilson"
+    ],
+    "languageDependence": null,
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2026/07/22/1784680775-402130.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "에버델 실버프로스트 카드 파일",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=11770&game=21565"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/21565"
+  },
+  {
+    "id": "5481",
+    "slug": "ra",
+    "bggId": null,
+    "nameKr": "태양신 라",
+    "nameEn": "Ra",
+    "summary": "라(Ra) 는 고대 이집트를 배경 으로 하는 경매 및 세트 수집 게임입니다. 플레이어는 매 턴마다 입찰 타일(태양)을 사용하여 타일 묶음을 구매할 수 있습니다.",
+    "description": "라(Ra) 는 고대 이집트를 배경 으로 하는 경매 및 세트 수집 게임입니다. 플레이어는 매 턴마다 입찰 타일(태양)을 사용하여 타일 묶음을 구매할 수 있습니다. 한 플레이어가 자신의 태양을 모두 사용하면, 다른 플레이어들도 마찬가지로 태양을 모두 사용할 때까지 입찰을 계속합니다. 이로 인해 라운드 종료 전에 한 명의 플레이어가 경쟁 없이 타일 입찰에 참여하는 상황이 발생할 수 있습니다. 모든 플레이어가 한 시대(에포크)에 할당된 세 묶음을 모두 구매할 기회를 갖기 전에 라운드가 종료될 수 있기 때문에 긴장감이 고조됩니다. 다양한 타일은 즉시 점수를 주거나, 라운드(에포크) 종료 시 특정 종류의 타일이 부족하여 발생하는 감점을 방지하거나, 마지막 라운드 후에 점수를 부여합니다. 게임은 세 \"에포크\"(라운드) 동안 진행됩니다. 게임 방법은 배우기 쉽습니다.",
+    "year": 1999,
+    "batch": "",
+    "minPlayers": 2,
+    "maxPlayers": 5,
+    "bestPlayers": [
+      4
+    ],
+    "recPlayers": [
+      5
+    ],
+    "rank": 137,
+    "minTime": 45,
+    "maxTime": 60,
+    "minAge": 12,
+    "weight": 2.31,
+    "rating": 7.7,
+    "gameType": "전략게임",
+    "categories": [
+      "고대",
+      "신화"
+    ],
+    "mechanics": [
+      "운걸기",
+      "셋 컬렉션",
+      "경매/입찰",
+      "제한된 입찰",
+      "비공개 승점"
+    ],
+    "designers": [
+      "Reiner Knizia"
+    ],
+    "languageDependence": "없음",
+    "imageUrl": "https://boardlife.co.kr/data/photo/2026/04/22/1776835804-424840.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "룰북",
+        "category": "한국어룰북",
+        "label": "태양신 라(이안오툴 아트웍) 규칙서 한글화(내림)",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9025&gameId=5481&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "태양신 라 규칙정리_이안오툴 버젼 ver2.2",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=8934&gameId=5481&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "요약룰",
+        "label": "태양신 라 2쪽짜리 규칙서",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10346&gameId=5481&gamepg="
+      },
+      {
+        "kind": "요약표",
+        "category": "참조표",
+        "label": "\"태양신 라\" 이안오툴 버전 점수 요약표입니다.",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=9144&gameId=5481&gamepg="
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/5481"
+  },
+  {
+    "id": "20444",
+    "slug": "uncharted-passage",
+    "bggId": 434343,
+    "nameKr": "항로개척자",
+    "nameEn": "Uncharted Passage",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2024,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 1,
+    "bestPlayers": [],
+    "recPlayers": [],
+    "rank": 222,
+    "minTime": 30,
+    "maxTime": 30,
+    "minAge": 14,
+    "weight": null,
+    "rating": 7.5,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Bonghwan Ju"
+    ],
+    "languageDependence": null,
+    "imageUrl": "https://img.boardlife.co.kr/data/photo/2024/11/28/1732762585-456361.png",
+    "baseGame": null,
+    "boardlifeFiles": [
+      {
+        "kind": "기타",
+        "category": "자료",
+        "label": "항로개척자 항해일지 잉크 절약 버전 입니다",
+        "url": "https://boardlife.co.kr/bbs_detail.php?tb=info_files&bbs_num=10436&game=20444"
+      }
+    ],
+    "boardlifeUrl": "https://boardlife.co.kr/game/20444"
+  },
+  {
+    "id": "15847",
+    "slug": "the-light-in-the-mist",
+    "bggId": 341519,
+    "nameKr": "안개 속의 빛",
+    "nameEn": "The Light in the Mist",
+    "summary": "게임 소개글을 제안해주세요.",
+    "description": "등록된 설명이 없어요.",
+    "year": 2022,
+    "batch": "",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "bestPlayers": [
+      2
+    ],
+    "recPlayers": [
+      1
+    ],
+    "rank": 3439,
+    "minTime": 300,
+    "maxTime": 500,
+    "minAge": 14,
+    "weight": 2.95,
+    "rating": 10.0,
+    "gameType": "",
+    "categories": [],
+    "mechanics": [],
+    "designers": [
+      "Rita Orlov",
+      "Jack Fallows"
+    ],
+    "languageDependence": "불가",
+    "imageUrl": "https://img.boardlife.co.kr/wys2/swf_upload/2022/07/29/1659031191613814_lg.jpg",
+    "baseGame": null,
+    "boardlifeFiles": [],
+    "boardlifeUrl": "https://boardlife.co.kr/game/15847"
+  }
+]

@@ -1,3 +1,6 @@
+import { notFound } from "next/navigation";
+
+import { SOCIAL } from "@/lib/site";
 import type { Metadata } from "next";
 import { Lock, Trophy } from "lucide-react";
 
@@ -28,6 +31,8 @@ type RecentPlay = {
 };
 
 export default async function RankingPage() {
+  if (!SOCIAL) notFound();
+
   const user = await currentUser();
 
   if (!user) {

@@ -5,6 +5,7 @@ import { ArrowLeft, ExternalLink, FileText } from "lucide-react";
 
 import { GameActions } from "@/components/GameActions";
 import { GameCard } from "@/components/GameCard";
+import { SOCIAL } from "@/lib/site";
 import {
   MATERIAL_KINDS,
   type MaterialKind,
@@ -79,7 +80,7 @@ export default async function GamePage({
 
         {/* --- right: details and actions --- */}
         <aside className="order-1 flex flex-col gap-5 md:order-2">
-          <GameActions game={game} />
+          {SOCIAL && <GameActions game={game} />}
 
           <section className="rounded-2xl border border-line bg-panel p-4">
             <h2 className="mb-3 text-sm font-bold text-ink-dim">

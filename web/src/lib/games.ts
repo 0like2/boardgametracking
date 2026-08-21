@@ -1,5 +1,7 @@
-import rawGames from "../../data/games.json";
+import rawGamesMain from "../../data/games.json";
+import rawGamesB from "../../data/games.b.json";
 import rawMaterials from "../../data/materials.json";
+import { COLLECTION } from "./site";
 
 export type Material = {
   /** 점수판 | 개인판 | 요약표 | 참조표 | 룰북 | 기타 */
@@ -76,7 +78,9 @@ export function materialCount(game: Game): number {
 
 const materialsById = rawMaterials as Record<string, Material[]>;
 
-export const games: Game[] = (rawGames as Omit<Game, "materials">[]).map((g) => ({
+const rawGames = COLLECTION === "b" ? rawGamesB : rawGamesMain;
+
+export const games: Game[] = (rawGames as unknown as Omit<Game, "materials">[]).map((g) => ({
   ...g,
   materials: materialsById[g.id] ?? [],
 }));

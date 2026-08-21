@@ -29,6 +29,27 @@ RLS는 켜두고 정책을 만들지 않습니다 — 서버(service role)만 �
 
 Vercel에 올릴 때는 같은 변수를 프로젝트 환경 변수에 넣으면 됩니다.
 
+## 두 번째 컬렉션
+
+같은 코드가 두 사람의 컬렉션을 서비스합니다. 어느 쪽인지는 코드 분기가 아니라
+Vercel 프로젝트의 환경 변수가 정합니다.
+
+| 변수 | 용도 |
+| --- | --- |
+| `NEXT_PUBLIC_COLLECTION` | 비우면 `data/games.json`(주 컬렉션), `b`면 `data/games.b.json` |
+| `NEXT_PUBLIC_SITE_TITLE` | 헤더·`<title>`·홈화면 설치 이름 |
+
+`b`로 띄운 사이트는 **목록 전용**입니다 — 모임 신청·랭킹·플레이 카드 라우트가
+404를 돌려주고 네비게이션에서도 빠집니다. 그래서 그 프로젝트에는 Supabase도
+알림 채널도 넣을 필요가 없습니다.
+
+두 값 모두 `NEXT_PUBLIC_` 접두사라 **빌드 시점에 박힙니다.** 바꾸면 재배포해야
+반영됩니다.
+
+데이터는 `python export_collection_b.py`로 다시 만듭니다
+(`inputs/collection_b.tsv` = 소장 목록, `inputs/collection_b_ids.json` = 보드라이프 id).
+
+
 ## 데이터 갱신
 
 게임 데이터와 자료는 상위 폴더의 파이썬 파이프라인이 만듭니다. 캐시된 보드라이프

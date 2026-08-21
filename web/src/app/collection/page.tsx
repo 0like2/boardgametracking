@@ -1,3 +1,6 @@
+import { notFound } from "next/navigation";
+
+import { SOCIAL } from "@/lib/site";
 import type { Metadata } from "next";
 
 import { CollectionView } from "@/components/CollectionView";
@@ -9,5 +12,7 @@ export const metadata: Metadata = {
 };
 
 export default function CollectionPage() {
+  if (!SOCIAL) notFound();
+
   return <CollectionView games={games} />;
 }

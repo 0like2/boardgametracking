@@ -4,6 +4,7 @@ import Link from "next/link";
 import "./globals.css";
 
 import { AuthButton } from "@/components/AuthButton";
+import { SITE_TITLE, SOCIAL } from "@/lib/site";
 
 const notoKr = Noto_Sans_KR({
   variable: "--font-noto-kr",
@@ -13,10 +14,12 @@ const notoKr = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: "보드게임 컬렉션",
-  description: "소장 보드게임 목록 · 자료실 · 대여 및 모임 신청",
+  title: SITE_TITLE,
+  description: SOCIAL
+    ? "소장 보드게임 목록 · 자료실 · 대여 및 모임 신청"
+    : "소장 보드게임 목록 · 자료실",
   manifest: "/manifest.webmanifest",
-  appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: "보드게임" },
+  appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: SITE_TITLE },
 };
 
 export const viewport: Viewport = {
@@ -36,29 +39,31 @@ export default function RootLayout({
           <div className="mx-auto flex h-14 max-w-6xl items-center gap-4 px-4">
             <Link href="/" className="flex items-center gap-2 font-black tracking-tight">
               <span className="text-xl">🎲</span>
-              <span>보드게임 컬렉션</span>
+              <span>{SITE_TITLE}</span>
             </Link>
-            <nav className="ml-auto flex items-center gap-1 text-sm">
-              <Link
-                href="/collection"
-                className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
-              >
-                내 카드
-              </Link>
-              <Link
-                href="/ranking"
-                className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
-              >
-                랭킹
-              </Link>
-              <Link
-                href="/requests"
-                className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
-              >
-                신청 현황
-              </Link>
-              <AuthButton />
-            </nav>
+            {SOCIAL && (
+              <nav className="ml-auto flex items-center gap-1 text-sm">
+                <Link
+                  href="/collection"
+                  className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
+                >
+                  내 카드
+                </Link>
+                <Link
+                  href="/ranking"
+                  className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
+                >
+                  랭킹
+                </Link>
+                <Link
+                  href="/requests"
+                  className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"
+                >
+                  신청 현황
+                </Link>
+                <AuthButton />
+              </nav>
+            )}
           </div>
         </header>
 

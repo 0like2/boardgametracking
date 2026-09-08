@@ -28,6 +28,7 @@ export function RequestForm({ type, hidden, fields, submitLabel, successText }: 
   const [values, setValues] = useState<Record<string, string>>({});
   const [state, setState] = useState<"idle" | "sending" | "done">("idle");
   const [error, setError] = useState<string | null>(null);
+  const [notificationFailed, setNotificationFailed] = useState(false);
 
   const [channel, setChannel] = useState<Channel>("당근");
 
@@ -55,6 +56,7 @@ export function RequestForm({ type, hidden, fields, submitLabel, successText }: 
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error ?? "전송에 실패했습니다.");
+      setNotificationFailed(!data.delivered?.includes("discord"));
       setState("done");
     } catch (err) {
       setState("idle");
@@ -70,6 +72,7 @@ export function RequestForm({ type, hidden, fields, submitLabel, successText }: 
         </span>
         <p className="font-bold">신청이 전달됐습니다</p>
         <p className="text-sm text-ink-dim">{successText}</p>
+        {notificationFailed && <p className="text-sm leading-6 text-weight">신청은 저장됐지만 운영자 알림이 전달되지 않았어요. 운영자에게 직접 알려주세요.</p>}
       </div>
     );
   }

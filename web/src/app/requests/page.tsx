@@ -55,7 +55,7 @@ export default async function RequestsPage() {
 
   if (!supabase) {
     error =
-      "Supabase가 아직 연결되지 않았습니다. 신청은 디스코드와 이메일로는 정상 전달됩니다.";
+      "신청 현황을 불러올 수 없습니다. 디스코드 알림 연결 여부는 운영자에게 확인해 주세요.";
   } else {
     const { data, error: dbError } = await supabase
       .from("requests")
@@ -90,6 +90,9 @@ export default async function RequestsPage() {
       <p className="mt-1.5 text-sm text-ink-dim">
         최근 대여 예약과 모임 요청입니다. 게임 카드를 눌러도 신청할 수 있어요.
       </p>
+      <Link href="/azit#reservation" className="mt-4 flex items-center justify-between gap-3 rounded-xl border border-accent/30 bg-accent/5 px-4 py-3 text-sm font-bold text-accent hover:bg-accent/10">
+        <span>아지트 공간 예약 · 실시간 시간표</span><span aria-hidden>→</span>
+      </Link>
 
       {error && (
         <p className="mt-5 rounded-xl border border-line bg-panel px-4 py-3 text-sm text-ink-dim">

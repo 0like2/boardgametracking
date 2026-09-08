@@ -42,6 +42,11 @@ body {
   overscroll-behavior-y: none;
 }
 
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
 /* Numbers line up in stat rows and gauges. */
 .tnum {
   font-variant-numeric: tabular-nums;

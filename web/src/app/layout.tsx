@@ -16,7 +16,7 @@ const notoKr = Noto_Sans_KR({
 export const metadata: Metadata = {
   title: SITE_TITLE,
   description: SOCIAL
-    ? "소장 보드게임 목록 · 자료실 · 대여 및 모임 신청"
+    ? "소장 보드게임 목록 · 자료실 · 보드게임 아지트 공간 예약 · 대여 및 모임 신청"
     : "소장 보드게임 목록 · 자료실",
   manifest: "/manifest.webmanifest",
   appleWebApp: { capable: true, statusBarStyle: "black-translucent", title: SITE_TITLE },
@@ -36,13 +36,16 @@ export default function RootLayout({
     <html lang="ko">
       <body className={`${notoKr.variable} antialiased min-h-dvh flex flex-col`}>
         <header className="sticky top-0 z-40 border-b border-line bg-bg/85 backdrop-blur-md">
-          <div className="mx-auto flex h-14 max-w-6xl items-center gap-4 px-4">
+          <div className="mx-auto flex min-h-14 max-w-6xl flex-wrap items-center gap-x-4 gap-y-2 px-4 py-2">
             <Link href="/" className="flex items-center gap-2 font-black tracking-tight">
               <span className="text-xl">🎲</span>
               <span>{SITE_TITLE}</span>
             </Link>
             {SOCIAL && (
-              <nav className="ml-auto flex items-center gap-1 text-sm">
+              <nav aria-label="주 메뉴" className="flex w-full flex-wrap items-center gap-1 text-sm sm:ml-auto sm:w-auto">
+                <Link href="/azit" className="rounded-lg bg-accent/10 px-3 py-1.5 font-bold text-accent transition-colors hover:bg-accent/20">
+                  아지트 예약
+                </Link>
                 <Link
                   href="/collection"
                   className="rounded-lg px-3 py-1.5 text-ink-dim transition-colors hover:bg-panel hover:text-ink"

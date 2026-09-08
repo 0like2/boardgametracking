@@ -50,7 +50,7 @@ export function RequestForm({ type, hidden, fields, submitLabel, successText }: 
           type,
           ...hidden,
           ...values,
-          // "당근 @gildong" reads clearly in the Discord embed and the email.
+          // Keep the contact channel with the handle in saved requests and Discord alerts.
           contact: `${channel} ${values.contactValue ?? ""}`.trim(),
         }),
       });

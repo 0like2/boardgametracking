@@ -2,7 +2,7 @@
 
 소장 보드게임 122종 목록 · 자료실 · 대여 예약 / 모임 요청 · 플레이 카드 수집.
 
-Next.js 16 + Tailwind 4 + Supabase(선택). PWA로 홈화면에 설치할 수 있습니다.
+Next.js 16 + Tailwind 4 + Supabase. PWA로 홈화면에 설치할 수 있습니다.
 
 ## 실행
 
@@ -13,21 +13,61 @@ npm run dev        # http://localhost:3000
 
 ## 배포 전 설정
 
-`.env.example`을 `.env.local`로 복사하고 채웁니다. **모든 값이 선택 사항이고,
-비어 있는 채널은 그냥 건너뜁니다.** 다만 알림 채널과 Supabase가 전부 비어 있으면
-신청 API가 503을 돌려줍니다 — 아무 데도 안 갔는데 "전달됐습니다"라고 하지 않기 위해서입니다.
+`.env.example`을 `.env.local`로 복사하고 채웁니다. 신청 내역은 Supabase에 저장하고
+새 신청 알림은 Discord 웹후크로 보냅니다. 저장에 실패하면 성공으로 응답하지 않으며,
+Discord 장애가 저장된 예약을 취소하지는 않습니다.
 
 | 변수 | 용도 |
 | --- | --- |
 | `DISCORD_WEBHOOK_URL` | 신청이 오면 디스코드 채널에 임베드로 전송 |
-| `SMTP_USER` / `SMTP_PASSWORD` / `NOTIFY_EMAIL_TO` | 신청 알림 이메일 (Gmail 앱 비밀번호) |
-| `NEXT_PUBLIC_SUPABASE_URL` / `SUPABASE_SERVICE_ROLE_KEY` | 신청 내역 저장 + 「신청 현황」 페이지 |
+| `NEXT_PUBLIC_SUPABASE_URL` / `NEXT_PUBLIC_SUPABASE_ANON_KEY` | 로그인과 실시간 예약 갱신 |
+| `SUPABASE_SERVICE_ROLE_KEY` | 비공개 신청 저장·조회와 관리자 확인 |
 
-Supabase를 쓴다면 `supabase/schema.sql`을 SQL Editor에 붙여넣어 실행하세요.
+아지트 기능을 배포한다면 `supabase/schema.sql`을 SQL Editor에 붙여넣어 실행하세요.
 RLS는 켜두고 정책을 만들지 않습니다 — 서버(service role)만 접근하므로 연락처가
 공개로 새지 않습니다.
 
 Vercel에 올릴 때는 같은 변수를 프로젝트 환경 변수에 넣으면 됩니다.
+
+## 보드게임 아지트 예약
+
+아지트 예약은 Supabase가 필수입니다. 먼저 `supabase/schema.sql`, 다음으로
+`supabase/azit.sql`을 SQL Editor에서 실행합니다. 예약표에는 시간과 상태만 공개되며
+이름·연락처는 service role을 쓰는 서버와 허용된 관리자만 조회합니다. 신청이 저장되면
+기존 `DISCORD_WEBHOOK_URL`로 알림을 보내고, 승인은 웹사이트의 `/azit/admin`에서 합니다.
+아지트 디스코드 알림에는 예약 번호·시간·인원·확인할 조건과 관리 링크만 들어갑니다.
+이름·연락처·메모는 디스코드에 보내지 않습니다. 알림이 실패해도 예약은 유지하며,
+신청자에게 운영자에게 직접 알려달라는 안내를 표시합니다.
+
+관리자는 Supabase Dashboard의 Authentication → Users에서 본인 UUID를 확인한 뒤 SQL
+Editor에서 직접 등록합니다. 이메일·프로필 권한·첫 로그인 사용자를 자동으로 관리자로
+지정하지 않습니다.
+
+```sql
+insert into public.space_admins (user_id)
+values ('Supabase Auth 사용자 UUID')
+on conflict (user_id) do nothing;
+```
+
+예약은 한국시간 10분 단위, 최대 24시간, 90일 이내로 접수합니다. 자정을 넘길 때는 종료
+날짜를 따로 선택해야 합니다. 월 이용권 사용자가 최소 1명 필요하며 관리자가 실제 소유자를 확인한
+뒤 승인합니다. 결제 기능은 없고 주차·심야 동행 요청도 승인 전에 관리자가 확인합니다.
+
+`azit.sql`은 겹치는 접수중/확정 예약을 DB 제약으로 막고 `azit-availability` 주제에
+`booking_changed` 이벤트를 방송합니다. 방송 실패는 예약 저장을 취소하지 않으므로 화면은
+실시간 구독과 주기적 재조회 모두를 사용해야 합니다. DB 제약 확인용 `tests/azit-db.sql`은
+비운영 DB에서 실행하며 마지막에 항상 롤백합니다.
+
+예약 규칙과 API 검사는 Node.js 24에서 실행합니다. API 검사는 저장소·로그인을 대체해
+개인정보 공개 범위, 권한, 접수 실패·충돌을 확인하며 실제 예약을 만들지 않습니다.
+
+```bash
+node --experimental-strip-types --test tests/azit.test.ts tests/azit-api.test.mjs tests/notify.test.ts
+npx tsc --noEmit
+```
+
+공개 시간표는 실시간 신호를 받으면 다시 조회하고, 연결 상태와 무관하게 15초마다
+보완 조회합니다. 실제 DB 충돌 제약·실시간 이벤트는 마이그레이션 적용 후 별도로 확인해야 합니다.
 
 ## 두 번째 컬렉션
 

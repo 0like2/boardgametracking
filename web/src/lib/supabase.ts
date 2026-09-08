@@ -3,8 +3,8 @@ import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 /**
  * Server-side client using the service role key.
  *
- * Returns null when Supabase is not configured — requests still get delivered
- * over Discord/email, they just are not persisted.
+ * Returns null when Supabase is not configured; request APIs must fail instead
+ * of reporting an unsaved reservation as received.
  */
 export function serverSupabase(): SupabaseClient | null {
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;

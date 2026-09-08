@@ -81,6 +81,9 @@ export async function POST(request: Request) {
   } catch {
     return NextResponse.json({ error: "잘못된 요청입니다." }, { status: 400 });
   }
+  if (!body || typeof body !== "object" || Array.isArray(body)) {
+    return NextResponse.json({ error: "잘못된 요청입니다." }, { status: 400 });
+  }
 
   // Honeypot: real people leave this hidden field empty.
   if (str(body.website)) {
@@ -96,36 +99,26 @@ export async function POST(request: Request) {
   }
 
   const supabase = serverSupabase();
-  if (supabase) {
-    const { error } = await supabase.from("requests").insert({
-      type: req.type,
-      name: req.name,
-      contact: req.contact,
-      payload: req,
-    });
-    if (error) console.error("[requests] supabase insert failed:", error.message);
-  }
-
-  const { delivered, failed } = await notify(req);
-
-  // Never tell a visitor "전달됐습니다" when the request went nowhere. With no
-  // channel configured and no database, the submission would vanish silently.
-  if (delivered.length === 0 && !supabase) {
-    console.error(
-      "[requests] dropped — configure DISCORD_WEBHOOK_URL, RESEND_API_KEY, or Supabase",
-    );
+  if (!supabase) {
     return NextResponse.json(
       { error: "지금은 신청을 받을 수 없습니다. 직접 연락 부탁드립니다." },
       { status: 503 },
     );
   }
-
-  if (delivered.length === 0 && failed.length > 0) {
+  const { error } = await supabase.from("requests").insert({
+    type: req.type,
+    name: req.name,
+    contact: req.contact,
+    payload: req,
+  });
+  if (error) {
+    console.error("[requests] supabase insert failed:", error.code ?? "unknown");
     return NextResponse.json(
-      { error: "알림 전송에 실패했습니다. 직접 연락 부탁드립니다." },
-      { status: 502 },
+      { error: "신청을 저장하지 못했습니다. 잠시 후 다시 시도해주세요." },
+      { status: 503 },
     );
   }
 
-  return NextResponse.json({ ok: true, delivered, failed });
+  const { delivered, failed } = await notify(req);
+  return NextResponse.json({ ok: true, saved: true, delivered, failed });
 }

@@ -1,10 +1,6 @@
-/**
- * Fan a submitted request out to Discord and email.
- *
- * Every channel is optional: a channel with no env var configured is skipped
- * rather than failing the request, so the site keeps working before the
- * webhook/API key are filled in.
- */
+import type { BookingInput } from "./azit";
+
+/** Discord is the notification channel; durable reservation data lives in Supabase. */
 
 export type RentalRequest = {
   type: "rental";
@@ -26,18 +22,41 @@ export type MeetupRequest = {
   games: string;
 };
 
-export type AppRequest = RentalRequest | MeetupRequest;
+export type SpaceRequest = BookingInput & {
+  type: "space";
+  bookingId: string;
+  needsHost: boolean;
+};
+
+export type AppRequest = RentalRequest | MeetupRequest | SpaceRequest;
 
 const SITE_NAME = "보드게임 컬렉션";
 
 export function requestTitle(req: AppRequest): string {
+  if (req.type === "space") return "🏠 아지트 예약 접수중";
   return req.type === "rental"
     ? `🎲 대여 예약 · ${req.gameName}`
     : `📣 모임 요청 · ${req.games || "게임 미지정"}`;
 }
 
-/** Ordered label/value pairs, shared by the Discord embed and the email. */
+/** Space notifications omit personal details; the authenticated admin page has them. */
 export function requestFields(req: AppRequest): [string, string][] {
+  if (req.type === "space") {
+    const format = new Intl.DateTimeFormat("ko-KR", {
+      timeZone: "Asia/Seoul", year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", hourCycle: "h23",
+    });
+    return [
+      ["예약 번호", req.bookingId],
+      ["시작 · 한국 시간", format.format(new Date(req.startAt))],
+      ["종료 · 한국 시간", format.format(new Date(req.endAt))],
+      ["인원", `${req.partySize}명 · 월 이용권 ${req.monthlyPassCount}명 (확인 필요)`],
+      ["예상 1일 이용권 비용", `${((req.partySize - req.monthlyPassCount) * 5000).toLocaleString("ko-KR")}원`],
+      ["주차", req.parking ? `${req.parking}대 · 사전 확인 필요` : "없음"],
+      ["심야 동행", req.needsHost ? "00:10–09:00 운영자 동행 확인 필요" : "해당 없음"],
+      ["예약 관리", "[신청 내용 확인 · 승인/취소](https://boardgame-collection-iota.vercel.app/azit/admin)"],
+    ];
+  }
   const common: [string, string][] = [
     ["신청자", req.name],
     ["연락처", req.contact],
@@ -61,11 +80,15 @@ export function requestFields(req: AppRequest): [string, string][] {
 }
 
 async function sendDiscord(req: AppRequest, url: string): Promise<void> {
-  const res = await fetch(url, {
+  const target = new URL(url);
+  target.searchParams.set("wait", "true");
+  const res = await fetch(target, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
+    signal: AbortSignal.timeout(5000),
     body: JSON.stringify({
       username: SITE_NAME,
+      allowed_mentions: { parse: [] },
       embeds: [
         {
           title: requestTitle(req),
@@ -81,82 +104,22 @@ async function sendDiscord(req: AppRequest, url: string): Promise<void> {
     }),
   });
   if (!res.ok) {
-    throw new Error(`Discord webhook failed: ${res.status} ${await res.text()}`);
+    throw new Error(`Discord webhook failed: ${res.status}`);
   }
 }
 
-/** Gmail SMTP with an app password — the same account the Python scraper uses. */
-async function sendEmail(req: AppRequest, password: string): Promise<void> {
-  const user = process.env.SMTP_USER;
-  const to = process.env.NOTIFY_EMAIL_TO ?? user;
-  if (!user) throw new Error("SMTP_USER is not set");
-  if (!to) throw new Error("NOTIFY_EMAIL_TO is not set");
-
-  const rows = requestFields(req)
-    .map(
-      ([k, v]) =>
-        `<tr><td style="padding:6px 14px 6px 0;color:#777;white-space:nowrap">${escapeHtml(
-          k,
-        )}</td><td style="padding:6px 0"><b>${escapeHtml(v)}</b></td></tr>`,
-    )
-    .join("");
-
-  // Imported lazily so the module stays out of the bundle when email is off.
-  const nodemailer = (await import("nodemailer")).default;
-  const transport = nodemailer.createTransport({
-    host: process.env.SMTP_HOST ?? "smtp.gmail.com",
-    port: Number(process.env.SMTP_PORT ?? 587),
-    secure: false, // STARTTLS on 587
-    auth: { user, pass: password },
-  });
-
-  await transport.sendMail({
-    from: `${SITE_NAME} <${user}>`,
-    to,
-    subject: requestTitle(req),
-    html: `<div style="font-family:system-ui,sans-serif;font-size:15px">
-      <h2 style="margin:0 0 14px">${escapeHtml(requestTitle(req))}</h2>
-      <table style="border-collapse:collapse">${rows}</table>
-    </div>`,
-  });
-}
-
-/**
- * Deliver to every configured channel. Returns which ones succeeded so the
- * caller can tell the visitor the request actually landed somewhere.
- */
+/** Notification failure must not turn a successfully saved booking into a failed request. */
 export async function notify(
   req: AppRequest,
 ): Promise<{ delivered: string[]; failed: string[] }> {
-  const jobs: [string, Promise<void>][] = [];
-
   const discordUrl = process.env.DISCORD_WEBHOOK_URL;
-  if (discordUrl) jobs.push(["discord", sendDiscord(req, discordUrl)]);
-
-  const smtpPassword = process.env.SMTP_PASSWORD;
-  if (smtpPassword) jobs.push(["email", sendEmail(req, smtpPassword)]);
-
-  const results = await Promise.allSettled(jobs.map(([, p]) => p));
-  const delivered: string[] = [];
-  const failed: string[] = [];
-
-  results.forEach((r, i) => {
-    const channel = jobs[i][0];
-    if (r.status === "fulfilled") {
-      delivered.push(channel);
-    } else {
-      failed.push(channel);
-      console.error(`[notify] ${channel} failed:`, r.reason);
-    }
-  });
-
-  return { delivered, failed };
-}
-
-function escapeHtml(s: string): string {
-  return s
-    .replace(/&/g, "&amp;")
-    .replace(/</g, "&lt;")
-    .replace(/>/g, "&gt;")
-    .replace(/"/g, "&quot;");
+  if (!discordUrl) return { delivered: [], failed: [] };
+  try {
+    await sendDiscord(req, discordUrl);
+    return { delivered: ["discord"], failed: [] };
+  } catch {
+    // Do not log the webhook URL, credentials or visitor details.
+    console.error("[notify] discord delivery failed");
+    return { delivered: [], failed: ["discord"] };
+  }
 }
